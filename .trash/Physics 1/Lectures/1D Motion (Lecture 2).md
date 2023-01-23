@@ -1,0 +1,25 @@
+- Variables:
+    - Position x and displacement ∆x
+    - Time t and time interval ∆:t
+- Instantaneous or average:
+    - Velocity v vavg
+    - Acceleration a avg
+- Constant acceleration a
+- A change in position is called displacement.
+    - ∆x = x - xi
+- For 1 dim. linear motion
+    - Position
+    - Displacement (sign tells us direction)
+    - ∆x = x - x0
+    - Time: t
+    - Time interval: (sign indicates earlier or later)
+    - ∆t = t - x0
+- Speed: The distance some object can move in a time unit.
+    - Speed = distance move/time elapsed
+- Velocity: This is a vector quantity (needs both direction and magnitude to be defined) and can be defined as the change in displacement (vector quantity) per unit time.
+    - Average velocity is define as: Vavg = x-x0/t-t0 = ∆x/∆t
+- Instantaneous velocity: Is the speed and direction of a moving object.
+- Acceleration (a): Can be defined as the change in velocity of an object from some velocity v0 with initial position x0 at initial time to another velocity v with final position x at final time t.
+![[Untitled(4).png]]
+- Motion with constant acceleration is important?
+    - Because it means that inst. ACC. at any point and time is = the value of the average ACC. over the entire time interval.

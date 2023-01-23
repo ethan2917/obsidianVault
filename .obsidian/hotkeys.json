@@ -1,0 +1,11 @@
+{
+  "app:toggle-left-sidebar": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}

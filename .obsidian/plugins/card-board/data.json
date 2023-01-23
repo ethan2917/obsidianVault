@@ -1,0 +1,35 @@
+{
+  "version": "0.7.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Notes/Spring 23'"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "showFilteredTags": true,
+          "includeUndated": true,
+          "title": "Assignments"
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+## 1. Sci-fi as STS
+- "hard" science fiction: detailed attention to known science and technology.
+- "soft" science fiction: detailed attention to social, psychological, and cultural elements.
+- Speculative fiction:
+	- Stories whose objective is to explore, to discover, to learn, by means of projection, extrapolation, analogue, hypotheses-and-paper-experimentation.
+	- Science fiction is like an experiment. An experiment to try different ideas and topics.
+- The book wrote itself according to Le Guin. She saw it as an experiment between two wills and how it would play out.
+	- She is putting ideas in a conversation with each other and observing the outcome.
+- Sci-fi and STS both work to reveal the way science and society work together.
+- ## The powers of sci-fi:
+	- It can render dynamics visible that aren't visible to everyone.
+	- Sci-fi can talk about things that are hard to talk about.
+	- Sci-fi can project the instituions of today into the future.
+		- What the future may look like if current instituions continue doing what they are doing.
+	- It can imagine new institution.
+		- Other possibilities/new ways the future can look.
+	- Can challenge the taken-for-grantedness of our ways of life.
+	- Can comment more directly on science and technology.
+		- How our technologies shape the world around it.
+## 2. Sci-fi X STS
+- ## Strengths and weeknesses in Sci-fi
+	- Is non-empirical
+		- Not an actual experiment
+	- Lacks explicit theory
+	- Lacks peer review
+	- But is more accessible and flexible as a format when compared to academic writing.
+- Many STS scholars have made use of sci-fi as a tool for imagining how tehnoscience functions, or might function otherwise.
+- ## Ursula K. Le Guin
+- Dealt with themes of power and domination, gender expectations, and morality.
+- ## Lathe of Heaven
+- What is George Orr's job? Why is this important?
+	- He is a draftsman
+	- He can come up with images of how the world should be
+- Who are the main characters named after? What is the significance of these names?
+	- Orr is named after George Orrwell
+	- Haber is named after Fritz Haber
+		- A symbol for unintended consequences in science.
+- What kinds of themes have shown up that might be relevatn to STS?
+	- Static objectivity
+	- Medicalization and trust in medicine.
+		- The power in Haber as a doctor
+	- The question of progress
+		- Orr views progress different than how Haber does
+	- Unintended consequences
+		- What technology does past it original intention.
+	- Why not change the world?
+		- This is a book about two people using their dreams to change the world.
+		- Advice on how we should think about changing the world.

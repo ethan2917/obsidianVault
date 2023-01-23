@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "78f3bb1b279af58b",
+    "type": "split",
+    "children": [
+      {
+        "id": "57843223dde9e48c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Fall 22 Notes/CS1/Lectures/Lecture 15 - Sets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8662937f53083a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "345686145aae0a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0873c68bcaf0e13b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dcf39260a844812",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Technocratic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fe085899c5b07cd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "36b43782f54d6974",
+    "type": "split",
+    "children": [
+      {
+        "id": "e734330f85659e25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39223626dfa21bf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Fall 22 Notes/CS1/Lectures/Lecture 15 - Sets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cc55ea4048dfd89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Fall 22 Notes/CS1/Lectures/Lecture 15 - Sets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63ec8c586f3546b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4be9c8e33fa03f62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Fall 22 Notes/CS1/Lectures/Lecture 15 - Sets.md"
+              }
+            }
+          },
+          {
+            "id": "620ee5830e7bb339",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57843223dde9e48c",
+  "lastOpenFiles": [
+    "Notes/Fall 22 Notes/CS1/Computer Science 1.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 11 - Decisions Part 2.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 10 - Lists Part 2.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 9 - While Loops.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 8 - Lists Part 1.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 7 - Tuples, Modules, Images.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 4 - Using Functions and Methods.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 3 - Python Strings.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 2 - Python As A Calculator.md",
+    "Notes/Fall 22 Notes/CS1/Lectures/Lecture 5 - Python Functions.md"
+  ]
+}
