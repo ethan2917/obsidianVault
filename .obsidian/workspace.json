@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b24f9e17417d929",
+        "id": "b57d3a0d8b01dd1e",
         "type": "tabs",
         "children": [
           {
-            "id": "77c79fdcf22a8967",
+            "id": "0f4d20d04745ed5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/PHIL/lectureNotes/The Nature and Benefits of Philosophy.md",
+                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/lectureNotes/The Nature and Benefits of Philosophy.md"
+                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md"
               }
             }
           },
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/lectureNotes/The Nature and Benefits of Philosophy.md",
+                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/lectureNotes/The Nature and Benefits of Philosophy.md",
+                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +186,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "77c79fdcf22a8967",
+  "active": "0873c68bcaf0e13b",
   "lastOpenFiles": [
-    "Notes/spring23/PHIL/readingNotes/Caring and Epistemic Demands.md",
-    "Notes/spring23/PHIL/lectureNotes/The Nature and Benefits of Philosophy.md",
-    "Notes/spring23/PHIL/lectureNotes/Knowledge and How it Might Be Acquired..md",
-    "Templates/dailyNote.md",
-    "Templates/courseHome.md",
-    "Templates/lectureNotes.md",
-    "Templates/readingNotes.md",
-    "Templates/quickDate.md",
-    "Notes/spring23/DS/lectureNotes/1.0 Introduction to C++, STL, & Strings.md",
-    "Notes/spring23/crashCourseInC++/Lessons/Lesson 1 Types Variables;.md"
+    "Notes/spring23/DS/attachments/5.0 Pointers and Arrays 1.png",
+    "Notes/spring23/DS/attachments/5.0 Pointers and Arrays.png",
+    "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
+    "5.0.md",
+    "Home.md",
+    "Notes/spring23/DS/DS.md",
+    "Notes/spring23/DS/lectureNotes/4.0 Classes Part 2.md",
+    "Notes/spring23/DS/lectureNotes/2.0 STL Strings and Vectors.md",
+    "Notes/spring23/BIOL/lectureNotes/1.2.md",
+    "Notes/spring23/BIOL/BIOL.md"
   ]
 }

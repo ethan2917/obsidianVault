@@ -77,10 +77,10 @@
       "#spring23-21-0-230"
     ],
     "Notes/spring23/DS/DS.md": [
-      "#dataStructures-17-0-225",
-      "#computerScience-17-16-241",
-      "#spring23-17-33-258",
-      "#cplusplus-17-43-268"
+      "#dataStructures-20-0-301",
+      "#computerScience-20-16-317",
+      "#spring23-20-33-334",
+      "#cplusplus-20-43-344"
     ],
     "Notes/spring23/BIOL/BIOL.md": [
       "#biology-18-0-225",
@@ -370,6 +370,39 @@
       "59-93-3503",
       "59-102-3512",
       "59-114-3524"
+    ],
+    "1.3.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39"
+    ],
+    "1.3 Early Evolution on Planet Earth.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/1.2.md": [
+      "2-0-30",
+      "2-9-39",
+      "2-19-49",
+      "76-29-3812",
+      "77-59-3882"
+    ],
+    "4.0 Classes Part 2.md": [
+      "#tag-2-0-28",
+      "15-32-205"
+    ],
+    "5.0 Pointers and Arrays.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#arrays-2-33-61",
+      "#pointers-2-41-69",
+      "#dataStructures-22-43-473"
+    ],
+    "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#arrays-2-33-61",
+      "#pointers-2-41-69",
+      "#dataStructures-180-43-7483"
     ]
   }
 }

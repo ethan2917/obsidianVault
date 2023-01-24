@@ -8,5 +8,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }

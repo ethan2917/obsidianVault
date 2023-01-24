@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMicroscope-line",
+      "RiBook-2-line",
       "RiBooklet-line",
       "RiBook-line",
-      "FasBook-open",
-      "RiComputer-line",
-      "RiMicroscope-line"
+      "FasBook-open"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +28,29 @@
   "Notes/spring23/BIOLLAB": "RiMicroscope-line",
   "Notes/spring23/crashCourseInC++": "RiComputer-line",
   "Notes/spring23/DS": "RiComputer-line",
-  "Notes/spring23/PHIL": "RiBook-line"
+  "Notes/spring23/PHIL": "RiBook-line",
+  "Notes/spring23/PHIL/lectureNotes": {
+    "iconName": "RiBook-line",
+    "inheritanceIcon": "RiBook-line"
+  },
+  "Notes/spring23/PHIL/readingNotes": {
+    "iconName": "RiBook-2-line",
+    "inheritanceIcon": "RiBook-2-line"
+  },
+  "Notes/spring23/PHIL/readingNotes/Caring and Epistemic Demands.md": {
+    "iconName": null,
+    "inheritanceIcon": "RiBook-2-line"
+  },
+  "Notes/spring23/DS/lectureNotes": {
+    "iconName": "RiComputer-line",
+    "inheritanceIcon": "RiComputer-line"
+  },
+  "Notes/spring23/crashCourseInC++/Lessons": {
+    "iconName": "RiComputer-line",
+    "inheritanceIcon": "RiComputer-line"
+  },
+  "Notes/spring23/BIOL/lectureNotes": {
+    "iconName": "RiMicroscope-line",
+    "inheritanceIcon": "RiMicroscope-line"
+  }
 }
