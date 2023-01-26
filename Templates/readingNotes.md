@@ -4,9 +4,6 @@
 ## Date: {{date}}
 Chapter: {{title}}
 
-## Topic 1
-- Thing 1
-
 ## Summary
 
 

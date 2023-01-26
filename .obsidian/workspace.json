@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b57d3a0d8b01dd1e",
+        "id": "27ed1add81d787a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4d20d04745ed5e",
+            "id": "f249fe52cdc13690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
-                "mode": "source",
+                "file": "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md"
+                "file": "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
+                "file": "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
+                "file": "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +186,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0873c68bcaf0e13b",
+  "active": "f249fe52cdc13690",
   "lastOpenFiles": [
-    "Notes/spring23/DS/attachments/5.0 Pointers and Arrays 1.png",
-    "Notes/spring23/DS/attachments/5.0 Pointers and Arrays.png",
-    "Notes/spring23/DS/lectureNotes/5.0 Pointers and Arrays.md",
-    "5.0.md",
+    "Notes/spring23/BIOL/BIOL.md",
+    "Notes/spring23/BIOL/lectureNotes/1.1 Origins of Life and The RNA World.md",
+    "Notes/spring23/BIOL/lectureNotes/1.3 Early Evolution on Planet Earth.md",
+    "Notes/spring23/Spring 23' Home.md",
+    "Notes/spring23/PHIL/PHIL.md",
+    "Notes/spring23/PHIL/Selection from Plato's Republic.md",
+    "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md",
     "Home.md",
-    "Notes/spring23/DS/DS.md",
-    "Notes/spring23/DS/lectureNotes/4.0 Classes Part 2.md",
-    "Notes/spring23/DS/lectureNotes/2.0 STL Strings and Vectors.md",
-    "Notes/spring23/BIOL/lectureNotes/1.2.md",
-    "Notes/spring23/BIOL/BIOL.md"
+    "Templates/readingNotes.md",
+    "Notes/spring23/PHIL/lectureNotes/The Nature and Benefits of Philosophy.md"
   ]
 }

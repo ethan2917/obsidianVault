@@ -9,6 +9,7 @@
 [[Knowing vs. Thinking]]
 [[Puzzling Out Knowledge]]
 [[The Value of Philosophy]]
+[[Selection from Plato's Republic]]
 
 ## Tasks
 ### Incomplete

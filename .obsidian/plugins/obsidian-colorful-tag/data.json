@@ -89,9 +89,9 @@
       "#spring23-18-28-253"
     ],
     "Notes/spring23/PHIL/PHIL.md": [
-      "#humanities-25-0-407",
-      "#phil1110-25-12-419",
-      "#spring23-25-22-429"
+      "#humanities-26-0-443",
+      "#phil1110-26-12-455",
+      "#spring23-26-22-465"
     ],
     "Notes/spring23/crashCourseInC++/crashCourseInC++.md": [
       "#dataStructures-5-0-75",
@@ -380,11 +380,11 @@
       "#biol1010-2-9-39"
     ],
     "Notes/spring23/BIOL/lectureNotes/1.2.md": [
-      "2-0-30",
-      "2-9-39",
-      "2-19-49",
-      "76-29-3812",
-      "77-59-3882"
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#science-2-19-49",
+      "#biol1010-95-29-5371",
+      "#biol1010-96-59-5441"
     ],
     "4.0 Classes Part 2.md": [
       "#tag-2-0-28",
@@ -403,6 +403,29 @@
       "#arrays-2-33-61",
       "#pointers-2-41-69",
       "#dataStructures-180-43-7483"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/1.2 What Is Life.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#science-2-19-49",
+      "#biol1010-95-29-5385",
+      "#biol1010-96-59-5455"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#science-2-19-49",
+      "#biol1010-99-29-5895",
+      "#biol1010-100-59-5965"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/1.3 Early Evolution on Planet Earth.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39"
+    ],
+    "Notes/spring23/PHIL/Selection from Plato's Republic.md": [
+      "#phil1110-2-0-30",
+      "#philosophy-2-10-40",
+      "#plato-2-22-52"
     ]
   }
 }
