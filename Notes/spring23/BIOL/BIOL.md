@@ -3,6 +3,8 @@
 [[1.1 Origins of Life and The RNA World ]]
 [[1.2 What is Life ]]
 [[1.3 Early Evolution on Planet Earth]]
+[[1.4 Evolution Through Natural Selection]]
+
 ## Tasks
 ### Incomplete
 ```tasks

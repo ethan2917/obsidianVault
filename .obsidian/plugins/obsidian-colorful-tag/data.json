@@ -83,10 +83,10 @@
       "#cplusplus-20-43-344"
     ],
     "Notes/spring23/BIOL/BIOL.md": [
-      "#biology-18-0-225",
-      "#biol1010-18-9-234",
-      "#science-18-19-244",
-      "#spring23-18-28-253"
+      "#biology-20-0-315",
+      "#biol1010-20-9-324",
+      "#science-20-19-334",
+      "#spring23-20-28-343"
     ],
     "Notes/spring23/PHIL/PHIL.md": [
       "#humanities-26-0-443",
@@ -426,6 +426,12 @@
       "#phil1110-2-0-30",
       "#philosophy-2-10-40",
       "#plato-2-22-52"
+    ],
+    "Notes/spring23/BIOL/1.4 Evolution Through Natural Selection.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#science-2-19-49",
+      "#evolution-2-28-58"
     ]
   }
 }
