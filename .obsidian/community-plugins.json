@@ -10,7 +10,6 @@
   "obsidian-enhancing-export",
   "graph-analysis",
   "obsidian-outliner",
-  "better-word-count",
   "ninja-cursor",
   "obsidian-style-settings",
   "obsidian-image-gallery",
@@ -25,5 +24,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-icon-folder",
   "obsidian-dictionary-plugin",
-  "obsidian-linter"
+  "obsidian-linter",
+  "better-word-count"
 ]

@@ -6,6 +6,7 @@
 ### Incomplete
 ```tasks
 not done
+due after date(today)
 ```
 ### Overdue
 ```tasks

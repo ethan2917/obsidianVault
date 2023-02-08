@@ -2,7 +2,7 @@
 ## Tags:
 #phil1110 #philosophy #humanities #Russell
 ## Date: 2023-01-22
-## Chapter: The Value of Philosophy
+## Chapter: The Value of Philosophy (Bertrand Russell)
 
 ## Study Questions
 > [!question] Do you agree with Russell that the goods of the mind are at least as important as the goods of the body?

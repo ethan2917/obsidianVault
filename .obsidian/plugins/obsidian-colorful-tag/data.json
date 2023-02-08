@@ -57,8 +57,8 @@
       "#spring23-59-114-3526"
     ],
     "Notes/dailyNotes/2023-01-09.md": [
-      "4-68-108",
-      "4-68-108"
+      "#dataStructures-4-69-111",
+      "#computerScience-4-85-127"
     ],
     "Notes/dailyNotes/2023-01-10.md": [
       "#math1020-4-23-63",
@@ -77,21 +77,21 @@
       "#spring23-21-0-230"
     ],
     "Notes/spring23/DS/DS.md": [
-      "#dataStructures-20-0-301",
-      "#computerScience-20-16-317",
-      "#spring23-20-33-334",
-      "#cplusplus-20-43-344"
+      "#dataStructures-23-0-417",
+      "#computerScience-23-16-433",
+      "#spring23-23-33-450",
+      "#cplusplus-23-43-460"
     ],
     "Notes/spring23/BIOL/BIOL.md": [
-      "#biology-20-0-315",
-      "#biol1010-20-9-324",
-      "#science-20-19-334",
-      "#spring23-20-28-343"
+      "#biology-22-0-333",
+      "#biol1010-22-9-342",
+      "#science-22-19-352",
+      "#spring23-22-28-361"
     ],
     "Notes/spring23/PHIL/PHIL.md": [
-      "#humanities-26-0-443",
-      "#phil1110-26-12-455",
-      "#spring23-26-22-465"
+      "#humanities-27-0-467",
+      "#phil1110-27-12-479",
+      "#spring23-27-22-489"
     ],
     "Notes/spring23/crashCourseInC++/crashCourseInC++.md": [
       "#dataStructures-5-0-75",
@@ -432,6 +432,85 @@
       "#biol1010-2-9-39",
       "#science-2-19-49",
       "#evolution-2-28-58"
+    ],
+    "Notes/spring23/PHIL/Three Questions of Ethics.md": [
+      "#phil1110-2-0-30",
+      "#philosophy-2-10-40",
+      "#humanities-2-22-52",
+      "#ethics-2-34-64",
+      "#phil1110-13-86-289",
+      "#phil1110-14-13-327"
+    ],
+    "Notes/spring23/PHIL/What is Ethics.md": [
+      "#phil1110-2-0-30",
+      "#philosophy-2-10-40",
+      "#humanities-2-22-52",
+      "#ethics-2-34-64",
+      "#phil1110-48-86-3024",
+      "#phil1110-49-13-3062"
+    ],
+    "Notes/spring23/BIOL/1.5.md": [
+      "#biol1010-2-0-30",
+      "#biology-2-10-40",
+      "#science-2-19-49"
+    ],
+    "Notes/spring23/BIOL/1.5 Mechanisms of Evolution.md": [
+      "#biol1010-2-0-30",
+      "#biology-2-10-40",
+      "#science-2-19-49"
+    ],
+    "Notes/spring23/BIOL/1.5 Processes That Drive Evolution and Speciation.md": [
+      "#biol1010-2-0-30",
+      "#biology-2-10-40",
+      "#science-2-19-49",
+      "#evolution-2-28-58",
+      "#biol1010-93-13-5493",
+      "#biol1010-94-12-5529"
+    ],
+    "Notes/spring23/PHIL/lectureNotes/The Value of Philosophy.md": [
+      "#phil1110-2-0-30",
+      "#phil1110-2-10-40",
+      "#humanities-2-20-50",
+      "#phil1110-32-134-1164"
+    ],
+    "Notes/spring23/DS/7.0 Big O Notation and Basic Recursion.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#recursion-2-33-61",
+      "#dataStructures-58-13-3182"
+    ],
+    "Notes/spring23/BIOL/1.6 Evidence for Evolution.md": [
+      "#biol1010-1-0-21",
+      "#biology-1-10-31",
+      "#science-1-19-40",
+      "#evolution-1-28-49"
+    ],
+    "Notes/spring23/DS/8.0 Templated Classes & Vector Implementation.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#spring23-2-33-61",
+      "#vectors-2-43-71"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/1.5 Processes That Drive Evolution and Speciation.md": [
+      "#biol1010-2-0-30",
+      "#biology-2-10-40",
+      "#science-2-19-49",
+      "#evolution-2-28-58",
+      "#biol1010-102-13-6325",
+      "#biol1010-103-12-6361"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/1.6 Evidence for Evolution.md": [
+      "#biol1010-1-0-21",
+      "#biology-1-10-31",
+      "#science-1-19-40",
+      "#evolution-1-28-49"
+    ],
+    "Notes/spring23/DS/lectureNotes/8.0 Templated Classes & Vector Implementation.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#spring23-2-33-61",
+      "#vectors-2-43-71",
+      "#templatedClasses-2-52-80"
     ]
   }
 }

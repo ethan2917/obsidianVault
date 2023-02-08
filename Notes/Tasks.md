@@ -13,6 +13,7 @@ due tomorrow
 ```tasks
 not done
 due after monday and before friday
+
 ```
 ### Past Due
 ```tasks
@@ -23,6 +24,7 @@ due before date(today)
 ```tasks
 not done
 no due date
+no scheduled date
 ```
 ### Completed
 ```tasks

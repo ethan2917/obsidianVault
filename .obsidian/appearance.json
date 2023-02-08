@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Obsidian Nord",
   "theme": "system",
   "baseFontSize": 18,
   "accentColor": "",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": ""
 }

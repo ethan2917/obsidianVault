@@ -2,13 +2,14 @@
 [[What is Philosophy]]
 [[Basics of Arguments]]
 [[Knowledge and How it Might Be Acquired.]]
-[[The Nature and Benefits of Philosophy]]
+[[The Value of Philosophy]]
+[[What is Ethics]]
 
 ## Textbook Notes
 [[Caring and Epistemic Demands]]
 [[Knowing vs. Thinking]]
 [[Puzzling Out Knowledge]]
-[[The Value of Philosophy]]
+[[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
 
 ## Tasks

@@ -4,6 +4,9 @@
 [[3.0 Classes Part 1]]
 [[4.0 Classes Part 2]]
 [[5.0 Pointers and Arrays]]
+[[6.0 Dynamic Memory]]
+[[7.0 Big O Notation and Basic Recursion]]
+[[8.0 Templated Classes & Vector Implementation]]
 
 ## Tasks
 ### Incomplete Tasks

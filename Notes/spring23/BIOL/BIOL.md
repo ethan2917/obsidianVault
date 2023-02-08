@@ -4,6 +4,8 @@
 [[1.2 What is Life ]]
 [[1.3 Early Evolution on Planet Earth]]
 [[1.4 Evolution Through Natural Selection]]
+[[1.5 Processes That Drive Evolution and Speciation ]]
+[[1.6 Evidence for Evolution ]]
 
 ## Tasks
 ### Incomplete
