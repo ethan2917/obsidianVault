@@ -24,7 +24,7 @@
 	- Multiply every element in the matrix by the coefficient.
 - [x] `swap_row()` which takes two arguments of type `unsigned int`, a source row and a target row number. ✅ 2023-02-08
 	- If both rows are inside the matrix bounds then the function should switch the values in the two rows and return true. Otherwise return false.
-- [ ] `transpose()` which has a return type of `void`.
+- [x] `transpose()` which has a return type of `void`. ✅ 2023-02-09
 	- Turn a `mXn` matrix A into `nXm` A$^T$.
 
 ## Binary Matrix Operations
@@ -43,7 +43,7 @@
 	- A lower right quadrant
 
 ## Your Task & Provided Code
-- [ ] Include extra tests within `StudentTest()` in `matrix_main.cpp`
+- [x] Include extra tests within `StudentTest()` in `matrix_main.cpp` ✅ 2023-02-09
 
 ## Extra Credit
 - [ ] `resize()`takes in three arguments: a number of rows, number of columns, and finally a fill value.

@@ -7,6 +7,13 @@
 [[6.0 Dynamic Memory]]
 [[7.0 Big O Notation and Basic Recursion]]
 [[8.0 Templated Classes & Vector Implementation]]
+[[9.0 Iterators and STL Lists]]
+[[10.0 Iterators & Linked Lists]]
+[[11.0 Doubly Linked Lists & List Implementation]]
+
+## HW Outlines
+[[HW 3 Outline]]
+[[HW 4 Outline]]
 
 ## Tasks
 ### Incomplete Tasks

@@ -77,21 +77,21 @@
       "#spring23-21-0-230"
     ],
     "Notes/spring23/DS/DS.md": [
-      "#dataStructures-23-0-417",
-      "#computerScience-23-16-433",
-      "#spring23-23-33-450",
-      "#cplusplus-23-43-460"
+      "#dataStructures-30-0-584",
+      "#computerScience-30-16-600",
+      "#spring23-30-33-617",
+      "#cplusplus-30-43-627"
     ],
     "Notes/spring23/BIOL/BIOL.md": [
-      "#biology-22-0-333",
-      "#biol1010-22-9-342",
-      "#science-22-19-352",
-      "#spring23-22-28-361"
+      "#biology-25-0-492",
+      "#biol1010-25-9-501",
+      "#science-25-19-511",
+      "#spring23-25-28-520"
     ],
     "Notes/spring23/PHIL/PHIL.md": [
-      "#humanities-27-0-467",
-      "#phil1110-27-12-479",
-      "#spring23-27-22-489"
+      "#humanities-28-0-498",
+      "#phil1110-28-12-510",
+      "#spring23-28-22-520"
     ],
     "Notes/spring23/crashCourseInC++/crashCourseInC++.md": [
       "#dataStructures-5-0-75",
@@ -511,6 +511,48 @@
       "#spring23-2-33-61",
       "#vectors-2-43-71",
       "#templatedClasses-2-52-80"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md": [
+      "#genetics-2-0-30",
+      "#biology-2-10-40",
+      "#biol1010-2-19-49",
+      "#science-2-29-59"
+    ],
+    "Notes/spring23/PHIL/Utilitarianism An Overview.md": [
+      "#philosophy-2-0-30",
+      "#phil1110-2-12-42",
+      "#utilitarianism-2-22-52"
+    ],
+    "Notes/spring23/BIOL/2.2 Human Genetics and Disease I.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#science-2-19-49",
+      "#genetics-2-28-58"
+    ],
+    "Notes/spring23/BIOL/2.2 Molecular Biology I.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#science-2-19-49",
+      "#genetics-2-28-58",
+      "#dna-2-38-68",
+      "#rna-2-43-73",
+      "#biol1010-58-25-2336"
+    ],
+    "Notes/spring23/DS/9.0 Iterators and STL Lists.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#cplusplus-2-33-61",
+      "#spring23-2-44-72",
+      "#STL-2-54-82",
+      "#lists-2-59-87"
+    ],
+    "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md": [
+      "#dataStructures-2-0-28",
+      "#computerScience-2-16-44",
+      "#cplusplus-2-33-61",
+      "#spring23-2-44-72",
+      "#STL-2-54-82",
+      "#lists-2-59-87"
     ]
   }
 }

@@ -4,6 +4,7 @@
 [[Knowledge and How it Might Be Acquired.]]
 [[The Value of Philosophy]]
 [[What is Ethics]]
+[[Utilitarianism An Overview]]
 
 ## Textbook Notes
 [[Caring and Epistemic Demands]]

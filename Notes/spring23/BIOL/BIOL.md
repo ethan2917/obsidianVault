@@ -6,6 +6,9 @@
 [[1.4 Evolution Through Natural Selection]]
 [[1.5 Processes That Drive Evolution and Speciation ]]
 [[1.6 Evidence for Evolution ]]
+[[2.1 DNA Structure & Function]]
+[[2.2 Molecular Biology I]]
+[[2.3 Molecular Biology II]]
 
 ## Tasks
 ### Incomplete
