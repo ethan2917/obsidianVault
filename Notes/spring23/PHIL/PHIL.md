@@ -5,6 +5,7 @@
 [[The Value of Philosophy]]
 [[What is Ethics]]
 [[Utilitarianism An Overview]]
+[[Duty-Based Ethics (Deontology) & Kant]]
 
 ## Textbook Notes
 [[Caring and Epistemic Demands]]

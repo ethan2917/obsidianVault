@@ -77,21 +77,21 @@
       "#spring23-21-0-230"
     ],
     "Notes/spring23/DS/DS.md": [
-      "#dataStructures-30-0-584",
-      "#computerScience-30-16-600",
-      "#spring23-30-33-617",
-      "#cplusplus-30-43-627"
+      "#dataStructures-31-0-601",
+      "#computerScience-31-16-617",
+      "#spring23-31-33-634",
+      "#cplusplus-31-43-644"
     ],
     "Notes/spring23/BIOL/BIOL.md": [
-      "#biology-25-0-492",
-      "#biol1010-25-9-501",
-      "#science-25-19-511",
-      "#spring23-25-28-520"
+      "#biology-28-0-585",
+      "#biol1010-28-9-594",
+      "#science-28-19-604",
+      "#spring23-28-28-613"
     ],
     "Notes/spring23/PHIL/PHIL.md": [
-      "#humanities-28-0-498",
-      "#phil1110-28-12-510",
-      "#spring23-28-22-520"
+      "#humanities-29-0-540",
+      "#phil1110-29-12-552",
+      "#spring23-29-22-562"
     ],
     "Notes/spring23/crashCourseInC++/crashCourseInC++.md": [
       "#dataStructures-5-0-75",
@@ -553,6 +553,26 @@
       "#spring23-2-44-72",
       "#STL-2-54-82",
       "#lists-2-59-87"
+    ],
+    "Notes/spring23/BIOL/2.3 Molecular Biology II.md": [
+      "#biology-2-0-30",
+      "#biol1010-2-9-39",
+      "#dna-2-19-49",
+      "#science-2-24-54"
+    ],
+    "Notes/spring23/PHIL/Duty-Based Ethics (Deontology) & Kant.md": [
+      "#phil1110-2-0-30",
+      "#philosophy-2-10-40"
+    ],
+    "Notes/spring23/BIOL/2.6.md": [
+      "#biology-2-0-30",
+      "#science-2-9-39",
+      "#biology-2-18-48"
+    ],
+    "Notes/spring23/BIOL/lectureNotes/2.6.md": [
+      "#biology-2-0-30",
+      "#science-2-9-39",
+      "#biology-2-18-48"
     ]
   }
 }

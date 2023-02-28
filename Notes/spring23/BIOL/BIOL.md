@@ -9,6 +9,9 @@
 [[2.1 DNA Structure & Function]]
 [[2.2 Molecular Biology I]]
 [[2.3 Molecular Biology II]]
+[[2.4 Genomes and Human Genetics]]
+[[2.5 Human Genetics and Personalized Medicine]]
+[[2.6 ]]
 
 ## Tasks
 ### Incomplete

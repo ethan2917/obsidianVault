@@ -14,6 +14,7 @@
 ## HW Outlines
 [[HW 3 Outline]]
 [[HW 4 Outline]]
+[[HW 5 Outline]]
 
 ## Tasks
 ### Incomplete Tasks

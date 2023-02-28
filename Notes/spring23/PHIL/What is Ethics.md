@@ -47,4 +47,4 @@
 
 ## Tasks:
 - [ ] Selection from Jeremy Bentham’s _Principles of Morals and Legislation_ (on LMS) #phil1110 📅 2023-02-02 
-- [ ] Exam 1 #phil1110 📅 2023-02-09
+- [x] Exam 1 #phil1110 📅 2023-02-09 ✅ 2023-02-16

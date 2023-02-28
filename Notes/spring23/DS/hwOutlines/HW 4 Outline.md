@@ -20,40 +20,40 @@
 
 ## Tasks:
 ### Inventory
-- [ ] If a line in the inventory file does not begin with a T or does not have a quantity greater than 0, print a message to std::cerr stating `Invalid inventory ID XXXX found in the inventory file.` where XXXX is the invalid ID.
+- [x] If a line in the inventory file does not begin with a T or does not have a quantity greater than 0, print a message to std::cerr stating `Invalid inventory ID XXXX found in the inventory file.` where XXXX is the invalid ID. ✅ 2023-02-16
 ### Customer
-- [ ] If a line that does not begin with a C is found print a message to std::cerr stating `Invalid customer information found for ID XXXX in the customer file.` where XXXX is the invalid ID.
-### Main functionality
+- [x] If a line that does not begin with a C is found print a message to std::cerr stating `Invalid customer information found for ID XXXX in the customer file.` where XXXX is the invalid ID. ✅ 2023-02-16
+### Main Functionality
 - [x] Create customer class ✅ 2023-02-15
 - [x] Create inventory class ✅ 2023-02-13
-- [ ] Maintain inventory list
+- [x] Maintain inventory list ✅ 2023-02-16
 	- [x] Contains the items and the available quantity of that item. ✅ 2023-02-13
-	- [ ] As customers rent or return the item, the quantity should be adjusted.
+	- [x] As customers rent or return the item, the quantity should be adjusted. ✅ 2023-02-16
 	- [x] The inventory list must be maintained in order by inventory ID. ✅ 2023-02-13
-- [ ] Maintain customer list
-	- [ ] The customer list should only contain active customers.
-	- [ ] The customer list must be maintained in order by customer ID.
-- [ ] When a customer attempts to rent an item, check that sufficient quantity of the item available.
-	- [ ] If there is a sufficient quantity, rent the requested number of items to the customer and adjust the inventory quantity.
-	- [ ] If a customers request cannot be filled, do not rent any item to the customer and add the customer's request to a wait list with a timestamp
-- [ ] If a customer requests an item whose ID is not in the inventory, print an std::cerr message stating `Customer CXXXX requested item TYYYY which is not in the inventory.`, CXXXX is the customer ID and TYYYY is the inventory ID.
-- [ ] Keep track of what items each customer rents and any pending items for the customer.
+- [x] Maintain customer list ✅ 2023-02-17
+	- [x] The customer list should only contain active customers. ✅ 2023-02-17
+	- [x] The customer list must be maintained in order by customer ID. ✅ 2023-02-17
+- [x] When a customer attempts to rent an item, check that sufficient quantity of the item available. ✅ 2023-02-16
+	- [x] If there is a sufficient quantity, rent the requested number of items to the customer and adjust the inventory quantity. ✅ 2023-02-16
+	- [x] If a customers request cannot be filled, do not rent any item to the customer and add the customer's request to a wait list with a timestamp ✅ 2023-02-16
+- [x] If a customer requests an item whose ID is not in the inventory, print an std::cerr message stating `Customer CXXXX requested item TYYYY which is not in the inventory.`, CXXXX is the customer ID and TYYYY is the inventory ID. ✅ 2023-02-17
+- [x] Keep track of what items each customer rents and any pending items for the customer. ✅ 2023-02-17
 - [x] You will also need to keep track of which customers rent an item. ✅ 2023-02-15
-- [ ] When an item is returned adjust the inventory quantity.
-	- [ ] Check the waitlist for any customers requesting the item.
-		- [ ] Attempt to fill requests in timestamp order.
-		- [ ] If a customer on the wait list has requested a quantity greater than the available amount, go on to the next customer.
-	- [ ] If the customer returning the item has no other rental items or pending items, remove the customer from the customer list using the STL list’s erase function.
-	- [ ] If a customer attempts to return an item that is not in the inventory, print an error message to std::cerr stating `Customer CXXXX attempted to return item TYYYY which is not in the inventory.`
-	- [ ] If the customer returns an item that this same customer is waiting for, adjust the inventory and customer’s pending quantity.
-	- [ ] If the customer tries to return an item she has not rented, print an error message to std::cerr stating `Customer CXXXX attempted to return item TYYYY which she/he did not rent.`
-	- [ ] After reading the input files, produce a report of the current inventory and active customers. 
-		- [ ] For each inventory item, print the ID, the available quantity and the description as shown in the example below. 
-		- [ ] On the next line, if any customers are renting this item, print “Rental Customers” and then print the customer IDs and names of customers renting this item, followed by the quantity that they have rented in parenthesis as shown below. 
-		- [ ] If no one is currently renting the item, print nothing. 
-		- [ ] On the next line, print similar information for any customers waiting for this item including the quantity they have requested in parenthesis. 
-	- [ ] The customer report is similar. 
-		- [ ] It should contain a line for each active customer. An active customer is one with rented or pending items. The line should begin with customer ID, name, followed by lines containing rented items and quantities followed by lines for pending items and their quantities.
+- [x] When an item is returned adjust the inventory quantity. ✅ 2023-02-21
+	- [x] Check the waitlist for any customers requesting the item. ✅ 2023-02-17
+		- [x] Attempt to fill requests in timestamp order. ✅ 2023-02-17
+		- [x] If a customer on the wait list has requested a quantity greater than the available amount, go on to the next customer. ✅ 2023-02-17
+	- [x] If the customer returning the item has no other rental items or pending items, remove the customer from the customer list using the STL list’s erase function. ✅ 2023-02-17
+	- [x] If a customer attempts to return an item that is not in the inventory, print an error message to std::cerr stating `Customer CXXXX attempted to return item TYYYY which is not in the inventory.` ✅ 2023-02-21
+	- [x] If the customer returns an item that this same customer is waiting for, adjust the inventory and customer’s pending quantity. ✅ 2023-02-17
+	- [x] If the customer tries to return an item she has not rented, print an error message to std::cerr stating `Customer CXXXX attempted to return item TYYYY which she/he did not rent.` ✅ 2023-02-17
+	- [x] After reading the input files, produce a report of the current inventory and active customers. ✅ 2023-02-17
+		- [x] For each inventory item, print the ID, the available quantity and the description as shown in the example below. ✅ 2023-02-16
+		- [x] On the next line, if any customers are renting this item, print “Rental Customers” and then print the customer IDs and names of customers renting this item, followed by the quantity that they have rented in parenthesis as shown below. ✅ 2023-02-16
+		- [x] If no one is currently renting the item, print nothing. ✅ 2023-02-16
+		- [x] On the next line, print similar information for any customers waiting for this item including the quantity they have requested in parenthesis. ✅ 2023-02-16
+	- [x] The customer report is similar. ✅ 2023-02-17
+		- [x] It should contain a line for each active customer. An active customer is one with rented or pending items. The line should begin with customer ID, name, followed by lines containing rented items and quantities followed by lines for pending items and their quantities. ✅ 2023-02-17
 - Inventory output:
 ```
 T1001 0 available chainsaw 
