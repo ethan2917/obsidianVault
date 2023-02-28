@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b96bed325ff234",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3987bdbcbb5b6dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "e2f60f1c9b6054e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.6.md"
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md"
               }
             }
           },
@@ -123,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.6.md",
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.6.md",
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,21 +180,31 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0873c68bcaf0e13b",
+  "active": "e2f60f1c9b6054e4",
   "lastOpenFiles": [
     "Notes/spring23/BIOL/BIOL.md",
-    "Notes/spring23/BIOL/lectureNotes/2.6.md",
+    "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md",
+    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
+    "Untitled.canvas",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II-2.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II-1.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II.png",
     "Notes/spring23/Spring 23' Home.md",
     "Home.md",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-4.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-3.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-2.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-1.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I.png",
+    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md",
+    "Notes/spring23/BIOL/lectureNotes/2.6.md",
     "Notes/spring23/PHIL/PHIL.md",
     "Notes/spring23/PHIL/Duty-Based Ethics (Deontology) & Kant.md",
     "Notes/dailyNotes/2023-02-27.md",
     "Notes/spring23/DS/DS.md",
     "Notes/spring23/DS/hwOutlines/HW 4 Outline.md",
-    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
     "Notes/dailyNotes/2023-02-17.md",
     "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
-    "Templates/hwOutline.md",
-    "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md"
+    "Templates/hwOutline.md"
   ]
 }

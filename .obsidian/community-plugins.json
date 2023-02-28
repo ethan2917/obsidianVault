@@ -1,6 +1,5 @@
 [
   "obsidian-editor-shortcuts",
-  "obsidian-colorful-tag",
   "obsidian-tasks-plugin",
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
@@ -24,5 +23,7 @@
   "obsidian-icon-folder",
   "obsidian-dictionary-plugin",
   "obsidian-linter",
-  "better-word-count"
+  "better-word-count",
+  "tag-wrangler",
+  "code-block-copy"
 ]
