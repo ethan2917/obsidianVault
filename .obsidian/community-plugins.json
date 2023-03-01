@@ -25,5 +25,7 @@
   "obsidian-linter",
   "better-word-count",
   "tag-wrangler",
-  "code-block-copy"
+  "code-block-copy",
+  "omnisearch",
+  "text-extractor"
 ]

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f60f1c9b6054e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
-            "mode": "preview",
-            "source": false
+        "id": "bb2e8117ac44a2f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8b55d9f31c05cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#genetics",
+                "query": "tag:#calculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,35 +167,40 @@
     "hiddenItems": {
       "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
       "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "e2f60f1c9b6054e4",
+  "active": "2dcf39260a844812",
   "lastOpenFiles": [
+    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md",
     "Notes/spring23/BIOL/BIOL.md",
     "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md",
     "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
+    "Notes/spring23/BIOL/2.4 Genomes and Human Genetics.md",
+    "Notes/spring23/Spring 23' Home.md",
+    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-3.png",
+    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-2.png",
+    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-1.png",
+    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics.png",
+    "Notes/spring23/BIOL/attachments",
+    "Home.md",
     "Untitled.canvas",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II-2.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II-1.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II.png",
-    "Notes/spring23/Spring 23' Home.md",
-    "Home.md",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-4.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-3.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-2.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-1.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I.png",
-    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md",
     "Notes/spring23/BIOL/lectureNotes/2.6.md",
     "Notes/spring23/PHIL/PHIL.md",
     "Notes/spring23/PHIL/Duty-Based Ethics (Deontology) & Kant.md",

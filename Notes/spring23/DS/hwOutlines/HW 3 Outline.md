@@ -49,4 +49,4 @@
 - [ ] `resize()`takes in three arguments: a number of rows, number of columns, and finally a fill value.
 	- The function should always change the internal matrix to be `rowsXcolumns` in size, copying over any values that were in the original bounds of the original matrix.
 	- If the new matrix is larger, any positions that are in the new matrix but not the old one should have the fill value.
-- [ ] Write tests in `ExtraCreditTest()`
+- [x] Write tests in `ExtraCreditTest()` ✅ 2023-02-28
