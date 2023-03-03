@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2e8117ac44a2f1",
+        "id": "c11ad31332db882f",
         "type": "tabs",
         "children": [
           {
-            "id": "5b8b55d9f31c05cc",
+            "id": "2ed5591da29f5b51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md"
+              }
             }
           },
           {
@@ -118,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,50 +172,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
-      "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2dcf39260a844812",
+  "active": "2ed5591da29f5b51",
   "lastOpenFiles": [
-    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md",
-    "Notes/spring23/BIOL/BIOL.md",
-    "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md",
-    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
-    "Notes/spring23/BIOL/2.4 Genomes and Human Genetics.md",
-    "Notes/spring23/Spring 23' Home.md",
-    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-3.png",
-    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-2.png",
-    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-1.png",
-    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics.png",
-    "Notes/spring23/BIOL/attachments",
     "Home.md",
-    "Untitled.canvas",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II-2.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II-1.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.3 Molecular Biology II.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-4.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-3.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.2 Molecular Biology I-2.png",
-    "Notes/spring23/BIOL/lectureNotes/2.6.md",
-    "Notes/spring23/PHIL/PHIL.md",
-    "Notes/spring23/PHIL/Duty-Based Ethics (Deontology) & Kant.md",
-    "Notes/dailyNotes/2023-02-27.md",
+    "Notes/spring23/DS/cribSheetOutlines/Exam 2 Crib Sheet.md",
+    "Notes/spring23/BIOL/BIOL.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2",
+    "Notes/spring23/BIOL/lectureNotes/2.6 New Frontiers & Emerging Infectious Diseases.md",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-2.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-1.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases.png",
+    "Notes/spring23/BIOL/lectureNotes/2.5 Human Genetics and Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine-3.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine-2.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine-1.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine.png",
+    "Notes/spring23/Spring 23' Home.md",
+    "Templates/lectureNotes.md",
+    "Templates/title.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Big O Table.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Erase & Insert.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Iterator Basics.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Custom made iterators.md",
     "Notes/spring23/DS/DS.md",
-    "Notes/spring23/DS/hwOutlines/HW 4 Outline.md",
-    "Notes/dailyNotes/2023-02-17.md",
-    "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
-    "Templates/hwOutline.md"
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Methods.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Difference with STL vector.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/'this'.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Vector Header.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Memory management.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/- [ ] Difference with STL vector.md",
+    "Notes/spring23/DS/lectureNotes/8.0 Templated Classes & Vector Implementation.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Copy Constructor.md",
+    "Notes/spring23/DS/cribSheetOutlines/Constructors.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Template Class.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Destructor.md",
+    "Notes/spring23/DS/cribSheetOutlines/exam2/Assignment operator.md",
+    "Notes/spring23/DS/cribSheetOutlines",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-3.png",
+    "Notes/spring23/BIOL/attachments"
   ]
 }

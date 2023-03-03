@@ -1,3 +1,6 @@
+---
+cards-deck: Notes::{{title}}
+---
 ## Subject: [[]]
 ## Tags:
 #tag

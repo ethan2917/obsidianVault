@@ -10,11 +10,22 @@
 [[9.0 Iterators and STL Lists]]
 [[10.0 Iterators & Linked Lists]]
 [[11.0 Doubly Linked Lists & List Implementation]]
+[[12.0 Advanced Recursion]]
+[[13.0 Problem Solving I]]
+[[14.0 Operators]]
 
 ## HW Outlines
 [[HW 3 Outline]]
 [[HW 4 Outline]]
 [[HW 5 Outline]]
+[[HW 6 Outline]]
+[[HW 7 Outline]]
+[[HW 8 Outline]]
+[[HW 9 Outline]]
+[[HW 10 Outline]]
+
+## Crib Sheet Outlines
+[[Exam 2 Crib Sheet]]
 
 ## Tasks
 ### Incomplete Tasks

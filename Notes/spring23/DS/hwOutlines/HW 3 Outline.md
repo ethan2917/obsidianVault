@@ -46,7 +46,7 @@
 - [x] Include extra tests within `StudentTest()` in `matrix_main.cpp` ✅ 2023-02-09
 
 ## Extra Credit
-- [ ] `resize()`takes in three arguments: a number of rows, number of columns, and finally a fill value.
+- [x] `resize()`takes in three arguments: a number of rows, number of columns, and finally a fill value. ✅ 2023-03-01
 	- The function should always change the internal matrix to be `rowsXcolumns` in size, copying over any values that were in the original bounds of the original matrix.
 	- If the new matrix is larger, any positions that are in the new matrix but not the old one should have the fill value.
 - [x] Write tests in `ExtraCreditTest()` ✅ 2023-02-28

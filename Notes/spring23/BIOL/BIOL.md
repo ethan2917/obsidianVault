@@ -11,7 +11,7 @@
 [[2.3 Molecular Biology II]]
 [[2.4 Genomes and Human Genetics]]
 [[2.5 Human Genetics and Personalized Medicine]]
-[[2.6 ]]
+[[2.6 New Frontiers & Emerging Infectious Diseases ]]
 
 ## Tasks
 ### Incomplete

@@ -1,0 +1,3 @@
+- Only member functions have a **this** pointer.
+- `this` is a pointer, and `*this` is a dereferenced pointer.
+- `this->x = 5;` is the same as `x = 5` inside of an object

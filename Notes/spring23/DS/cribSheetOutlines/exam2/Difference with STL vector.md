@@ -1,0 +1,3 @@
+- STL lists have no subscripting operation
+- erase and insert in the middle of the STL list is very efficient, independent of the size of the list. Both are implemented by rearranging pointers between the small blocks of memory.
+- 

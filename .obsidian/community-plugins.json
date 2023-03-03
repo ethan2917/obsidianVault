@@ -5,7 +5,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
   "homepage",
-  "obsidian-enhancing-export",
   "graph-analysis",
   "obsidian-outliner",
   "ninja-cursor",
@@ -14,7 +13,6 @@
   "simple-embeds",
   "obsidian-paste-image-rename",
   "obsidian-admonition",
-  "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-mind-map",
   "nldates-obsidian",
   "oz-image-plugin",
@@ -27,5 +25,10 @@
   "tag-wrangler",
   "code-block-copy",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "flashcards-obsidian",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-enhancing-export",
+  "obsidian-kanban",
+  "templater-obsidian"
 ]

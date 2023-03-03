@@ -1,0 +1,3 @@
+- Iterator types are declared by the container class. For example, `vector<string>::iterator p; vector<string>::const_iterator q;`
+- The dereference operator is used to access the value stored at an element of the container. The code: `p = enrolled.begin(); *p = "012312";` changes the first item of the enrolled vector.
+- 
