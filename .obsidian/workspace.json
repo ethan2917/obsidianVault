@@ -11,8 +11,12 @@
             "id": "df8289287f8f80b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md"
+              }
             }
           }
         ]
@@ -192,8 +200,17 @@
   },
   "active": "df8289287f8f80b7",
   "lastOpenFiles": [
-    "Notes/spring23/BIOL/lectureNotes/1.1 Origins of Life and The RNA World.md",
+    "Notes/spring23/DS/lectureNotes/13.0 Problem Solving I.md",
+    "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
+    "Notes/spring23/DS/lectureNotes/13.5 Merge Sort.md",
+    "Notes/spring23/DS/lectureNotes/13.3 Getting the Details Right.md",
+    "Notes/spring23/DS/lectureNotes/13.2 Mapping Ideas into Code.md",
+    "Notes/spring23/DS/lectureNotes/13.1 Generating and Evaluating Ideas.md",
+    "Notes/spring23/DS/DS.md",
+    "Notes/spring23/Spring 23' Home.md",
     "Notes/spring23/BIOL/BIOL.md",
+    "Home.md",
+    "Notes/spring23/BIOL/lectureNotes/1.1 Origins of Life and The RNA World.md",
     "Notes/spring23/BIOL/lectureNotes/1.0 Course Overview.md",
     "Notes/spring23/BIOL/lectureNotes/2.5 Human Genetics and Personalized Medicine.md",
     "Notes/spring23/BIOL/lectureNotes/Genetic Origin of Disease.md",
@@ -209,15 +226,6 @@
     "Notes/spring23/BIOL/lectureNotes/Breast Cancer.md",
     "Notes/spring23/BIOL/lectureNotes/The Cancer Genome Atlas Project.md",
     "Notes/spring23/BIOL/lectureNotes/Tumor Suppressor Genes (TSG) - Transcription Factors.md",
-    "Notes/spring23/BIOL/lectureNotes/Oncogenes.md",
-    "Notes/spring23/BIOL/lectureNotes/Development of Cancer.md",
-    "Notes/spring23/BIOL/lectureNotes/What is Cancer.md",
-    "Notes/spring23/BIOL/lectureNotes/Research Areas Contributing to Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/Single Nucleotide Polymorphisms (SNPS).md",
-    "Notes/spring23/BIOL/lectureNotes/Genomic Screening & Testing Newborns.md",
-    "Notes/spring23/BIOL/lectureNotes/What is Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/Promise of Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/The Hope of Personalized Medicine.md",
     "Notes/spring23/BIOL/lectureNotes/attachments/Major Ocean Currents.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/Oceanic Ecosystem.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/The Whittaker Diagram.png",
