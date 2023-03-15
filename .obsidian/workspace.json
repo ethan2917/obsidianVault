@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c11ad31332db882f",
+        "id": "6c3a91ddaa629407",
         "type": "tabs",
         "children": [
           {
-            "id": "2ed5591da29f5b51",
+            "id": "df8289287f8f80b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#calculus",
+                "query": "tag:#Tumor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,6 +76,7 @@
       {
         "id": "e734330f85659e25",
         "type": "tabs",
+        "dimension": 61.876247504990026,
         "children": [
           {
             "id": "704b5bf5982df49d",
@@ -86,16 +84,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "a450d91398ed140a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md"
-              }
             }
           },
           {
@@ -123,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +149,26 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "7363b54d5f894b7c",
+        "type": "tabs",
+        "dimension": 38.12375249500998,
+        "children": [
+          {
+            "id": "a450d91398ed140a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
+    "width": 336.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,47 +190,55 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2ed5591da29f5b51",
+  "active": "df8289287f8f80b7",
   "lastOpenFiles": [
-    "Home.md",
-    "Notes/spring23/DS/cribSheetOutlines/Exam 2 Crib Sheet.md",
+    "Notes/spring23/BIOL/lectureNotes/1.1 Origins of Life and The RNA World.md",
     "Notes/spring23/BIOL/BIOL.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2",
-    "Notes/spring23/BIOL/lectureNotes/2.6 New Frontiers & Emerging Infectious Diseases.md",
+    "Notes/spring23/BIOL/lectureNotes/1.0 Course Overview.md",
+    "Notes/spring23/BIOL/lectureNotes/2.5 Human Genetics and Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/Genetic Origin of Disease.md",
+    "Notes/spring23/BIOL/lectureNotes/Accidents During Meiosis.md",
+    "Notes/spring23/BIOL/lectureNotes/Chromosome Number Alterations.md",
+    "Notes/spring23/BIOL/lectureNotes/Nondisjunction.md",
+    "Notes/spring23/BIOL/lectureNotes/During Meiosis I.md",
+    "Notes/spring23/BIOL/lectureNotes/2.5 Genetic Disease and Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/Personalized Medicine and Cancer.md",
+    "Notes/spring23/BIOL/lectureNotes/Genomic Tests BRCA1 & BRCA2 Genes.md",
+    "Notes/spring23/BIOL/lectureNotes/Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/Lung Cancer.md",
+    "Notes/spring23/BIOL/lectureNotes/Breast Cancer.md",
+    "Notes/spring23/BIOL/lectureNotes/The Cancer Genome Atlas Project.md",
+    "Notes/spring23/BIOL/lectureNotes/Tumor Suppressor Genes (TSG) - Transcription Factors.md",
+    "Notes/spring23/BIOL/lectureNotes/Oncogenes.md",
+    "Notes/spring23/BIOL/lectureNotes/Development of Cancer.md",
+    "Notes/spring23/BIOL/lectureNotes/What is Cancer.md",
+    "Notes/spring23/BIOL/lectureNotes/Research Areas Contributing to Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/Single Nucleotide Polymorphisms (SNPS).md",
+    "Notes/spring23/BIOL/lectureNotes/Genomic Screening & Testing Newborns.md",
+    "Notes/spring23/BIOL/lectureNotes/What is Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/Promise of Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/The Hope of Personalized Medicine.md",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Major Ocean Currents.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Oceanic Ecosystem.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/The Whittaker Diagram.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Overview of Levels of Biological Organization.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Ecology Deals With Large Spatial & Temporal Scales-1.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Ecology Deals With Large Spatial & Temporal Scales.png",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Ecosystem Complexity.png",
+    "Notes/spring23/BIOL/lectureNotes/3.1",
+    "Notes/spring23/BIOL/lectureNotes/New folder",
+    "Notes/spring23/BIOL/lectureNotes/1.0",
+    "Notes/spring23/BIOL/lectureNotes/attachments/Recording 20230313140844.webm",
+    "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200/Assignments",
+    "Templates/Templates Vault V1.3/templates/task-and-projects/README",
+    "Templates/Templates Vault V1.3/templates/school/School Template",
+    "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200",
+    "Templates/Templates Vault V1.3/templates/task-and-projects",
+    "Templates/Templates Vault V1.3/templates/school",
+    "Untitled.canvas",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-2.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-1.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases.png",
-    "Notes/spring23/BIOL/lectureNotes/2.5 Human Genetics and Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine-3.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine-2.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine-1.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.5 Human Genetics and Personalized Medicine.png",
-    "Notes/spring23/Spring 23' Home.md",
-    "Templates/lectureNotes.md",
-    "Templates/title.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Big O Table.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Erase & Insert.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Iterator Basics.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Custom made iterators.md",
-    "Notes/spring23/DS/DS.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Methods.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Difference with STL vector.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/'this'.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Vector Header.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Memory management.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/- [ ] Difference with STL vector.md",
-    "Notes/spring23/DS/lectureNotes/8.0 Templated Classes & Vector Implementation.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Copy Constructor.md",
-    "Notes/spring23/DS/cribSheetOutlines/Constructors.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Template Class.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Destructor.md",
-    "Notes/spring23/DS/cribSheetOutlines/exam2/Assignment operator.md",
-    "Notes/spring23/DS/cribSheetOutlines",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Notes/spring23/BIOL/attachments/2.4 Genomes and Human Genetics-3.png",
-    "Notes/spring23/BIOL/attachments"
+    "Untitled 1.canvas"
   ]
 }

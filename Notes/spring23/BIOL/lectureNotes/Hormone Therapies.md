@@ -1,0 +1,5 @@
+- Treatment of disease or symptoms with synthetic or naturally derived **hormones**.
+	- Prostate cancer
+		- **Androgen reduction**
+- Add, block, or remove hormones from the body to slow or stop the growth of cancer cells.
+	- Orchiectomy

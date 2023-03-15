@@ -1,0 +1,9 @@
+- **3,500** genetic diseases cause problems in first month of life.
+	- >20% of infant deaths due to a genetic disease.
+	- 30% babes in intensive care unit have a genetic disease.
+- Can now sequence newborns with mystery conditions in 24 hours.
+	- >99;5% specificity of genotypes.
+- **Phenomizer** and associated data bases:
+	- Aids in reaching **correct diagnosis in patients with hereditary diseases**.
+	- **Phenomizer** is an expert system for clinical diagnosis.
+	- Connects to the **Phenomizer** data base of 6000+ genetic variants with symptoms.

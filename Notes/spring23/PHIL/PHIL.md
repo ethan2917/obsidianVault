@@ -6,6 +6,7 @@
 [[What is Ethics]]
 [[Utilitarianism An Overview]]
 [[Duty-Based Ethics (Deontology) & Kant]]
+[[Trolley Problem & Ethics Settings for Autonomous Vehicles]]
 
 ## Textbook Notes
 [[Caring and Epistemic Demands]]

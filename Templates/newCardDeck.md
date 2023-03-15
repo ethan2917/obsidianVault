@@ -1,0 +1,3 @@
+---
+cards-deck: Notes::{{title}}
+---

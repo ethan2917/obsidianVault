@@ -1,0 +1,5 @@
+- Antibiotics kill the majority of susceptible bacteria quickly, leaving the ones left alive to the immune system.
+- A small amount of bacteria in our body may have become immune to our antibiotics.
+	- They may spread their immunity to other bacteria.
+	- Immunity can be spread quickly.
+		- Can even spread between bacteria species.

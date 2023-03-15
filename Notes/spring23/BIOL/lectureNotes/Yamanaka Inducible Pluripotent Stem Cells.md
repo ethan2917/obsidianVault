@@ -1,0 +1,6 @@
+- iPSC are derived from::skin or blood cells that have been reprogrammed back into an embryonic-like pluripotent state.
+	- Enable the development of an unlimited source of any type of human cell needed for therapeutic purposes.
+- Pluripotent cell::Cells that are able to self-renew by dividing and developing into three primary groups of cells that make up a human body.
+	- Ectoderm::Skin and nervous system
+	- Endoderm::Gastrointestinal and respirator tracts
+	- Mesoderm::Heart, muscle, bones, and blood

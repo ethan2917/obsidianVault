@@ -12,17 +12,19 @@
 [[2.4 Genomes and Human Genetics]]
 [[2.5 Human Genetics and Personalized Medicine]]
 [[2.6 New Frontiers & Emerging Infectious Diseases ]]
+[[3.1 Ecology, Climate, And Biomes]]
 
 ## Tasks
+### Overdue
+```tasks
+not done
+due before date(today)
+path includes BIOL
+```
 ### Incomplete
 ```tasks
 not done
 path includes BIOL
-```
-### Complete
-```tasks
-done
-path includes BIOl
 ```
 
 ## Tags

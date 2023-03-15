@@ -1,0 +1,3 @@
+- Rarely occurs from a single mutation but from accumulation of mutations.
+- Explains why cancers are associated with **somatic** cells which turnover frequently - due to **random errors in division** that lead to mutations.
+- 90% of all cancers are **epithelial cell** origin: lung, breast, colon, skin.

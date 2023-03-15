@@ -74,5 +74,5 @@ Rentals: T1001 (1)
 ```
 
 ## Extra Credit:
-- [ ] Crash Course in C++ module: *Lesson 12: Debugger Use*
+- [x] Crash Course in C++ module: *Lesson 12: Debugger Use* ✅ 2023-03-05
 	- [x] Due before Friday, March 3rd ✅ 2023-02-28

@@ -30,5 +30,7 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-enhancing-export",
   "obsidian-kanban",
-  "templater-obsidian"
+  "templater-obsidian",
+  "quick-latex",
+  "obsidian-better-codeblock"
 ]

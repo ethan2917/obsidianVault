@@ -1,0 +1,4 @@
+- Sunlight is not a factor.
+- Chemoautotrophic mechanism using sulfur compounds as an energy source to convert CO2 into organic food molecules for nutrition of hosts.
+- Bacteria provide the nutrients for the other members of the community.
+- These bacteria may be the most abundant biomass on the planet and they make the biome function by providing energy and fixing CO2.

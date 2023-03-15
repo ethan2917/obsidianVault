@@ -1,0 +1,7 @@
+- **MRSA - Methicillin-resistant Staphylococcus aureus**
+	- Penicillin resistant strains emerged in 1950s.
+	- Methicillin resistance in 1960s.
+	- Now resistant to almost all antibiotics
+		- Last resort treatment is Vancomycin - extremely toxic
+	- Deadly to those with weakened immune systems
+	- 2M people/year infected in hospitals ~100,000 deaths

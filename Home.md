@@ -13,7 +13,3 @@ due after date(today)
 not done
 due before date(today)
 ```
-### Complete
-```tasks
-done
-```

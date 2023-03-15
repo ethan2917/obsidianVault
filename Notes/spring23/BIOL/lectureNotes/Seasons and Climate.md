@@ -1,0 +1,5 @@
+- Seasonal climatic effects are due to the tile of the Earth.
+	- If no tilt, no seasons and day and nighttime are equal.
+	- At summer solstice, north pole is oriented toward the sun and we have our longest day in the northern hemisphere.
+	- At fall and spring neither pole is oriented toward the sun and day time equals night.
+	- The winter solstice is opposite of the summer solstice with the south pole getting greater light.

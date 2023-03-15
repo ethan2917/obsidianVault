@@ -1,0 +1,1 @@
+> [!quote] “Imagine the day when you and your doctor sit down to review your own personal genome.  Your genes will inform you of your disease susceptibilities, the best ways to stay healthy and how to avoid or lessen the impact of future illnesses.”

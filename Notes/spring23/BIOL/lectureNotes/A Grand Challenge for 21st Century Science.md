@@ -1,0 +1,2 @@
+- To **understand and model** the tremendous complexity of ecological systems, and, in so doing, better predict the dynamics of Earth's biosphere.
+- The **fate of Earth and the future of the human species** are increasingly dependent on meeting this challenge.

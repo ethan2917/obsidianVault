@@ -1,0 +1,1 @@
+> [!info] The scientific study of how interactions between organisms and their environment affect the distribution, abundance, and evolution of life on earth and how humans have affected and will continue to affect the environment.

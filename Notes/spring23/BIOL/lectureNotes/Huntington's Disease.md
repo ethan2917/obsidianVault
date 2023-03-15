@@ -1,0 +1,2 @@
+- **Huntington's disease** is a::neurodegenerative disorder that affects **muscle coordination, leads to paralysis, and dementia**.
+- Children with an **affected father** have a 50% chance of having the disease.

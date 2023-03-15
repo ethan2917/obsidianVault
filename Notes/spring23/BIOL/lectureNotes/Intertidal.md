@@ -1,0 +1,1 @@
+The area where the ocean meets the land between high and low tides.

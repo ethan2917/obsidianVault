@@ -1,0 +1,9 @@
+- New & resurgent infectious diseases have been a growing health problem.
+- Contributing factors:
+	- Demographic changes (population growth, inhabiting new areas).
+	- Increasing contact with wild & domestic animals.
+	- 2/3 of EIDs originate from animals.
+	- Behavior (sexual, drugs, hygiene)
+	- Poverty & social inequality
+	- Climate & changing ecosystems
+	- Travel, commerce & transportation

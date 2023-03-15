@@ -1,0 +1,5 @@
+- Accounts for **one of every three cancer diagnoses**.
+- Breast cancer most common cancer in women.
+- Highest incidence (80% of cases) in women over 50.
+- Four distinct genetic types of the disease were found.
+- **Tissue does not define the underlying genetic profile**.

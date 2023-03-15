@@ -1,0 +1,4 @@
+- **EGFR** - Epidermal Growth Factor Receptor
+	- Protein present on the cell surface.
+	- Bind to epidermal growth factor causing cells to divide.
+	- Abnormally high levels on surface of many cancer cells, causing them to divide excessively in presence of epidermal growth factor.

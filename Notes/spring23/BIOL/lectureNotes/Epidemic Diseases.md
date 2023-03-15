@@ -1,0 +1,1 @@
+Those that affect large number of people in one area simultaneously.

@@ -1,0 +1,4 @@
+- Angiogenesis is the formation of new blood vessels.
+- When **growth factors** bind to their receptors on **endothelial cells**, signals within these cells are initiated that promote the growth and survival of new blood vessels.
+	- Lung cancer, metastasis
+- **Angiogenesis inhibitors**, interfere with blood vessel formation.

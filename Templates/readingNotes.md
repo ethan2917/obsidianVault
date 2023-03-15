@@ -1,8 +1,10 @@
+## Chapter: {{title}}
 ## Subject: [[]]
 ## Tags:
 #tag
 ## Date: {{date}}
-Chapter: {{title}}
+
+## Important Ideas
 
 ## Summary
 

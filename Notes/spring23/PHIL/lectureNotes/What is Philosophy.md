@@ -56,5 +56,5 @@
 - During his conversations with people, Socrates would always embarrass people considered as experts.
 
 ## Tasks:
-- [ ] Cahn et. al. "The elements of arguments," pp. 41-46 📅 2023-01-12 #phil1110 #reading #philosophy #spring23 
-- [ ] Steven Cahn. "Necessary and sufficient conditions," pp. 51-52. 📅 2023-01-12 #phil1110 #reading #philosophy #spring23 
+- [x] Cahn et. al. "The elements of arguments," pp. 41-46 #phil1110 #reading #philosophy #spring23 📅 2023-01-12 ✅ 2023-03-05
+- [x] Steven Cahn. "Necessary and sufficient conditions," pp. 51-52. #phil1110 #reading #philosophy #spring23 📅 2023-01-12 ✅ 2023-03-05

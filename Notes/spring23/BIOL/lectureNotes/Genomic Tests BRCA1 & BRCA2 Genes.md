@@ -1,0 +1,4 @@
+- BRCA1 & BRCA2 genes are essential for repairing damaged DNA.
+- BRCA1 & BRCA2 mutations are usually insertions or deletions of a small number of DNA base pairs in the gene.
+- BRCA1 & BRCA2 are unrelated proteins, but both are normally expressed in the cells of breast and other tissue.
+- DNA damage appears to be the primary underlying cause of cancer and deficiencies in DNA repair appears to underlie many forms of cancer.

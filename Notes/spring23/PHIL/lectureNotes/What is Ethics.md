@@ -46,5 +46,5 @@
 	- Just as a physician may prescribe medicine or therapy, one who engages in normative ethics is prescribing a criterion for determining the right way to behave.
 
 ## Tasks:
-- [ ] Selection from Jeremy Bentham’s _Principles of Morals and Legislation_ (on LMS) #phil1110 📅 2023-02-02 
+- [x] Selection from Jeremy Bentham’s _Principles of Morals and Legislation_ (on LMS) #phil1110 📅 2023-02-02 ✅ 2023-03-05
 - [x] Exam 1 #phil1110 📅 2023-02-09 ✅ 2023-02-16

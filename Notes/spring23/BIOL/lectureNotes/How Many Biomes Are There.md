@@ -1,0 +1,2 @@
+- Some contend that there are 5 major types of biomes, others say that there are 7 or even 15 or more biomes.
+- [[The Whittaker Diagram]] will be used as our definition.

@@ -1,0 +1,3 @@
+- A form of immunotherapy that uses **monoclonal antibodies** to bind to certain cells or proteins.
+	- Herceptin, etc.
+- The objective is that this treatment will stimulate the patient's immune system to attack specific cancer cells.

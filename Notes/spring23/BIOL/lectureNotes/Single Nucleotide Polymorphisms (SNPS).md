@@ -1,0 +1,7 @@
+- **Foundation for personalized medicine** - patients know risks of developing diseases from personal SNP profile.
+	- Estimated 5 million SNPs in human genome.
+	- Haplotype::all SNPs found on a given chromosome
+		- International effort to identify every SNP in human genome.
+- Data used in genome wide association studies.
+	- Rapid scanning of many individual genomes to find SNPs associated with diseases.
+	- Crucial to identifying SNPs contributing to complex diseases: Schizophrenia, Alzheimer's, Bipolar disorder.

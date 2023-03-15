@@ -1,0 +1,6 @@
+- Water in constant motion in current that influence regional climate.
+- Wind is responsible for surface currents.
+- Water circulates counter-clockwise in southern hemisphere and clockwise in northern.
+- Coastal climates affected by water movement.
+- If cold water flowing near coast, winds approaching coast give off heat to the cold water and winds cool down.
+- Warm waters can give up heat to the prevailing winds.

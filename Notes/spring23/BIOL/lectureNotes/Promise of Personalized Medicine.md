@@ -1,0 +1,5 @@
+- Advanced **screening and early detection** of disease.
+- Informed **prevention, proactive treatments** & lifestyle changes.
+- Select safer, **more effective medications** & dosages that reduce side effects.
+- Develop **better vaccines** that activate an individual's immune system w/o causing infection.
+- BUT the **epigenome** is a major player & it's influence on different diseases needs much more research.
