@@ -1,0 +1,1 @@
+- Organisms that are well adapted to the environment can survive and reproduce.

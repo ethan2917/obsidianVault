@@ -1,0 +1,3 @@
+- Common table salt
+- Chemical formula is NaCl
+- Salt is one atom of Na+ and one Cl-.

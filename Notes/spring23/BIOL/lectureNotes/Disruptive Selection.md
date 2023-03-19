@@ -1,0 +1,1 @@
+Forms at both ends of the range of variation are favored, but intermediate forms are selected against.

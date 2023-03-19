@@ -1,0 +1,2 @@
+- Life is the ultimate emergent property
+- Life arose as an inexorable sequence of emergent events, each the inevitable consequence of interactions **amongst carbon-based molecules**.

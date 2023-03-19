@@ -1,0 +1,1 @@
+When organisms adapt to the same environment.

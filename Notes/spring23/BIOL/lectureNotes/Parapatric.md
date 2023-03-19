@@ -1,0 +1,5 @@
+- Alongside of, near
+- Parapatric speciation is a special situation where **gene flow between two species is possible**.
+- In **hybrid zones** the territory (range) of two closely related species capable of producing offspring overlap.
+- The offspring are fertile, but **not as healthy or robust** as either parent population, so the parent populations are still considered to be two different species.
+- Those hybrids will reproduce will consequently deliver genes from one species into the gene pools of their main species.

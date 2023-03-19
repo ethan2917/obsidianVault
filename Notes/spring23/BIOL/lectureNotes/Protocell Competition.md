@@ -1,0 +1,3 @@
+- Replication of RNA molecules within protocells creates an **osmotic gradient**, driving the cell to expand.
+- As a protocell expands, membrane stretches and grans fatty acids from membranes of other protocells.
+	- The "prey" protocell has lower RNA replication rates, and this a lower osmotic gradient.

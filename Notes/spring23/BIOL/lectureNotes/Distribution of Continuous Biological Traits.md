@@ -1,0 +1,4 @@
+- Many continuous biological traits are **normally distributed**
+	- Traits are determined by the **additive effects of many genes**, each having a small positive of negative effect on the phenotype.
+- The sum of these effects causes a normal distribution of phenotypes.
+- Since selection acts on different phenotypes favoring some and eliminating others, **evolutionary change cannot take place without variation.**

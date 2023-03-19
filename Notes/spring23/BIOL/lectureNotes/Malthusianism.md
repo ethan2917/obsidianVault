@@ -1,0 +1,5 @@
+- Thomas Malthus 1766-1834
+	- English economist and philosopher
+- Population growth will always tend to outrun the food supply.
+- The betterment of humankind is impossible without strict limits on reproduction.
+- His ideas on the struggles of existence provided a framework that allowed Darwin to work.

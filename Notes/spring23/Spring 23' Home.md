@@ -2,7 +2,6 @@
 ### [[crashCourseInC++]]
 ### [[DS]]
 ### [[BIOL]]
-### [[BIOL LAB]]
 ### [[PHIL]]
 
 ## Tasks

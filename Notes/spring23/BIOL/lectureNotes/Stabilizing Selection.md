@@ -1,0 +1,1 @@
+Intermediate forms are favored, and extremes are eliminated.

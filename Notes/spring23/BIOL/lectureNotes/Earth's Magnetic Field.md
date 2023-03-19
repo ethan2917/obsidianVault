@@ -1,0 +1,2 @@
+- Earth's magnetic field protects the planet from solar wind.
+- Mars had a similar magnetic field as Earth, but due to its small size the core cooled faster and its magnetic field dissipated, leaving it a barren and empty desert.

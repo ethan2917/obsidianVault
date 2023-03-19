@@ -1,0 +1,3 @@
+- Coevolution occurs when the anti-predator adaptations of a prey species cause reciprocal adaptations by the predator that counter or diminish the effects of the prey's adaptation.
+	- The predator's counter adaptations in turn cause further adaptations on the part of the prey, etc.
+		- For example the Leopard and Antelope

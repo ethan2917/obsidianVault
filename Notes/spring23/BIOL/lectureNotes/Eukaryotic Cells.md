@@ -1,0 +1,7 @@
+- Vary widely in their cellular structure.
+- Common traits: 
+	- Intracellular membranes
+	- Complex cytoskeleton
+	- Mitochondria
+	- Plastids in photosynthesizes
+- Among multicellular organisms many cell types exists within a single organism, each with very different forms and functions.

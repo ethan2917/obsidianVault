@@ -1,0 +1,6 @@
+- Deleterious alleles become **homozygous**
+	- Similar to inbreeding depression
+	- Occurs when closely related individuals' mate.
+- Fewer, and less viable offspring.
+- Lower survivorship of populations.
+- Increased chance of species extinction.

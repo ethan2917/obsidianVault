@@ -1,0 +1,2 @@
+- Updated cameras and an optimal orbital path will work in conjunction with the James Webb telescope to analyze exoplanets and positively identify those with liquid water on the surface.
+- After liquid water, the next most important trait to look at is the oxygen content of the atmosphere.

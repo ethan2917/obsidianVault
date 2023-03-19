@@ -1,0 +1,3 @@
+- Grip branches
+- Grip objects/prey more powerfully and precisely
+- Use tools

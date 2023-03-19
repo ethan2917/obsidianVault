@@ -1,0 +1,9 @@
+- *Aegyptopithecus Zeuxis* was a transitional state leading to "Old World Monkeys"
+- Discovered in 2006 in Egypt
+- Arboreal and fruit eating
+- Size of a house cat with very small brain
+- Excellent vision
+- [[Sexual dimorphism]]
+- Old and new world monkeys have more teeth, nostril shape direction, prehensile tails.
+	- Old are native to Africa and Asia
+	- New are indigenous to the Americas

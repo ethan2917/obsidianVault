@@ -1,0 +1,7 @@
+- Differences in B-hemoglobin indicate
+	- How recent a common ancestor is shared among organisms
+	- How closely related a group of organisms must be
+	- Correlate with hereditary information
+		- DNA
+- The more differences, the longer since they shared a common ancestor.
+- When the number of differences are similar, the pairs of organisms are likely to have shared a common ancestor at about the same time in the past.

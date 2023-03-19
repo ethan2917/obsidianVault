@@ -1,0 +1,2 @@
+- 5 year voyage (1831-1836)
+- His interest in geographic distribution of species was kindled at the Galapagos Islands.

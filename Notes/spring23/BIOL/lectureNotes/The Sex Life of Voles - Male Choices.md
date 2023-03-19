@@ -1,0 +1,4 @@
+- The male *Montane* Vole is polygamous and never settles down with one partner.
+- The male *Prairie* Vole is monogamous and chooses a female to settle down with and continually mate.
+- The **monogamy gene** in the prairie vole encodes a vasopressin receptor protein where the receptor is prominently present in the brain.
+- The **montane voles are missing this gene** and if the gene from prairie voles is engineered into the montane vole, they become pair-bonded and show HPI.

@@ -1,0 +1,5 @@
+- New continents formed and broke apart, which created dramatic extremes in the climate.
+	- Earth plunged into a deep freeze.
+- Life was nearly wiped out but...
+	- Volcanoes caused carbon dioxide level to rise, this kept heat in and helped perpetuate life.
+- CO2 rises

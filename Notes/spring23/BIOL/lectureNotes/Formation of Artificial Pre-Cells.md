@@ -1,0 +1,5 @@
+- Experiments have shown that polypeptides can form microscopic fluid-filled spheres.
+- If certain kinds of lipids are in a solution, selectively permeable membranes will form.
+- These **molecular packages** are referred to as either **pre-cells**.
+	- Pre-cells are artificially made and can incorporate genetic material, creating a **synthetic cell**.
+		- This can be the basis for the construction of **artificial life**.

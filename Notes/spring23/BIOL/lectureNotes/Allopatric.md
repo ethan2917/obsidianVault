@@ -1,0 +1,4 @@
+- Other or different
+- Speciation in geographically isolated populations.
+- Some type of barrier exists that prevents/reduces gene flow.
+- Different mutations & different selection pressures cause divergence over time.

@@ -1,0 +1,1 @@
+- Organisms can produce more offspring than the environment can support.

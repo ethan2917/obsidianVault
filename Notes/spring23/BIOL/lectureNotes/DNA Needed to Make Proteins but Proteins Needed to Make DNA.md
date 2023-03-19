@@ -1,0 +1,3 @@
+- Proteins known as enzymes catalyze reactions essential to cell's survival.
+- Altman & Cech (1982) discovered RNAs can act as catalysts for chemical reactions. These catalytic RNAs are known as ribozymes.
+- Certain ribozymes called RNA replicases were also found to catalyze their own synthesis.

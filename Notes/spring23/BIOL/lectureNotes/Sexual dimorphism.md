@@ -1,0 +1,2 @@
+A phenotypic difference between males and females of the same species, meaning that there are obvious differences between the males and females of the same species.
+- Morphology, size, ornamentation, and behavior.

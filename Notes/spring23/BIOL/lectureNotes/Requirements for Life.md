@@ -1,0 +1,6 @@
+- **Growth** - increase size of parts not just accumulate matter.
+- **Response** -  react to environmental stimuli.
+- **Heredity** -  Ability to evolve traits over time.
+- **Metabolism** - convert/use energy to perform function.
+- **Reproduction** - capable of producing new organisms from the parent.
+- **Order** - generally characterized by ordered structures.

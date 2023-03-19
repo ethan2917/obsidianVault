@@ -1,0 +1,1 @@
+Rapid evolution based on the availability of open [[niche]] space.

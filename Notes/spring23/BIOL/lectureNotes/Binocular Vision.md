@@ -1,0 +1,4 @@
+- Depth perception
+- Excellent focus
+- Advantage when living in trees
+- But limits field of view

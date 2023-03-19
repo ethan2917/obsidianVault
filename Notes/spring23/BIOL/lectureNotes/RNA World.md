@@ -1,0 +1,2 @@
+- All these lines of evidence suggest use of RNA by early life forms for genese and replication preceded proteins and DNA.
+- Later more stable and efficient molecules such as DNA and proteins evolved and replaced much of RNA’s functionality.

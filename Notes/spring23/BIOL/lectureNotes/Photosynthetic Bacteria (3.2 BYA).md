@@ -1,0 +1,2 @@
+- *Aquifex* is an example of a living fossil.
+	- It has **cyclic photosynthesis** and is an extremophile growing at 95C.

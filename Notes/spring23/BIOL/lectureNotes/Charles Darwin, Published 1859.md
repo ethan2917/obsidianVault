@@ -1,0 +1,1 @@
+> [!quote] This preservation of favorable variations I have called Natural Selection, or "survival of the fittest". - Darwin

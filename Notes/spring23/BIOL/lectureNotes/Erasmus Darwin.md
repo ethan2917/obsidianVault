@@ -1,0 +1,2 @@
+- All life derived from one original ancestor.
+- Grandfather to Charles Darwin.

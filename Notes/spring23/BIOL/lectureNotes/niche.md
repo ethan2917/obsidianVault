@@ -1,0 +1,1 @@
+A position or role taken by a type of organism within the biological community.

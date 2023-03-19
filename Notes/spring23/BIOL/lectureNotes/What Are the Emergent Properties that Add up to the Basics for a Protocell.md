@@ -1,0 +1,4 @@
+- Atoms formed
+- Atoms combined to make precursor molecules.
+- Precursors form into macromolecules
+- Primitive RNAs develop replicase and catalytic activities.

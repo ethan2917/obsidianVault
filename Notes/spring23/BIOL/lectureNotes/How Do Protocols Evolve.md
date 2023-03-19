@@ -1,0 +1,4 @@
+- Protocells encapsulating higher amount of RNA will outcompete protocells with little or no RNA.
+	- They may grow by stealing membrane from other protocells.
+- RNA molecules must be replicated and mutations will generate RNAs.
+- Merging with other protocells can bring RNA with other capabilities into the protocell.

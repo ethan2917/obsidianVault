@@ -1,0 +1,3 @@
+- Unpredictable genetic shifts occurring after a few individuals establish a new population.
+- When small numbers of a larger population move to a new location, the genetic diversity may be lower than in the original population.
+- Genetic drift can cause fixation of alleles and some of these may be deleterious which impacts overall fitness, while other alleles may enhance fitness.

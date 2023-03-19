@@ -1,0 +1,6 @@
+- Exhibited care for others
+- Buried their dead
+- Sophisticated stone tools
+- Musical instruments
+- Jewellery and ornamentation
+- Most likely had spoken language

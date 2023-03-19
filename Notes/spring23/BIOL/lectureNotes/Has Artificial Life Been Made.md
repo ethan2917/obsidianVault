@@ -1,0 +1,4 @@
+- 2002 - Complete functioning virus created from commercially available ingredients, synthesized 5386 base DNA chain in test tube
+- 2003 - Venter predicts first “living” cell will be synthesized within 5 years
+- 2016 - Scientists have created a bacterium with a minimal, life-sustaining genome, but they don’t know what a third of its genes do
+- 2019 - Colonies of E. coli thrive with DNA constructed from scratch by humans, not nature

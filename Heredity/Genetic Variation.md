@@ -1,0 +1,6 @@
+- Darwin & Wallace were experts on **temporal & spatial variations within species**.
+	- Both realized that variation in traits invariably caused **differences in the ability of individuals to survive and reproduce**.
+	- This natural selection depended on **variability within a population**.
+		- Without variation natural selection could not occur.
+	- Darwin and Wallace did not understand the underlying causes of variation since they knew nothing about genetics.
+	- Mendel published his **concepts of multiple variation of "genetic" traits in 1868**.

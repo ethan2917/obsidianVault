@@ -1,0 +1,2 @@
+- **Iridium** is much more common in meteors than Earth rocks.
+- **Stratigraphy**: Iridium layer at K-T boundary is situated between the **end of the age of reptiles** and the **beginning of the age of mammals**.

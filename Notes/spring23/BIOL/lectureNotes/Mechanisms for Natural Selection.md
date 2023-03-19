@@ -1,0 +1,5 @@
+- Four conditions needed for natural selection to occur:
+	- [[Overproduction of offspring]]
+	- [[Heredity/Genetic Variation]]
+	- [[Struggle for Existence]]
+	- [[Differential Survival and Reproduction]]

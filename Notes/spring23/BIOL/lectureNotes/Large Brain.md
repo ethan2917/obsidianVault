@@ -1,0 +1,4 @@
+- Sensory input (acute visual system)
+- Motor output
+- Social interactions
+- Learning, memory, info gathering

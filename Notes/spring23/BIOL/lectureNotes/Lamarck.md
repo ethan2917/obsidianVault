@@ -1,0 +1,5 @@
+- 1744-1829
+- Time and favorable conditions
+	- Two principal means by which nature gives existence to all her productions
+	- Natural laws > miraculous interposition
+- "Philosophie Biologique"

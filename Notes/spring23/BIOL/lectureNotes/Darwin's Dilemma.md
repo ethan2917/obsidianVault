@@ -1,0 +1,4 @@
+- There is a gap in the fossil record.
+	- Pre-Cambrian discoveries did not happen till later.
+- The organisms at the bottom of everything did not have anything to leave a fossil record.
+	- Microbes could not leave fossils.

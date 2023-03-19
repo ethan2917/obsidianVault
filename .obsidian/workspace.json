@@ -11,8 +11,12 @@
             "id": "a493a15e90e38ef6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Homeobox",
+                "query": "tag:#R",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md"
+              }
             }
           }
         ]
@@ -192,33 +199,34 @@
   },
   "active": "a493a15e90e38ef6",
   "lastOpenFiles": [
-    "Notes/spring23/BIOL/BIOL.md",
-    "Positive/Negative Control.md",
     "Notes/spring23/BIOL/lectureNotes/3.1 Ecology, Climate, And Biomes.md",
-    "Notes/spring23/BIOL/lectureNotes/2.6 New Frontiers & Emerging Infectious Diseases.md",
-    "Notes/spring23/BIOL/lectureNotes/2.5 Human Genetics and Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/2.4 Genomes and Human Genetics.md",
-    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
-    "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md",
-    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md",
-    "Notes/spring23/BIOL/lectureNotes/Gene Expression.md",
-    "Notes/spring23/BIOL/lectureNotes/Lactose Absent.md",
-    "Notes/spring23/BIOL/lectureNotes/Lactose Present.md",
-    "Notes/spring23/BIOL/lectureNotes/Lac Operon.md",
-    "Notes/spring23/BIOL/lectureNotes/The Lac Operon in E. Coli.md",
+    "Notes/spring23/BIOL/BIOL.md",
+    "Notes/spring23/Spring 23' Home.md",
+    "Notes/spring23/BIOL/lectureNotes/Biomes.md",
+    "Notes/spring23/BIOL/lectureNotes/Freshwater Aquatic Ecosystems.md",
+    "Notes/spring23/BIOLLAB/BIOL LAB.md",
+    "Home.md",
+    "Notes/spring23/DS/lectureNotes/1.0 Introduction to C++, STL, & Strings.md",
+    "Notes/spring23/DS/lectureNotes/1.17 Problem Writing a Name Along a Diagonal.md",
+    "Notes/spring23/DS/lectureNotes/1.15 About STL String Objects.md",
+    "Notes/spring23/DS/lectureNotes/1.13 C-style Arrays.md",
+    "Notes/spring23/DS/lectureNotes/1.14 Python Strings vs. C Chars vs. C-style Strings vs. C++ STL Strings.md",
+    "Notes/spring23/DS/lectureNotes/1.12 for & while Loops.md",
+    "Notes/spring23/DS/lectureNotes/1.11 Value Parameters and Reference Parameters.md",
+    "Notes/spring23/DS/lectureNotes/1.10 Functions and Arguments.md",
+    "Notes/spring23/DS/lectureNotes/1.9 Conditionals and IF Statements.md",
+    "Notes/spring23/DS/lectureNotes/1.8 Expressions, Assignments, and Statements.md",
+    "Notes/spring23/DS/lectureNotes/1.7 Variables and Types.md",
+    "Notes/spring23/DS/lectureNotes/1.5 The C++ Standard Library, a.k.a. STL.md",
+    "Notes/spring23/DS/lectureNotes/1.3 A Sample C++ Program Find the Roots of a Quadratic Polynomial.md",
+    "Notes/spring23/DS/lectureNotes/1.2 Compiled Languages vs. Interpreted Languages.md",
+    "Notes/spring23/DS/DS.md",
+    "Notes/spring23/DS/lectureNotes/14.0 Operators.md",
+    "Notes/spring23/DS/lectureNotes/13.0 Problem Solving I.md",
+    "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
+    "Notes/spring23/DS/lectureNotes/7.0 Big O Notation and Basic Recursion.md",
+    "Heredity",
     "Positive",
-    "Notes/spring23/BIOL/lectureNotes/The Driver Behind Biology's Central Dogma.md",
-    "Notes/spring23/BIOL/lectureNotes/How Are Genes Regulated.md",
-    "Notes/spring23/BIOL/lectureNotes/RNA Polymerase.md",
-    "Notes/spring23/BIOL/lectureNotes/Activator.md",
-    "Notes/spring23/BIOL/lectureNotes/Repressor.md",
-    "Notes/spring23/BIOL/lectureNotes/Operator.md",
-    "Notes/spring23/BIOL/lectureNotes/Promoter.md",
-    "Notes/spring23/BIOL/lectureNotes/Operon.md",
-    "Notes/spring23/BIOL/lectureNotes/Summary Mitosis & Meiosis.md",
-    "Notes/spring23/BIOL/lectureNotes/Meiosis.md",
-    "Notes/spring23/BIOL/lectureNotes/Phases of Meiosis.md",
-    "Notes/spring23/BIOL/lectureNotes/Mitosis.md",
     "Notes/spring23/BIOL/lectureNotes/attachments/Major Ocean Currents.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/Oceanic Ecosystem.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/The Whittaker Diagram.png",
@@ -234,7 +242,6 @@
     "Templates/Templates Vault V1.3/templates/task-and-projects/README",
     "Templates/Templates Vault V1.3/templates/school/School Template",
     "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200",
-    "Templates/Templates Vault V1.3/templates/task-and-projects",
     "Untitled.canvas",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",

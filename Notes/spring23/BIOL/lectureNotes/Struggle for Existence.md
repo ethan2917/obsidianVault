@@ -1,0 +1,8 @@
+-  Predator prey interactions
+		- Lynx and snowshoe hair
+			- Population oscillations
+				- Population rises and dips.
+				- A resource is present and is driving the population density of its predator.
+		- Competition for resources
+			- **Interspecific** between different species.
+			- **Intraspecific** within one species.

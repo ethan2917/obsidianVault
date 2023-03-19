@@ -1,0 +1,4 @@
+- Fossils of "Lucy" were discovered in the afar region of Ethiopia
+- The skull is larger than a chimp.
+- Lucy stood 4' tall and had longer arms than current humans.
+- The shape of the pelvis and hips are different to support **bipedalism**.
