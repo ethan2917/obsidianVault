@@ -1,0 +1,6 @@
+- **Transcription Factors (TF)** are proteins that bind to specific DNA sequences & control the transcription of DNA to mRNA.
+	- They promote or block RNA polymerase, the enzyme that copies genetic information from DNA to RNA.
+- **2600 proteins** or 10% of human genome function as TFs.
+- TFs are critical to the right genes being expressed in the right cells at the right time.
+	- There are many TFs involved in the development of the zygote.
+- Most important are the **homeodomain** proteins coded for by **homeobox genes**.

@@ -1,0 +1,1 @@
+Sister chromatids separate into individual chromosomes and are pulled apart.

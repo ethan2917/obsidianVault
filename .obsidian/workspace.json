@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3a91ddaa629407",
+        "id": "66d300d47b62cbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "df8289287f8f80b7",
+            "id": "a493a15e90e38ef6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tumor",
+                "query": "tag:#Homeobox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -198,34 +190,35 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "df8289287f8f80b7",
+  "active": "a493a15e90e38ef6",
   "lastOpenFiles": [
-    "Notes/spring23/DS/lectureNotes/13.0 Problem Solving I.md",
-    "Notes/spring23/DS/lectureNotes/13.6 Nonlinear Word Search.md",
-    "Notes/spring23/DS/lectureNotes/13.5 Merge Sort.md",
-    "Notes/spring23/DS/lectureNotes/13.3 Getting the Details Right.md",
-    "Notes/spring23/DS/lectureNotes/13.2 Mapping Ideas into Code.md",
-    "Notes/spring23/DS/lectureNotes/13.1 Generating and Evaluating Ideas.md",
-    "Notes/spring23/DS/DS.md",
-    "Notes/spring23/Spring 23' Home.md",
     "Notes/spring23/BIOL/BIOL.md",
-    "Home.md",
-    "Notes/spring23/BIOL/lectureNotes/1.1 Origins of Life and The RNA World.md",
-    "Notes/spring23/BIOL/lectureNotes/1.0 Course Overview.md",
+    "Positive/Negative Control.md",
+    "Notes/spring23/BIOL/lectureNotes/3.1 Ecology, Climate, And Biomes.md",
+    "Notes/spring23/BIOL/lectureNotes/2.6 New Frontiers & Emerging Infectious Diseases.md",
     "Notes/spring23/BIOL/lectureNotes/2.5 Human Genetics and Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/Genetic Origin of Disease.md",
-    "Notes/spring23/BIOL/lectureNotes/Accidents During Meiosis.md",
-    "Notes/spring23/BIOL/lectureNotes/Chromosome Number Alterations.md",
-    "Notes/spring23/BIOL/lectureNotes/Nondisjunction.md",
-    "Notes/spring23/BIOL/lectureNotes/During Meiosis I.md",
-    "Notes/spring23/BIOL/lectureNotes/2.5 Genetic Disease and Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/Personalized Medicine and Cancer.md",
-    "Notes/spring23/BIOL/lectureNotes/Genomic Tests BRCA1 & BRCA2 Genes.md",
-    "Notes/spring23/BIOL/lectureNotes/Personalized Medicine.md",
-    "Notes/spring23/BIOL/lectureNotes/Lung Cancer.md",
-    "Notes/spring23/BIOL/lectureNotes/Breast Cancer.md",
-    "Notes/spring23/BIOL/lectureNotes/The Cancer Genome Atlas Project.md",
-    "Notes/spring23/BIOL/lectureNotes/Tumor Suppressor Genes (TSG) - Transcription Factors.md",
+    "Notes/spring23/BIOL/lectureNotes/2.4 Genomes and Human Genetics.md",
+    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
+    "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md",
+    "Notes/spring23/BIOL/lectureNotes/2.1 DNA Structure & Function.md",
+    "Notes/spring23/BIOL/lectureNotes/Gene Expression.md",
+    "Notes/spring23/BIOL/lectureNotes/Lactose Absent.md",
+    "Notes/spring23/BIOL/lectureNotes/Lactose Present.md",
+    "Notes/spring23/BIOL/lectureNotes/Lac Operon.md",
+    "Notes/spring23/BIOL/lectureNotes/The Lac Operon in E. Coli.md",
+    "Positive",
+    "Notes/spring23/BIOL/lectureNotes/The Driver Behind Biology's Central Dogma.md",
+    "Notes/spring23/BIOL/lectureNotes/How Are Genes Regulated.md",
+    "Notes/spring23/BIOL/lectureNotes/RNA Polymerase.md",
+    "Notes/spring23/BIOL/lectureNotes/Activator.md",
+    "Notes/spring23/BIOL/lectureNotes/Repressor.md",
+    "Notes/spring23/BIOL/lectureNotes/Operator.md",
+    "Notes/spring23/BIOL/lectureNotes/Promoter.md",
+    "Notes/spring23/BIOL/lectureNotes/Operon.md",
+    "Notes/spring23/BIOL/lectureNotes/Summary Mitosis & Meiosis.md",
+    "Notes/spring23/BIOL/lectureNotes/Meiosis.md",
+    "Notes/spring23/BIOL/lectureNotes/Phases of Meiosis.md",
+    "Notes/spring23/BIOL/lectureNotes/Mitosis.md",
     "Notes/spring23/BIOL/lectureNotes/attachments/Major Ocean Currents.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/Oceanic Ecosystem.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/The Whittaker Diagram.png",
@@ -242,7 +235,6 @@
     "Templates/Templates Vault V1.3/templates/school/School Template",
     "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200",
     "Templates/Templates Vault V1.3/templates/task-and-projects",
-    "Templates/Templates Vault V1.3/templates/school",
     "Untitled.canvas",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
     "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",

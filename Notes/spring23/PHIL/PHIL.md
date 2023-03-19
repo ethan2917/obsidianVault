@@ -14,16 +14,13 @@
 [[Puzzling Out Knowledge]]
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
+[[Virtue Ethics]]
+[[The Ethics of Care]]
 
 ## Tasks
 ### Incomplete
 ```tasks
 not done
-path includes PHIL
-```
-### Complete
-```tasks
-done
 path includes PHIL
 ```
 

@@ -1,0 +1,1 @@
+Unit of DNA that initiates transcription of a gene.

@@ -1,0 +1,3 @@
+- Small single stranded RNA (20-26 nucleotides) associated with protein.
+- Promote degradation or block translation of mRNA and hence silence target genes.
+- Expression of 1/3 of human genes regulated by ~1000 miRNAs - critical for development.

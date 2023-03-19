@@ -1,0 +1,5 @@
+- It tells amino acids how to line up and form perfect protein shapes.
+- If the right proteins are built at the right time in the right place everything should come out fine.
+- DNA lives inside the nucleus.
+- Amino acids live in the cytoplasm.
+- To help DNA react with cytoplasm the cell converts amino acids into proteins.

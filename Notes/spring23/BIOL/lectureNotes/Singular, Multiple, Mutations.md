@@ -1,0 +1,6 @@
+- Most **eukaryotic genes** have intervening sequences of nucleotides within the message that they carry,
+	- This makes no sense in terms of reading the information.
+- Extracting the meaning requires precision.
+- The **transcript** of these genes **must be processed** to extract the correct information.
+- There are evolutionary reasons for introns. Noncoding introns favored evolution of **multi-domain proteins**.
+- Rapid evolution new combinations of **functional domains**.

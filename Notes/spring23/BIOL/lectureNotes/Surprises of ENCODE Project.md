@@ -1,0 +1,5 @@
+- 80% of genome contains elements (active RNA molecules) with biochemical function.
+- 18,400 RNA genes & 20,687 protein-coding genes.
+- **RNA is a major functional unit of the epigenome**
+- 76% of genome transcribed to RNA not to proteins.
+- **Evolution** can occur by **selection for RNA sequences that alter gene regulation**, not just selection for protein-coding sequences.

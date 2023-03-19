@@ -1,0 +1,5 @@
+- Gene regulation determines which genes are expressed (transcribed by mRNA) within a given cell.
+- Every cell in our bodies contains a complete copy of all 21,000+ genes.
+- All cells are the same genetically but turn different genes **on and off** to produce different proteins as needed.
+- During development of a fetus, 1000s of genes are turned **on and off**.
+- Eukaryotes use **multiple mechanisms** including operon type feedback to regulate gene expression.

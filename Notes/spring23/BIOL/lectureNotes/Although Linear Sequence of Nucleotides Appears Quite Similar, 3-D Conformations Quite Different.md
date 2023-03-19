@@ -1,0 +1,3 @@
+- **RNA** can fold into a **variety of shapes**.
+- This conformational complexity allows RNA to serve multiple purposes.
+- This makes RNA more diverse than DNA.

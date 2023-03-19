@@ -1,0 +1,3 @@
+- In **mitosis, two identical sets of DNA** from the parent cell must be perfectly divided and separated **into two new daughter cells.**
+- The **mitotic spindle**, is a machine that uses **mechanical forces** like "push, pull, and resistance" **to complete the task.**
+	- Like most machinery, the **mitotic spindle can malfunction,** and when it does, DNA can be broken or unevenly divided, errors implicated in the **uncontrolled cell division and cancer**.

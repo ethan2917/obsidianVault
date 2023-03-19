@@ -1,0 +1,2 @@
+- Chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.
+	- Two new nuclear membranes then form around each of the two regions.

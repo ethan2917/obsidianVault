@@ -1,0 +1,1 @@
+Molecule that attaches to DNA to block polymerase from binding.

@@ -1,0 +1,7 @@
+- A **karyotype** is the number of chromosomes in the nucleus of a normal eukaryotic cell.
+- Humans have **23 pairs of chromosomes**
+	- **22 pairs of autosomal & 1 pair of sex chromosomes;**
+		- XX (Female)
+		- XY (Male)
+- Thus the **2N** or **diploid number of chromosomes in humans is 56 & the haploid number is 23**.
+- **Polyploids** are species with 2 or more sets of chromosomes. It is **common in plants** & important in plant speciation.

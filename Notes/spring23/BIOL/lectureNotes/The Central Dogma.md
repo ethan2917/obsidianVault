@@ -1,0 +1,3 @@
+- The triplet code, transcription, translation and the idea of "one gene-one protein" became the foundation for the "**central dogma**" first defined by Francis Crick in 1958:
+- In other words: there is a **one-way flow of information** from genes to mRNA (messenger) and tRNA (transfer) to proteins.
+> [!quote] "The central dogma of molecular biology deals with the detailed residue-by-residue transfer of sequential information. It states such information cannot be transferred back from protein to either protein or nucleic acid." - F. Crick

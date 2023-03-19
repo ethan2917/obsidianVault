@@ -1,0 +1,1 @@
+ Unit of DNA that contains genes that can be differentially regulated.

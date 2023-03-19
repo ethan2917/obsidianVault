@@ -1,0 +1,3 @@
+- Maurice Wilkins and Rosalind Franklin used a technique called **X-ray crystallography** to study molecular structure.
+- In 1952, Franklin produced a picture of the DNA molecule using[[ Photo 51]].
+- Using Franklin's image as the crucial piece of evidence, Watson and Crick went on to publish their Nobel-Prize winning DNA structure.

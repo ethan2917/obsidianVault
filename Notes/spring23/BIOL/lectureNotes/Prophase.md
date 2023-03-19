@@ -1,0 +1,1 @@
+Chromosomes become visible and the centrioles separate and move to opposite poles of the cell.

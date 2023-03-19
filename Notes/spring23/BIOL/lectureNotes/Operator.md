@@ -1,0 +1,1 @@
+Area that interacts with regulatory proteins.

@@ -1,0 +1,2 @@
+- **Lactose present:** operon is active and available for transcription because lactose binds to the repressor protein inducing a conformational change.
+- **Repressor/lactose complex** cannot bind to the operator; and RNA polymerase binds and initiates transcription.

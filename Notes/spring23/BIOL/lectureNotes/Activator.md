@@ -1,0 +1,1 @@
+Protein that can attach to DNA to increase gene transcription.

@@ -1,0 +1,2 @@
+- Special chemicals inside the nucleus make partial copies of the DNA code called **RNA**.
+- The RNA moves into the **ribosome** to read the RNA code and chain amino acids according to the RNA code.

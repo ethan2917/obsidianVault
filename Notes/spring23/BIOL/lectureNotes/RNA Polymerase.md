@@ -1,0 +1,1 @@
+Binds to DNA to transcribe RNA.

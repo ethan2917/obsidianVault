@@ -1,0 +1,6 @@
+- **~25-50% solitary genes** that are represented once in genome.
+- **~50-75% duplicated genes** are close but nonidentical sequences.
+- **~Gene family -> protein family**
+	- Ex. protein kinases, immunoglobulins, olfactory receptors with hundreds of family members, cytoskeletal proteins (actin, tubulin), molecular motors (kinesin, myosin, dynein, superfamilies)
+- Redundancy can lead to **diversity** which results in **tuning of specific function** and **backup can prevent lethality** if there is a mutation.
+- This permits **divergence of function** to evolve.

@@ -1,0 +1,17 @@
+- Watson and Crick noted that the specific **base pairing suggested a possible copying mechanism**:
+	- Since the two strands of DNA are **complementary**, each strand **acts as a template** for building a new strand.
+	- In DNA replication, the parent molecule unwinds, and two new daughter strands are built based o base-pairing rules ![[2.1 DNA Structure & Function-5.png | 500]]
+	- The copying of DNA is remarkable in its speed, accuracy and complexity.
+	- More than a dozen enzymes and many other proteins participate in DNA replication.
+	- The enzyme that directly polymerizes nucleotides is called **DNA polymerase**.
+	- DNA polymerases catalyze the elongation of DNA at a replication fork.
+	- Each nucleotide that is added to a growing DNA strand is a **deoxynucleoside triphosphate (dNTP)**
+	- **Hydrolosis of these phosphates powers DNA replication** just as hydrolysis of ATP to ADP powers other enzymatic reactions elsewhere in the cell.
+	- The initial nucleotide strand is a short **RNA primer**;
+		- DNA replication cannot begin without a primer.
+	- DNA polymerase can only add nucleotides to the free 3' end of a growing strand;
+		- Therefore, a new DNA strand can **elongate only in the 5' to 3' direction**
+	- This means that at each replication fork there is a **leading strand**, which can be synthesized continuously, and a **lagging strand** that must be **synthesized in segments**.
+	- To elongate the lagging strand DNA polymerase must work in the **direction away from the replication fork**.
+	- The lagging strand is synthesized as a series of segments called **Okazaki fragments**, which are joined together by DNA ligase.
+[[The Central Dogma]]

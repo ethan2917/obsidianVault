@@ -1,0 +1,11 @@
+- The **unique sequences of bases** represent the information that is past down from parent to offspring.
+- The nature of DNA double helix is ideal for storage information:
+	- The nitrogenous bases **face inward**, not easily accessed by highly reactive chemicals that could damage the bases and alter the information.
+	- The sugar-phosphate backbones don't carry information, so if the backbone is damaged, **the genetic information isn't at risk** of being altered.
+	- The sugar-phosphate backbone is strong but **flexible**.
+	- The two strands of DNA are held together by hydrogen bonds, and since they are **weak interactions** (compared to covalent bonds) the double helix is easily separated, allowing access to genetic information without damaging the structural integrity of the molecule. 
+	- DNA is packaged together with proteins called **histones** to form **chromatin** that can be packed into dense structures to allow chromosomes to be easily separated during mitosis
+	- Chromatin changes in packing during the cell cycle.
+	- At **interphase** (mitosis), chromosomes are not highly condensed, but they still occupy specific restricted regions in the nucleus.
+	- Dense packing (called **heterochromatin**) makes it difficult for the cell to express genetic information coded in these regions, silencing those genes.
+	- Histones can undergo chemical modifications that result in changes in chromatin organization and thus change gene expression.

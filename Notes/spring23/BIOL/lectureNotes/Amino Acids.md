@@ -1,0 +1,2 @@
+- The building blocks of life
+- They can attach to each other to create proteins.

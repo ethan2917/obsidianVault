@@ -1,0 +1,4 @@
+- **Dicer gene** is essential for generation of **miRNA in mammals**.
+	- If silence, result is **embryonic death**.
+- In a study where Dicer was silenced before limb development, **limbs never developed**.
+- **miRNAs regulate translation** of 1000s of mRNAs in development.

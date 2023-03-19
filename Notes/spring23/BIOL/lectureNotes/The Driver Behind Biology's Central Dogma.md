@@ -1,0 +1,7 @@
+- ***E. coli* as model organism to understand prokaryotic gene expression**
+- **Features of prokaryotic transcriptional regulation**
+- Ability to change metabolic activities in response to the environment.
+- Capability to induce/repress enzyme pathways and production.
+- Examples of regulated gene networks.
+	- *lac operon*
+	- *trp operon*

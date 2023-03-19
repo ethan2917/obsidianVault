@@ -1,0 +1,1 @@
+Chromosomes line up across the center of the call and become connected to the spindle fiber at their centromere.

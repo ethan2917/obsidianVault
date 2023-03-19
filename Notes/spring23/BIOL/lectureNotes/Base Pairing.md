@@ -1,0 +1,7 @@
+- Watson and Crick thought the bases paired **like with like** e.g. A with A, G with G, and so on.
+- Such pairings did not result in a uniform width, and this **did not match Franklin's data** showing DNA has a constant width.
+- Instead, pairing a **purine** with a **pyrimidine** resulted in a uniform width.
+	- Purines: A and G
+	- Pyrimidines: C and T
+- ![[2.1 DNA Structure & Function-3.png | 400]]
+- ![[2.1 DNA Structure & Function-4.png | 400]]

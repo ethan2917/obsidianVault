@@ -1,0 +1,6 @@
+- **Diploid** cells have **two** homologous sets of chromosomes.
+- **Haploid** cells have one **set** of chromosomes.
+- **Meiosis produces haploid gametes**
+	- **Sperm and eggs**
+- Fertilization is the union of **germ** cells (sperm and egg).
+	- After fertilization they **zygote** or fertilized egg has a diploid chromosome number, **one haploid set from each parent**.

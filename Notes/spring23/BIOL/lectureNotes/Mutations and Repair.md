@@ -1,0 +1,19 @@
+[[Mutations]]
+- A **nucleotide-pair substitution** replaces one complementary pair of nucleotides with another pair of nucleotides.
+- **Silent mutations** have no effect on the amino acid produced by a codon because of redundancy in the genetic code (i.e., a changes one codon to another but **both codons code for the same amino acid**).
+- **Missense mutations** still code for an amino acid, but not the correct amino acid.
+	- For example, changing one nucleotide pair of the hemoglobin gene causes sickle-cell disease.
+- **Nonsense mutation** change an amino acid codon into a stop codon, **truncating** the polypeptide and nearly always lead to a nonfunctional protein.
+- ![[2.1 DNA Structure & Function-8.png | 300]]
+- A **one base substitution** in the gene coding for hemoglobin causes sickly cell anemia.
+- The mutant hemoglobin molecules group into long bundles that form larger structures that stretch and distort the cell.
+- ![[2.1 DNA Structure & Function-9.png | 300]]
+- **Insertions** and **deletions** are additions or losses of one or more nucleotides pairs in a gene.
+- Compared to nucleotide-pair substitutions, these types of mutations are **more likely to have disastrous effects** on the resulting protein.
+- Insertion or deletion of any number nucleotides that is not divisible by three (the length of a codon) will alter the reading frame, producing a **frameshift mutation**.
+- ![[2.1 DNA Structure & Function-10.png | 200]]
+- ![[2.1 DNA Structure & Function-11.png]]
+- **Spontaneous mutations** can occur during DNA replication, recombination, or repair.
+- **Mutagens** are physical or chemical agents that can increase the rate of mutation either directly or indirectly.
+- Different repair mechanisms are used to restore damaged DNA, but some of these mechanisms are not very accurate and may lead to mutation.
+- ![[2.1 DNA Structure & Function-12.png]]

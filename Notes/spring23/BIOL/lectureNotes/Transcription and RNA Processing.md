@@ -1,0 +1,6 @@
+- DNA transcribed to a **primary RNA transcript**
+- **GTP Cap** is attached to **5' end**
+	- Prevents degradation
+- **Poly A tail** at **3' end**
+	- Serves as nuclear export signal.
+- **Spliceosome** cuts out **introns** and reassembles transcript and the final **mRNA** transcript is **transported to the cytoplasm**.

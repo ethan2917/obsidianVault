@@ -1,0 +1,1 @@
+![[2.4 Genomes and Human Genetics-2.png]]

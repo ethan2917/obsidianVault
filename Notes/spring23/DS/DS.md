@@ -33,11 +33,6 @@
 path includes DS
 not done
 ```
-### Completed Tasks
-```tasks
-path includes DS
-done
-```
 
 ## Tags
 #dataStructures #computerScience #spring23 #cplusplus 

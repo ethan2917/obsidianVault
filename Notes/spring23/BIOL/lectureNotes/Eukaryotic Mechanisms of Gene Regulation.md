@@ -1,0 +1,8 @@
+- All cells contain the same genotype.
+- Differential gene expression leads to different cell types.
+- Multiple mechanisms to regulate gene expression.
+	- **DNA packing** prevents access of the DNA for transcription.
+	- Eukaryotic transcription has **multiple enhancers, silencers**, and a variety of proteins that are assembled into a complex.
+	- **Alternative RNA splicing** leads to multiple mRNAs for translation.
+	- There are **microRNAs and RNA interference**.
+	- **Translation** and **later events also regulated**.

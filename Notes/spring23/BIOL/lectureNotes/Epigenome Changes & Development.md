@@ -1,0 +1,5 @@
+- **Enhancers activated through interactions with transcription factors** which bind to specific DNA sequences within the enhancer region.
+- Enhancers active in epigenome areas determining cell type are enriched in DNA sequences to which cell type-determining transcription factors can bind.
+- Changes in these epigenomic areas during **developmental transitions** affect cell differentiation and interactions with transcription factors.
+- ENCODE uncovered **hundreds of thousands of enhancer regions** in the genome that regulate expression & development.
+- Each cell type is regulated by a subset of 20,000 - 40,000 enhancers which determine its gene-expression profile.

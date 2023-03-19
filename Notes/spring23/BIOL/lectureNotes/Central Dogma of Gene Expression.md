@@ -1,0 +1,5 @@
+- [[The Central Dogma]] of gene expression describes the flow of information from gene to protein, yielding the organism's phenotype.
+- This takes place in two phases:
+	- **Transcription: DNA -> mRNA**
+	- **Translation: mRNA -> Proteins**
+- This entire process is highly regulated and influenced by changes in an organism's environment and internal regulation.

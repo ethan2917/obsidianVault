@@ -1,0 +1,5 @@
+- Epigenomic change agents include:
+	- **Methyl groups (CH3)** that can attach to the DNA and activate or repress gene expression.
+	- **Acetyl groups** & other chemicals can attach to histone packaging of DNA & make genes accessible.
+	- **Small RNA molecules** that can attach to DNA or the histones and turn genes on and off.
+- Errors in the epigenetic process can lead to abnormal gene activity, cancers, metabolic problems and developmental disorders.

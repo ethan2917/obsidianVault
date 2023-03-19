@@ -1,0 +1,5 @@
+- 3 enzymes located together on the chromosome and regulated as single unit.
+	- lacZ
+	- lacY
+	- lacA
+- Regulatory regions precede the genes encoding the enzymes.
