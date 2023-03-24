@@ -1,0 +1,2 @@
+- A group of individuals of the same species living together in the same place at the same time.
+- This would include all life form-plants, animals, microorganisms

@@ -1,0 +1,1 @@
+Direct interaction between species as in fighting over limited resources.

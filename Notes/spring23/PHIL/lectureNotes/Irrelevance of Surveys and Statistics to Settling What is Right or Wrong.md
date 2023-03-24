@@ -1,0 +1,4 @@
+- One might think that we could settle the question of whether some action is right or wrong by surveying people in the community to see what they think about it.
+- Although, this might provide some interesting data, it would not do anything to settle the question of whether the action *really* is right or wrong.
+> [!question] Public opinion about whether an action is right or wrong often changes over time, but why think that this change in opinion changes whether the action really is right or wrong?
+> > [!todo] By analogy, at one time most people thought the earth was at the center of the cosmos, but now we do not believe this. This shift in public opinion has not changed the truth value of the claim itself. *It was always in fact false* that the Earth is the center of the cosmos, even when most people thought it was true.

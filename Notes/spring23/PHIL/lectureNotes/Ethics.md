@@ -1,0 +1,1 @@
+- Ethics is the systematic, organized study of right and wrong, good and bad, and of theories concerning of these things.

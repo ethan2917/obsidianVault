@@ -1,0 +1,1 @@
+- Measurement of conditions on Earth using satellite images taken at different wavelengths.

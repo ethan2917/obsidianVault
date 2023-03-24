@@ -1,0 +1,1 @@
+Organisms that are capable of synthesizing organic compounds from inorganic substances through the process of photosynthesis.

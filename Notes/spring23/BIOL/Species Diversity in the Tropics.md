@@ -1,0 +1,8 @@
+- More species exist near the tropics.
+	- They are at a higher density
+- The tropics get more sunlight radiation every year meaning that the plants and animals have more energy.
+- There are a lot of [[Niche]]'s in the rainforest.
+- The competition resources is extreme, but because the climate and resources are more stable the species are able to specialize.
+- Speciation happens faster near the equator.
+	- Plants and animals grow faster, driving competition forcing plans and animals to specify.
+- Species from the rainforest seed biodiversity in other areas.

@@ -1,0 +1,2 @@
+- Black daisies provide positive [[Feedback]] on temperature by absorbing photons.
+- White daisies reflect photons and provide negative [[Feedback]] on temperature.

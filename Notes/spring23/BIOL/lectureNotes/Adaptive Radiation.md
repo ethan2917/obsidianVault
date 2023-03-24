@@ -1,1 +1,1 @@
-Rapid evolution based on the availability of open [[niche]] space.
+Rapid evolution based on the availability of open [[Niche]] space.

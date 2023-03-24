@@ -1,0 +1,3 @@
+- Natural or artificial reservoirs that absorb and store carbon dioxide (CO2) from the atmosphere
+- Carbon sinks include the oceans, the plants, and soil.
+- A carbon sink grows and storing more carbon compared to a [[Carbon Sources]] which is shrinking in size and releasing more carbon.

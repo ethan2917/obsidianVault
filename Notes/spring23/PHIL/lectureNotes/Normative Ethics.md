@@ -1,0 +1,4 @@
+- In contrast to purely descriptive ethics, philosophers are concerned with what people *should* think about moral matters and how they *should* act.
+	- In other words, they are concerned with what is **normative**: what the norms and standards *should* be.
+- Normative ethics are **prescriptive**.
+	- Just as a physician may prescribe medicine or therapy, one who engages in normative ethics is prescribing a criterion for determining the right way to behave.

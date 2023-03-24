@@ -1,0 +1,2 @@
+- Distribution of moisture & energy flow within the atmosphere helps determine climate and the major vegetation communities in the biosphere.
+- Thermohaline current distribute heat & moderate the Earth's temperature, impacting all life within the Biosphere.

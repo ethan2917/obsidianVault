@@ -13,6 +13,9 @@
 [[12.0 Advanced Recursion]]
 [[13.0 Problem Solving I]]
 [[14.0 Operators]]
+[[15.0 Associative Containers (Maps), Part 1]]
+[[16.0 Associative Containers (Maps), Part 2]]
+
 
 ## HW Outlines
 [[HW 3 Outline]]

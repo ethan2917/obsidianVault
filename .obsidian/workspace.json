@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "66d300d47b62cbb5",
+        "id": "1aebba1308bce48f",
         "type": "tabs",
         "children": [
           {
-            "id": "a493a15e90e38ef6",
+            "id": "89dff1344b85be5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md",
+                "file": "Notes/spring23/BIOL/Competitive Exclusion Principle.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91810c413afd9c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/BIOL/lectureNotes/Biomes.md"
+                "file": "Home.md"
               }
             }
           }
@@ -180,8 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
       "flashcards-obsidian:Generate flashcards": false,
@@ -194,58 +205,60 @@
       "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a493a15e90e38ef6",
+  "active": "91810c413afd9c32",
   "lastOpenFiles": [
-    "Notes/spring23/BIOL/lectureNotes/3.1 Ecology, Climate, And Biomes.md",
+    "Notes/spring23/BIOL/Competitive Exclusion Principle.md",
+    "Notes/spring23/BIOL/Competition Experiments.md",
+    "Notes/spring23/BIOL/Competition.md",
+    "Notes/spring23/BIOL/3.3 Understanding Ecosystems.md",
+    "Notes/spring23/BIOL/Resource Partitioning.md",
+    "Notes/spring23/BIOL/Competition & Adaptive Radiation.md",
+    "Notes/spring23/BIOL/Character Displacement.md",
+    "Notes/spring23/BIOL/Time Partitioning.md",
+    "Notes/spring23/BIOL/Space Partitioning.md",
+    "Notes/spring23/BIOL/Food Partitioning.md",
+    "Notes/spring23/BIOL/Types of Competition.md",
+    "Notes/spring23/BIOL/Apparent Competition.md",
+    "Notes/spring23/BIOL/Exploitative Competition.md",
+    "Notes/spring23/BIOL/Interference Competition.md",
+    "Notes/spring23/BIOL/Intraspecific Competition.md",
+    "Notes/spring23/BIOL/Interspecific Competition.md",
+    "Notes/spring23/BIOL/Complex Dynamic System.md",
+    "Notes/spring23/BIOL/Understanding Complex Systems.md",
+    "Notes/spring23/BIOL/Holistic Complex Systems.md",
+    "Notes/spring23/BIOL/Reductionist Method.md",
+    "Notes/spring23/BIOL/Thinking Like a Reductionist.md",
+    "Notes/spring23/BIOL/Reductionist Legacy.md",
+    "Notes/spring23/BIOL/Thinking Holistically.md",
     "Notes/spring23/BIOL/BIOL.md",
     "Notes/spring23/Spring 23' Home.md",
-    "Notes/spring23/BIOL/lectureNotes/Biomes.md",
-    "Notes/spring23/BIOL/lectureNotes/Freshwater Aquatic Ecosystems.md",
-    "Notes/spring23/BIOLLAB/BIOL LAB.md",
-    "Home.md",
-    "Notes/spring23/DS/lectureNotes/1.0 Introduction to C++, STL, & Strings.md",
-    "Notes/spring23/DS/lectureNotes/1.17 Problem Writing a Name Along a Diagonal.md",
-    "Notes/spring23/DS/lectureNotes/1.15 About STL String Objects.md",
-    "Notes/spring23/DS/lectureNotes/1.13 C-style Arrays.md",
-    "Notes/spring23/DS/lectureNotes/1.14 Python Strings vs. C Chars vs. C-style Strings vs. C++ STL Strings.md",
-    "Notes/spring23/DS/lectureNotes/1.12 for & while Loops.md",
-    "Notes/spring23/DS/lectureNotes/1.11 Value Parameters and Reference Parameters.md",
-    "Notes/spring23/DS/lectureNotes/1.10 Functions and Arguments.md",
-    "Notes/spring23/DS/lectureNotes/1.9 Conditionals and IF Statements.md",
-    "Notes/spring23/DS/lectureNotes/1.8 Expressions, Assignments, and Statements.md",
-    "Notes/spring23/DS/lectureNotes/1.7 Variables and Types.md",
-    "Notes/spring23/DS/lectureNotes/1.5 The C++ Standard Library, a.k.a. STL.md",
-    "Notes/spring23/DS/lectureNotes/1.3 A Sample C++ Program Find the Roots of a Quadratic Polynomial.md",
-    "Notes/spring23/DS/lectureNotes/1.2 Compiled Languages vs. Interpreted Languages.md",
-    "Notes/spring23/DS/DS.md",
-    "Notes/spring23/DS/lectureNotes/14.0 Operators.md",
-    "Notes/spring23/DS/lectureNotes/13.0 Problem Solving I.md",
-    "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
-    "Notes/spring23/DS/lectureNotes/7.0 Big O Notation and Basic Recursion.md",
+    "Notes/spring23/BIOL/3.2 Biodiversity, Productivity And Population Ecology.md",
+    "Notes/spring23/BIOL/attachments/Logistic Growth.png",
+    "Notes/spring23/BIOL/attachments/Population Growth-1.png",
+    "Notes/spring23/BIOL/attachments/Population Growth.png",
+    "Notes/spring23/BIOL/attachments/Species Yet To Be Discovered.png",
+    "Notes/spring23/BIOL/attachments/The Whole Earth System.png",
+    "Notes/spring23/BIOL/attachments/Remote Sensing For Large Spatial Scales.png",
+    "Notes/spring23/BIOL/attachments/Ecosystem Productivity (Mean NPP).png",
+    "Notes/spring23/BIOL/attachments/Global Net Primary Productivity.png",
+    "Notes/spring23/BIOL/attachments/Global Standing Crop of Producer Biomass-2.png",
+    "Notes/spring23/BIOL/attachments/Global Standing Crop of Producer Biomass-1.png",
+    "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
+    "Notes/spring23/DS/attachments",
     "Heredity",
     "Positive",
-    "Notes/spring23/BIOL/lectureNotes/attachments/Major Ocean Currents.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/Oceanic Ecosystem.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/The Whittaker Diagram.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/Overview of Levels of Biological Organization.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/Ecology Deals With Large Spatial & Temporal Scales-1.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/Ecology Deals With Large Spatial & Temporal Scales.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/Ecosystem Complexity.png",
     "Notes/spring23/BIOL/lectureNotes/3.1",
     "Notes/spring23/BIOL/lectureNotes/New folder",
     "Notes/spring23/BIOL/lectureNotes/1.0",
     "Notes/spring23/BIOL/lectureNotes/attachments/Recording 20230313140844.webm",
     "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200/Assignments",
     "Templates/Templates Vault V1.3/templates/task-and-projects/README",
-    "Templates/Templates Vault V1.3/templates/school/School Template",
-    "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200",
     "Untitled.canvas",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",
-    "Notes/spring23/BIOL/lectureNotes/attachments/2.6 New Frontiers & Emerging Infectious Diseases-2.png",
     "Untitled 1.canvas"
   ]
 }

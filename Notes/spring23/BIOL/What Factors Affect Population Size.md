@@ -1,0 +1,15 @@
+- [[Biotic Factors]]:
+	- Food
+	- Habitat
+	- Interactions
+		- Predation
+		- [[Competition]]
+		- Parasitism
+		- Disease
+- [[Abiotic Factors]]:
+	- Light
+	- Nutrients
+	- Water
+	- Temperature
+	- Space
+	- pH

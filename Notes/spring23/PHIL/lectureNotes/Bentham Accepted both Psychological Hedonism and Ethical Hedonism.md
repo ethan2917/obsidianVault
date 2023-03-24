@@ -1,0 +1,2 @@
+- The first says that all human beings are *ultimately motivated by pleasure and the avoidance of pain*.
+- The second says that we *should be* motivated by these things.

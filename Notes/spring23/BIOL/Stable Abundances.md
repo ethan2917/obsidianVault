@@ -1,0 +1,3 @@
+- **Territorial behavior** in the tawny owl tends to keep the size of the population relatively constant while climate may have an impact.
+- There is a **density-dependent** impact as well.
+- **Territory size** is also relevant in maintaining the stability of the skua population.

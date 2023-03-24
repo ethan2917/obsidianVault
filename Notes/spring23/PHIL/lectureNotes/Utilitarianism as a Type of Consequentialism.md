@@ -1,0 +1,7 @@
+- Utilitarianism is the single largest subcategory of [[Consequentialism]].
+- Unlike egoists, whose sole goal is to bring about the pleasure or happiness for themselves, Utilitarian's look at the *utility of everyone who will be affected* by a proposed action or policy.
+- **Utility** is a general term that is usually fleshed out as pleasure, happiness, or preference satisfaction by particular Utilitarian's.
+- The original *classical* utilitarianism aims to maximize the overall sum of utility in society.
+- A slightly different version might aim to maximize overall utility to the extent that this is compatible with each person in the society being guaranteed at least a certain basic amount of utility.
+	- This would in effect rule out outcomes in which overall utility is maximized by having some people receive a large amount of utility while other people receive little or none.
+- Utilitarianism was founded by [[Jeremy Bentham]]

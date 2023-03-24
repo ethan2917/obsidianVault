@@ -1,0 +1,6 @@
+- 1833 - British entomologist John Westwood makes earliest estimate of global diversity.
+	- Calculated how many insect species lived on each plant species in England.
+	- Extrapolated that figure across the whole plant.
+- 1998- Sir Robert may points out we have no idea how many species exists on our own planet.
+	- Calls for global effort to find & describe all living species before they go extinct.
+	- [[Named Species]]

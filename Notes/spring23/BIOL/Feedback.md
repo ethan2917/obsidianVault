@@ -1,0 +1,1 @@
+***Feedback*** is a process in which the output of a system eventually affects its input, with the result that further output is amplified (***positive feedback***) or diminished (***negative feedback***)

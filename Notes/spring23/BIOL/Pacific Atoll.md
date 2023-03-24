@@ -1,0 +1,5 @@
+- Native trees support seabirds, increase nutrients to phytoplankton and in turn supports Manta Rays.
+	- Palm trees reduce all of these positives.
+- The [[Feedback]] loops are all negative
+- They connect the terrestrial and oceanic ecosystems causing a bottom up trophic cascade that ripples through the food web.
+- Human activity is the ultimate cause of the disturbance

@@ -1,0 +1,5 @@
+- **Premise 1**: Every human being is motivated ultimately by pleasure and the avoidance of paint (Psychological Hedonism).
+- **Premise 2**: There are no morally relevant difference among people such that one person should receive greater consideration in a moral theory than any other.
+- **Premise 3**: Each person's pleasure and/or avoidance of pain should be taken into account equally in the theory. (from P1 & P2)
+- **Premise 4**: The most effective way to give equal consideration to each person's pleasure and pain is to perform that action or enact that policy which will serve to maximize the net sum of pleasure within the society or group that will be affected.
+- **Conclusion**: The right action or policy to perform or enact is the one that will serve to maximize the net sum of pleasure within the society or group that will be affected.

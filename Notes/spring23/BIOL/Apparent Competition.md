@@ -1,0 +1,1 @@
+Two species in the same habitat share a higher trophic level predator.

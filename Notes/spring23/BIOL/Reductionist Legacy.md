@@ -1,0 +1,2 @@
+- When a physicist considers a chemist or biologist, he sees someone who is merely categorizing observations (stamp collecting), whereas the physicist himself is interested in the truly fundamental laws of nature.
+- According to Lord Rutherford physics is the root explanation of all observed phenomena and all other sciences reduce to physics.

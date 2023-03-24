@@ -13,6 +13,8 @@
 [[2.5 Human Genetics and Personalized Medicine]]
 [[2.6 New Frontiers & Emerging Infectious Diseases ]]
 [[3.1 Ecology, Climate, And Biomes]]
+[[3.2 Biodiversity, Productivity And Population Ecology]]
+[[3.3 Understanding Ecosystems]]
 
 ## Tasks
 ### Overdue

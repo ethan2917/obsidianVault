@@ -14,6 +14,7 @@
 [[Puzzling Out Knowledge]]
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
+[[Classical Utilitarianism Jeremey Bentham]]
 [[Virtue Ethics]]
 [[The Ethics of Care]]
 

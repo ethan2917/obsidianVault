@@ -1,0 +1,11 @@
+- Something has instrumental value if it is valuable as a means to something else.
+- Also called extrinsic value.
+- Most examples of technology have mainly or entirely instrumental value.
+	- A computer is valuable because of the tasks it can perform.
+	- A car is valuable because it gets you where you want to go. In some cases, it might also be valued by the owner as a symbol of social status or to make a statement of one’s personality.
+	- Pens, light bulbs, lamps, chairs, appliances, etc., etc., generally have purely instrumental value.
+- One can determine if something has purely instrumental value with a simple thought: 
+	- Ask yourself what you would do with the item in question if it wears out or breaks and can no longer perform its function(s).
+- If the answer is you would dispose of it, then this is a good indicator that you see it as having only instrumental value.
+	- If it’s only useful because it can do X, and then it can no longer do X, it will no longer be seen as useful.
+

@@ -1,0 +1,1 @@
+- The total amount of energy (in terms of carbon) fixed by all autotrophs (plants) per unit area & time.

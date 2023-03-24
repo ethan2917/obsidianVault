@@ -1,0 +1,4 @@
+- Having value **in and of itself**, regardless of whether it can be used to bring about any other desired goals or purposes.
+- The value is based on the nature of the entity of itself.
+- Human beings are the most commonly cited example of something having intrinsic value.
+	- Human beings are seen as having dignity and worth regardless of what they can or cannot do.

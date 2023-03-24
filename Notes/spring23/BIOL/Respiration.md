@@ -1,0 +1,1 @@
+Intake of oxygen and release of carbon dioxide.

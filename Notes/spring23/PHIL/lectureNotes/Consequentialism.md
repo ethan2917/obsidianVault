@@ -1,0 +1,6 @@
+- **Consequentialism** is a term that covers any ethical theory or approach that looks first and foremost at the actual or the expected consequences of actions or policies.
+- Consequentialists generally identify some type of goal or outcome as the greatest good and then evaluate actions, decisions, or policies based on how well they have brough about or are likely to bring about that goal or outcome.
+- Historically, consequentialists have usually identified the highest good in terms of happiness, pleasure, or preference satisfaction.
+	- But it could in principle also be identified with intellectual or aesthetic experiences, health, honor, or perhaps other things.
+- A consequentialist whose goal is to maximize their own long-term overall pleasure or happiness is referred to as **Egoist**.
+	- But many philosophers do not consider egoism to be an ethical theory at all, but rather that against which all ethical theories are opposed.

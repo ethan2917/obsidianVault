@@ -1,0 +1,1 @@
+Two individuals of the same species competing for a specific resource

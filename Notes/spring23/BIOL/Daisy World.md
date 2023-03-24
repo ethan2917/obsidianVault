@@ -1,0 +1,6 @@
+- James Lovelock's ideas ([[The Gaia Hypothesis]]) were widely criticized.
+- In response, Lovelock created the Daisy World simulation as a "proof of concept" (1983) that feedback from living organisms could regulate a planet's temperature.
+- Daisy World is an Earth-like planet that is cold & barren at first, but its sun is gradually increasing in luminosity (the total amount of [[Electromagnetic Radiation (Photons)]] that it emits).
+- As temp increases, life emerges in the form of black daisies.
+- [[Daisy World Drivers Temperature & Feedbacks]]
+- 
