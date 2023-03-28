@@ -15,7 +15,8 @@
 [[14.0 Operators]]
 [[15.0 Associative Containers (Maps), Part 1]]
 [[16.0 Associative Containers (Maps), Part 2]]
-
+[[17.0 Trees, Part 1]]
+[[18.0 Trees, Part 2]]
 
 ## HW Outlines
 [[HW 3 Outline]]

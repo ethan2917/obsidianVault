@@ -4,6 +4,7 @@
 ## Date: 2023-02-27
 ## Lecture: Duty-Based Ethics (Deontology) & Kant
 
-## Topic 3'
-- 
+## Notes
+
+
 ## Tasks:

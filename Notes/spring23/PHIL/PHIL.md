@@ -7,6 +7,8 @@
 [[Utilitarianism An Overview]]
 [[Duty-Based Ethics (Deontology) & Kant]]
 [[Trolley Problem & Ethics Settings for Autonomous Vehicles]]
+[[Virtue Ethics]]
+[[The Ethics of Care]]
 
 ## Textbook Notes
 [[Caring and Epistemic Demands]]
@@ -15,8 +17,6 @@
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
 [[Classical Utilitarianism Jeremey Bentham]]
-[[Virtue Ethics]]
-[[The Ethics of Care]]
 
 ## Tasks
 ### Incomplete

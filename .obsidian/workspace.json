@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1aebba1308bce48f",
+        "id": "888435a0f49af62f",
         "type": "tabs",
         "children": [
           {
-            "id": "89dff1344b85be5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/BIOL/Competitive Exclusion Principle.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91810c413afd9c32",
+            "id": "6f67b858be28a70e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,34 +197,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91810c413afd9c32",
+  "active": "6f67b858be28a70e",
   "lastOpenFiles": [
+    "Notes/spring23/PHIL/PHIL.md",
+    "Notes/spring23/PHIL/The Ethics of Care.md",
+    "Notes/spring23/PHIL/lectureNotes/Utilitarianism An Overview.md",
+    "Notes/spring23/PHIL/lectureNotes/Duty-Based Ethics (Deontology) & Kant.md",
+    "Notes/spring23/PHIL/Intertwined Interests.md",
+    "Notes/spring23/PHIL/Attending to Needs of Particular Others.md",
+    "Notes/spring23/PHIL/Ethics of Care vs Virtue Ethics.md",
+    "Notes/spring23/Spring 23' Home.md",
+    "Home.md",
+    "Notes/spring23/DS/17.0 Trees, Part 1.md",
+    "Notes/spring23/DS/17.9 ds_set.md",
+    "Notes/spring23/DS/attachments/17.9 ds_set.png",
+    "Notes/spring23/DS/17.7 Count the number of odd numbers stored in a binary tree.md",
+    "Notes/spring23/DS/17.7 Templated function to find the smallest value stored in a binary search tree.md",
+    "Notes/spring23/DS/17.6 ds_set implementation.md",
+    "Notes/spring23/DS/17.5 Set find.md",
+    "Notes/spring23/DS/17.4 Set erase.md",
+    "Notes/spring23/DS/17.3 Set insert.md",
+    "Notes/spring23/DS/17.2 Set iterators.md",
+    "Notes/spring23/DS/17.1 STL Sets.md",
+    "Notes/spring23/DS/15.0.md",
+    "Notes/spring23/DS/[[15.0.md",
+    "Notes/spring23/DS/[15.0.md",
+    "Notes/spring23/DS/DS.md",
     "Notes/spring23/BIOL/Competitive Exclusion Principle.md",
     "Notes/spring23/BIOL/Competition Experiments.md",
     "Notes/spring23/BIOL/Competition.md",
-    "Notes/spring23/BIOL/3.3 Understanding Ecosystems.md",
-    "Notes/spring23/BIOL/Resource Partitioning.md",
-    "Notes/spring23/BIOL/Competition & Adaptive Radiation.md",
-    "Notes/spring23/BIOL/Character Displacement.md",
-    "Notes/spring23/BIOL/Time Partitioning.md",
-    "Notes/spring23/BIOL/Space Partitioning.md",
-    "Notes/spring23/BIOL/Food Partitioning.md",
-    "Notes/spring23/BIOL/Types of Competition.md",
-    "Notes/spring23/BIOL/Apparent Competition.md",
-    "Notes/spring23/BIOL/Exploitative Competition.md",
-    "Notes/spring23/BIOL/Interference Competition.md",
-    "Notes/spring23/BIOL/Intraspecific Competition.md",
-    "Notes/spring23/BIOL/Interspecific Competition.md",
-    "Notes/spring23/BIOL/Complex Dynamic System.md",
-    "Notes/spring23/BIOL/Understanding Complex Systems.md",
-    "Notes/spring23/BIOL/Holistic Complex Systems.md",
-    "Notes/spring23/BIOL/Reductionist Method.md",
-    "Notes/spring23/BIOL/Thinking Like a Reductionist.md",
-    "Notes/spring23/BIOL/Reductionist Legacy.md",
-    "Notes/spring23/BIOL/Thinking Holistically.md",
-    "Notes/spring23/BIOL/BIOL.md",
-    "Notes/spring23/Spring 23' Home.md",
-    "Notes/spring23/BIOL/3.2 Biodiversity, Productivity And Population Ecology.md",
     "Notes/spring23/BIOL/attachments/Logistic Growth.png",
     "Notes/spring23/BIOL/attachments/Population Growth-1.png",
     "Notes/spring23/BIOL/attachments/Population Growth.png",
@@ -247,7 +235,6 @@
     "Notes/spring23/BIOL/attachments/Ecosystem Productivity (Mean NPP).png",
     "Notes/spring23/BIOL/attachments/Global Net Primary Productivity.png",
     "Notes/spring23/BIOL/attachments/Global Standing Crop of Producer Biomass-2.png",
-    "Notes/spring23/BIOL/attachments/Global Standing Crop of Producer Biomass-1.png",
     "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
     "Notes/spring23/DS/attachments",
     "Heredity",
