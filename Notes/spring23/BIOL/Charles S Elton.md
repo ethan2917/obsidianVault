@@ -1,0 +1,1 @@
+- Famous ecologist who made contributions to animal behavior and ecology, niche, pyramid of numbers for structuring ecosystems and niche theory.

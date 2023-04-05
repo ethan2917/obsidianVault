@@ -1,0 +1,2 @@
+- Species on which other species in an ecosystem largely depend, such that if they were removed the ecosystem would change drastically.
+- [[Pacific Coast Kelp Bed]]

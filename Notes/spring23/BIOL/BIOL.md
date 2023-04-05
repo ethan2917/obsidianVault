@@ -15,6 +15,8 @@
 [[3.1 Ecology, Climate, And Biomes]]
 [[3.2 Biodiversity, Productivity And Population Ecology]]
 [[3.3 Understanding Ecosystems]]
+[[3.4 Ecological Relationships]]
+[[3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession]]
 
 ## Tasks
 ### Overdue

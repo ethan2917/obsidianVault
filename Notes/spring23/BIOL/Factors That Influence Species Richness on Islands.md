@@ -1,0 +1,5 @@
+- Island size
+- Distance to nearest population source
+- [[Abiotic Factors]]
+- Isolation time
+- Human activity

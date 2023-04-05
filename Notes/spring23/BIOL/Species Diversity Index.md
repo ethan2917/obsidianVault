@@ -1,0 +1,2 @@
+![[Species Diversity Index.png | 300]]
+- A quantitative measure that reflects how many different types (species) there are in a dataset (community) and simultaneously considers how evenly the basic entities (individuals) are distributed among those types.

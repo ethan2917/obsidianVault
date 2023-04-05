@@ -1,0 +1,5 @@
+- Disturbances help to maintain species diversity.
+- [[Intermediate Disturbance Hypothesis]]
+- [[New Land in Hawaii]]
+- [[Pioneer to Climax Communities]]
+- [[Mt. Saint Helens]]

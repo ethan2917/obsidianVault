@@ -1,0 +1,3 @@
+- A relationship between species, where one organism, the parasite, lives on or in another organism, the host, causing it harm.
+- The parasite is adapted structurally to this way of life.
+- [[Ecological Impact of Parasitism]]

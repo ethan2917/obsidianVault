@@ -1,0 +1,3 @@
+- Behavior of the host that is parasitized which may include feeding, exposure, and reproduction.
+- Distribution & abundances of hosts.
+- Species diversity of communities.

@@ -1,0 +1,1 @@
+- One or more of the partners gains water, energy, nutrients, refuge.

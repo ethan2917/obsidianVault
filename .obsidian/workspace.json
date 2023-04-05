@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "888435a0f49af62f",
+        "id": "d7318c97ed5e68fb",
         "type": "tabs",
         "children": [
           {
-            "id": "6f67b858be28a70e",
+            "id": "c693efe170fb998c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/Spring 23' Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/Spring 23' Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/Spring 23' Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/Spring 23' Home.md"
               }
             }
           }
@@ -180,61 +180,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "canvas:Create new canvas": false,
       "flashcards-obsidian:Generate flashcards": false,
       "templater-obsidian:Templater": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6f67b858be28a70e",
+  "active": "c693efe170fb998c",
   "lastOpenFiles": [
-    "Notes/spring23/PHIL/PHIL.md",
-    "Notes/spring23/PHIL/The Ethics of Care.md",
-    "Notes/spring23/PHIL/lectureNotes/Utilitarianism An Overview.md",
-    "Notes/spring23/PHIL/lectureNotes/Duty-Based Ethics (Deontology) & Kant.md",
-    "Notes/spring23/PHIL/Intertwined Interests.md",
-    "Notes/spring23/PHIL/Attending to Needs of Particular Others.md",
-    "Notes/spring23/PHIL/Ethics of Care vs Virtue Ethics.md",
-    "Notes/spring23/Spring 23' Home.md",
     "Home.md",
-    "Notes/spring23/DS/17.0 Trees, Part 1.md",
-    "Notes/spring23/DS/17.9 ds_set.md",
-    "Notes/spring23/DS/attachments/17.9 ds_set.png",
-    "Notes/spring23/DS/17.7 Count the number of odd numbers stored in a binary tree.md",
-    "Notes/spring23/DS/17.7 Templated function to find the smallest value stored in a binary search tree.md",
-    "Notes/spring23/DS/17.6 ds_set implementation.md",
-    "Notes/spring23/DS/17.5 Set find.md",
-    "Notes/spring23/DS/17.4 Set erase.md",
-    "Notes/spring23/DS/17.3 Set insert.md",
-    "Notes/spring23/DS/17.2 Set iterators.md",
-    "Notes/spring23/DS/17.1 STL Sets.md",
-    "Notes/spring23/DS/15.0.md",
-    "Notes/spring23/DS/[[15.0.md",
-    "Notes/spring23/DS/[15.0.md",
-    "Notes/spring23/DS/DS.md",
-    "Notes/spring23/BIOL/Competitive Exclusion Principle.md",
-    "Notes/spring23/BIOL/Competition Experiments.md",
-    "Notes/spring23/BIOL/Competition.md",
-    "Notes/spring23/BIOL/attachments/Logistic Growth.png",
-    "Notes/spring23/BIOL/attachments/Population Growth-1.png",
-    "Notes/spring23/BIOL/attachments/Population Growth.png",
-    "Notes/spring23/BIOL/attachments/Species Yet To Be Discovered.png",
-    "Notes/spring23/BIOL/attachments/The Whole Earth System.png",
-    "Notes/spring23/BIOL/attachments/Remote Sensing For Large Spatial Scales.png",
-    "Notes/spring23/BIOL/attachments/Ecosystem Productivity (Mean NPP).png",
-    "Notes/spring23/BIOL/attachments/Global Net Primary Productivity.png",
-    "Notes/spring23/BIOL/attachments/Global Standing Crop of Producer Biomass-2.png",
+    "Notes/spring23/BIOL/BIOL.md",
+    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
+    "Notes/spring23/BIOL/Mt. Saint Helens.md",
+    "Notes/spring23/BIOL/New Land in Hawaii.md",
+    "Notes/spring23/BIOL/Primary Succession.md",
+    "Notes/spring23/BIOL/Pioneer to Climax Communities.md",
+    "Notes/spring23/BIOL/Mt. Saint Helens Recovery.md",
+    "Notes/spring23/BIOL/Secondary Succession.md",
+    "Notes/spring23/BIOL/attachments/Secondary Succession.png",
+    "Notes/spring23/BIOL/attachments/MT. Saint Helens Recovery-1.png",
+    "Notes/spring23/BIOL/attachments/MT. Saint Helens Recovery.png",
+    "Notes/spring23/BIOL/attachments/MT. Saint Helens-2.png",
+    "Notes/spring23/BIOL/attachments/MT. Saint Helens-1.png",
+    "Notes/spring23/BIOL/attachments/MT. Saint Helens.png",
+    "Notes/spring23/BIOL/attachments/Pioneer to Climax Communities.png",
+    "Notes/spring23/BIOL/attachments/New Land in Hawaii-5.png",
+    "Notes/spring23/BIOL/attachments/New Land in Hawaii-4.png",
+    "Notes/spring23/BIOL/attachments/New Land in Hawaii-3.png",
+    "Notes/spring23/BIOL/Intermediate Disturbance Hypothesis.md",
+    "Notes/spring23/BIOL/Disturbance.md",
+    "Notes/spring23/BIOL/Patterns In Biodiversity.md",
+    "Notes/spring23/BIOL/Species Richness.md",
+    "Notes/spring23/BIOL/Species Richness In Island Biogeography.md",
+    "Notes/spring23/BIOL/Factors That Influence Species Richness on Islands.md",
+    "Notes/spring23/BIOL/Species Diversity Index.md",
+    "Notes/spring23/BIOL/lectureNotes/Ecosystems.md",
+    "Notes/spring23/BIOL/Biodiversity.md",
+    "Notes/spring23/BIOL/Keystone Species.md",
+    "Notes/spring23/BIOL/Pacific Coast Kelp Bed.md",
+    "Notes/spring23/BIOL/Combined Impacts On Kelp Ecosystems.md",
+    "Notes/spring23/Spring 23' Home.md",
+    "Notes/spring23/BIOL/3.2 Biodiversity, Productivity And Population Ecology.md",
+    "Notes/spring23/BIOL/lectureNotes/The Biosphere.md",
+    "Notes/spring23/BIOL/lectureNotes/The Biosphere Is A Dynamic System.md",
     "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
     "Notes/spring23/DS/attachments",
     "Heredity",

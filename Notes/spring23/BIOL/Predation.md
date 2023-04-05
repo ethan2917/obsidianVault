@@ -1,0 +1,1 @@
+- One organism kills and consumes another as a food resource.

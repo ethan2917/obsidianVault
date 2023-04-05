@@ -1,0 +1,1 @@
+- Disturbance leads to increases in species and promotes and maintains diversity.

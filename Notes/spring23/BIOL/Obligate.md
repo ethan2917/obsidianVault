@@ -1,0 +1,1 @@
+- Each species benefits from association but **can't** survive independently of its partners.

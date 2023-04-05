@@ -1,0 +1,1 @@
+- Partner defends against predators, parasites, herbivores, or competitors.
