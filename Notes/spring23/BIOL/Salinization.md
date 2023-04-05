@@ -1,0 +1,2 @@
+## Increasing salt concentrations in freshwater
+- Salinization is caused by salt pollution, accelerated weathering and soil cation exchange, mining and resource extraction, and the presence of easily weathered minerals used in agriculture and urbanization.

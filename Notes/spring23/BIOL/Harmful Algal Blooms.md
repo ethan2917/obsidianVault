@@ -1,0 +1,2 @@
+## Excess algae capable of producing toxins
+- *Harmful algal blooms (HABs)* are an overabundance of algal biomass that can cause harm to animals, people, or the local ecology with the production of toxins.

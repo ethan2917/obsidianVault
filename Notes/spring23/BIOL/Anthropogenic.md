@@ -1,0 +1,1 @@
+Any environmental or ecological impact or change that results from human activities.

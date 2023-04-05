@@ -17,6 +17,7 @@
 [[3.3 Understanding Ecosystems]]
 [[3.4 Ecological Relationships]]
 [[3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession]]
+[[3.6 Global Dilemmas]]
 
 ## Tasks
 ### Overdue

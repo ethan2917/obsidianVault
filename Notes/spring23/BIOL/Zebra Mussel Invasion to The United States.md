@@ -1,0 +1,6 @@
+- Accidental introduction in late 1980s in Lake St. Clair connecting Lake Huron to Lake Erie.
+- Restructured aquatic food webs:
+	- Decrease phytoplankton and zooplankton populations
+- Out compete native species
+- Decrease tourism,
+- Clog hydroelectric pipes and otherwise biofoul substrates

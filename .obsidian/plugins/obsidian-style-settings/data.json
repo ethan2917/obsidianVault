@@ -2,5 +2,6 @@
   "things-style@@h3-color": "#23C232",
   "things-style@@active-line": false,
   "things-style@@mobile-black-background": false,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default"
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@transparent-setting-panel": false
 }

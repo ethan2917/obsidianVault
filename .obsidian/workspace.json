@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7318c97ed5e68fb",
+        "id": "1ba9b01de57c79c2",
         "type": "tabs",
         "children": [
           {
-            "id": "c693efe170fb998c",
+            "id": "dac4eb1f778f5190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/Spring 23' Home.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/Spring 23' Home.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/Spring 23' Home.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/Spring 23' Home.md"
+                "file": "Home.md"
               }
             }
           }
@@ -197,44 +197,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c693efe170fb998c",
+  "active": "dac4eb1f778f5190",
   "lastOpenFiles": [
-    "Home.md",
     "Notes/spring23/BIOL/BIOL.md",
-    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
-    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
-    "Notes/spring23/BIOL/Mt. Saint Helens.md",
-    "Notes/spring23/BIOL/New Land in Hawaii.md",
-    "Notes/spring23/BIOL/Primary Succession.md",
-    "Notes/spring23/BIOL/Pioneer to Climax Communities.md",
-    "Notes/spring23/BIOL/Mt. Saint Helens Recovery.md",
-    "Notes/spring23/BIOL/Secondary Succession.md",
-    "Notes/spring23/BIOL/attachments/Secondary Succession.png",
-    "Notes/spring23/BIOL/attachments/MT. Saint Helens Recovery-1.png",
-    "Notes/spring23/BIOL/attachments/MT. Saint Helens Recovery.png",
-    "Notes/spring23/BIOL/attachments/MT. Saint Helens-2.png",
-    "Notes/spring23/BIOL/attachments/MT. Saint Helens-1.png",
-    "Notes/spring23/BIOL/attachments/MT. Saint Helens.png",
-    "Notes/spring23/BIOL/attachments/Pioneer to Climax Communities.png",
-    "Notes/spring23/BIOL/attachments/New Land in Hawaii-5.png",
-    "Notes/spring23/BIOL/attachments/New Land in Hawaii-4.png",
-    "Notes/spring23/BIOL/attachments/New Land in Hawaii-3.png",
-    "Notes/spring23/BIOL/Intermediate Disturbance Hypothesis.md",
-    "Notes/spring23/BIOL/Disturbance.md",
-    "Notes/spring23/BIOL/Patterns In Biodiversity.md",
-    "Notes/spring23/BIOL/Species Richness.md",
-    "Notes/spring23/BIOL/Species Richness In Island Biogeography.md",
-    "Notes/spring23/BIOL/Factors That Influence Species Richness on Islands.md",
-    "Notes/spring23/BIOL/Species Diversity Index.md",
-    "Notes/spring23/BIOL/lectureNotes/Ecosystems.md",
-    "Notes/spring23/BIOL/Biodiversity.md",
-    "Notes/spring23/BIOL/Keystone Species.md",
-    "Notes/spring23/BIOL/Pacific Coast Kelp Bed.md",
-    "Notes/spring23/BIOL/Combined Impacts On Kelp Ecosystems.md",
+    "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
+    "Notes/spring23/BIOL/Lake George.md",
+    "Notes/spring23/BIOL/Invasive Species.md",
+    "Notes/spring23/BIOL/attachments/Lake George.png",
+    "Notes/spring23/BIOL/Global Climate Change.md",
+    "Notes/spring23/BIOL/Ecological Impacts of Global Warming.md",
+    "Notes/spring23/BIOL/Early Discovery of the Greenhouse Gas Effect.md",
+    "Notes/spring23/BIOL/Greenhouse Gases.md",
+    "Notes/spring23/BIOL/Greenhouse Effect Summarized.md",
+    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
+    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
+    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-3.png",
+    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-2.png",
+    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-1.png",
+    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized.png",
+    "Notes/spring23/BIOL/The Keeling Curve.md",
+    "Notes/spring23/BIOL/attachments/Greenhouse Gases.png",
+    "Notes/spring23/BIOL/attachments/The Keeling Curve.png",
+    "Notes/spring23/BIOL/Water Security.md",
+    "Notes/spring23/BIOL/Salinization.md",
+    "Notes/spring23/BIOL/Harmful Algal Blooms.md",
+    "Notes/spring23/BIOL/Dead Zones.md",
+    "Notes/spring23/BIOL/Anthropogenic.md",
+    "Notes/spring23/BIOL/Eutrophication.md",
+    "Notes/spring23/BIOL/attachments/Eutrophication.png",
+    "Notes/spring23/BIOL/Impacts of Aquatic Invasive Species.md",
+    "Notes/spring23/BIOL/Zebra Mussel Invasion to The United States.md",
+    "Notes/spring23/BIOL/Biological Control of Invaders.md",
+    "Notes/spring23/BIOL/Federal Government Response to Invasive Species.md",
+    "Notes/spring23/BIOL/Modes of Introduction of Invasive Species.md",
+    "Notes/spring23/BIOL/The Cost of Invasive Species.md",
+    "Notes/spring23/BIOL/Management of Invasive Species.md",
+    "Notes/spring23/BIOL/Invasions Per Year.md",
     "Notes/spring23/Spring 23' Home.md",
-    "Notes/spring23/BIOL/3.2 Biodiversity, Productivity And Population Ecology.md",
-    "Notes/spring23/BIOL/lectureNotes/The Biosphere.md",
-    "Notes/spring23/BIOL/lectureNotes/The Biosphere Is A Dynamic System.md",
     "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
     "Notes/spring23/DS/attachments",
     "Heredity",

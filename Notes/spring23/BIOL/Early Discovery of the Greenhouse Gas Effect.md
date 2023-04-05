@@ -1,0 +1,3 @@
+- **1900** - Chemist **Svante Arrhenius** proposes ice ages caused by variations in atmospheric CO2.
+- Correctly predicted that a doubling of atmospheric CO2 would lead to a ~6C increase in global temperature.
+- [[Greenhouse Gases]]

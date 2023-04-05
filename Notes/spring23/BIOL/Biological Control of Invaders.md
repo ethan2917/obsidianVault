@@ -1,0 +1,5 @@
+- Prickly pear cactus (*Opuntia*) introduces into Australia in 1839 as a garden plant.
+- Lacking native herbivores, quickly spread & became pest species over 16,000 square miles.
+- The moth *Cactoblastis* introduces from Argentina in 1925.
+- Larvae destroyed cactus plants.
+- By 1931 only scattered patches of *Opuntia* remained.

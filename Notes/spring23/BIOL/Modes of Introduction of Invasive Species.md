@@ -1,0 +1,11 @@
+- Intentional introduction
+	- Aquaculture
+	- Horticulture
+- Unintentional introductions
+	- Carrying organisms from one location to another
+- Invasions with a host
+- Shipping
+	- Cargo containers
+	- Ballast packaging
+- Aquarium trade
+- Internet buying & trading
