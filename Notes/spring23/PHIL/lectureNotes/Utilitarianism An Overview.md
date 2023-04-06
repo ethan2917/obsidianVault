@@ -1,4 +1,4 @@
-## Subject: [[PHIL]]
+## Subject: [[Introduction to Philosophy]]
 ## Tags:
 #philosophy #phil1110 #utilitarianism
 ## Date: 2023-02-13

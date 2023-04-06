@@ -1,4 +1,4 @@
-## Subject: [[DS]]
+## Subject: [[Data Structures]]
 ## Tags:
 #phil1110 #spring23 #humanities 
 ## Date: 2023-03-27

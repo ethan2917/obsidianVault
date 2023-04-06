@@ -1,8 +1,8 @@
 ## Courses
-### [[crashCourseInC++]]
-### [[DS]]
-### [[BIOL]]
-### [[PHIL]]
+### [[Crash Course in C++]]
+### [[Data Structures]]
+### [[Introduction To Biology]]
+### [[Introduction to Philosophy]]
 
 ## Tasks
 ### Overdue

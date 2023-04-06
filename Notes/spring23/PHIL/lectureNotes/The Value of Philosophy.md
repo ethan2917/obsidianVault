@@ -1,4 +1,4 @@
-## Subject: [[PHIL]]
+## Subject: [[Introduction to Philosophy]]
 ## Tags:
 #phil1110 #phil1110 #humanities 
 ## Date: 2023-01-23

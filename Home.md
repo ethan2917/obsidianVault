@@ -1,6 +1,6 @@
-## Homes
-### [[Fall 22 Home]]
-### [[Spring 23' Home]]
+## MOCs
+### [[Fall '22 MOC]]
+### [[Spring '23 MOC]]
 
 ## Tasks
 ### Incomplete

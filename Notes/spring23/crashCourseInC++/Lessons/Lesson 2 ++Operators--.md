@@ -1,4 +1,4 @@
-## Subject: [[crashCourseInC++]]
+## Subject: [[Crash Course in C++]]
 ## Tags:
 #dataStructures #crashCourse #computerScience #variables #syntax #cplusplus #spring23
 ## Date: 2023-01-11

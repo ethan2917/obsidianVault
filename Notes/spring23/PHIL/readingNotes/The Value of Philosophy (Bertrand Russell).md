@@ -1,4 +1,4 @@
-## Subject: [[PHIL]]
+## Subject: [[Introduction to Philosophy]]
 ## Tags:
 #phil1110 #philosophy #humanities #Russell
 ## Date: 2023-01-22

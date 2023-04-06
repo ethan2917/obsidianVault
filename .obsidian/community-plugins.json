@@ -12,7 +12,6 @@
   "obsidian-image-gallery",
   "simple-embeds",
   "obsidian-paste-image-rename",
-  "obsidian-admonition",
   "obsidian-mind-map",
   "nldates-obsidian",
   "oz-image-plugin",
@@ -22,7 +21,6 @@
   "obsidian-dictionary-plugin",
   "obsidian-linter",
   "better-word-count",
-  "tag-wrangler",
   "code-block-copy",
   "omnisearch",
   "text-extractor",
@@ -32,6 +30,7 @@
   "obsidian-kanban",
   "templater-obsidian",
   "quick-latex",
-  "obsidian-better-codeblock",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "dataview",
+  "obsidian-git"
 ]

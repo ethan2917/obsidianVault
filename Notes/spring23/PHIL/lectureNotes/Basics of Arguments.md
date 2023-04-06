@@ -1,5 +1,5 @@
 
-## Subject: [[PHIL]]
+## Subject: [[Introduction to Philosophy]]
 ## Tags:
 #philosophy #phil1110 #humanities #spring23 #arguments
 ## Date: 2023-01-12

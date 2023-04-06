@@ -1,4 +1,4 @@
-## Subject: [[PHIL]]
+## Subject: [[Introduction to Philosophy]]
 ## Tags:
 #phil1110 #philosophy #humanities #haack
 ## Date: 2023-01-29

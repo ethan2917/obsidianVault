@@ -24,6 +24,8 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 // main.ts
 var main_exports = {};
 __export(main_exports, {
+  DEFAULT_SETTINGS: () => DEFAULT_SETTINGS,
+  ObsidianLiveSyncSettingTab: () => ObsidianLiveSyncSettingTab,
   default: () => NinjaCursorPlugin
 });
 module.exports = __toCommonJS(main_exports);
@@ -34,10 +36,11 @@ function waitForReflowComplete() {
   });
 }
 var NinjaCursorForWindow = class {
-  constructor(app2, aw, ad, registerDomEvent) {
+  constructor(plugin, aw, ad, registerDomEvent) {
     this.lastPos = null;
     this.styleCount = 0;
-    this.app = app2;
+    this.plugin = plugin;
+    this.app = plugin.app;
     this.bufferedWindow = aw;
     this.bufferedDocument = ad;
     this.wrapperElement = ad.createElement("div");
@@ -60,6 +63,14 @@ var NinjaCursorForWindow = class {
       processing = false;
     };
     const __moveCursor = async (e, noAnimate) => {
+      if ([
+        !this.plugin.settings.reactToContentEditable && !this.plugin.settings.reactToInputElement && !this.plugin.settings.reactToVimMode,
+        this.plugin.settings.reactToContentEditable && e && e.target instanceof HTMLElement && e.target.isContentEditable,
+        this.plugin.settings.reactToInputElement && e && e.target instanceof HTMLElement && e.target.tagName == "INPUT",
+        this.plugin.settings.reactToVimMode && e && e.target instanceof HTMLElement && e.target.closest(".cm-vimMode")
+      ].every((e2) => !e2)) {
+        return;
+      }
       if (e && e.target instanceof HTMLElement && (e.target.isContentEditable || e.target.tagName == "INPUT")) {
         datumElement = e.target;
         if (!cursorVisibility) {
@@ -196,11 +207,12 @@ var NinjaCursorPlugin = class extends import_obsidian.Plugin {
     this.Cursors = [];
   }
   async onload() {
+    await this.loadSettings();
     this.registerEvent(this.app.workspace.on("window-open", (win) => {
       console.log("Open by window-open");
       const exist = this.Cursors.find((e) => e.bufferedWindow == win.win);
       if (!exist) {
-        const w2 = new NinjaCursorForWindow(app, win.win, win.doc, this.registerDomEvent.bind(this));
+        const w2 = new NinjaCursorForWindow(this, win.win, win.doc, this.registerDomEvent.bind(this));
         this.Cursors.push(w2);
       }
     }));
@@ -212,8 +224,9 @@ var NinjaCursorPlugin = class extends import_obsidian.Plugin {
       }
     }));
     console.log("Open by init");
-    const w = new NinjaCursorForWindow(app, window, document, this.registerDomEvent.bind(this));
+    const w = new NinjaCursorForWindow(this, window, document, this.registerDomEvent.bind(this));
     this.Cursors.push(w);
+    this.addSettingTab(new ObsidianLiveSyncSettingTab(this.app, this));
   }
   onunload() {
     for (const v of this.Cursors) {
@@ -221,7 +234,44 @@ var NinjaCursorPlugin = class extends import_obsidian.Plugin {
     }
   }
   async loadSettings() {
+    const settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    this.settings = settings;
   }
   async saveSettings() {
+    const settings = { ...this.settings };
+    await this.saveData(settings);
   }
+};
+var ObsidianLiveSyncSettingTab = class extends import_obsidian.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.selectedScreen = "";
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("h2", { text: "Settings for Ninja-cursor" });
+    containerEl.createEl("h3", { text: "React to interactions on limited elements" });
+    containerEl.createDiv("", (el) => {
+      el.textContent = "If nothing is configured, react to all.";
+    });
+    new import_obsidian.Setting(containerEl).setName("React to editor-ish elements").addToggle((toggle) => toggle.setValue(this.plugin.settings.reactToContentEditable).onChange(async (value) => {
+      this.plugin.settings.reactToContentEditable = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setName("React to plain-text elements").addToggle((toggle) => toggle.setValue(this.plugin.settings.reactToInputElement).onChange(async (value) => {
+      this.plugin.settings.reactToInputElement = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setName("React to the editor which in a vim-mode").addToggle((toggle) => toggle.setValue(this.plugin.settings.reactToVimMode).onChange(async (value) => {
+      this.plugin.settings.reactToVimMode = value;
+      await this.plugin.saveSettings();
+    }));
+  }
+};
+var DEFAULT_SETTINGS = {
+  reactToContentEditable: false,
+  reactToVimMode: false,
+  reactToInputElement: false
 };
