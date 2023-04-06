@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02a2678161e13799",
+            "id": "6caa8c8e6f521970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md"
               }
             }
           }
@@ -197,35 +197,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "02a2678161e13799",
+  "active": "6caa8c8e6f521970",
   "lastOpenFiles": [
+    "Notes/spring23/BIOL/Patterns In Biodiversity.md",
+    "Notes/spring23/BIOL/Species Richness.md",
+    "Notes/spring23/BIOL/Species Diversity Index.md",
+    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+    "Notes/spring23/BIOL/Keystone Species.md",
+    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
+    "Notes/spring23/BIOL/Biodiversity.md",
+    "Notes/spring23/BIOL/Pacific Coast Kelp Bed.md",
+    "Notes/spring23/BIOL/Combined Impacts On Kelp Ecosystems.md",
+    "Notes/spring23/BIOL/Introduction To Biology.md",
     "Notes/spring23/Spring '23 MOC.md",
     "Home.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
+    "Notes/spring23/BIOL/Lake George.md",
+    "Notes/spring23/BIOL/3.2 Biodiversity, Productivity And Population Ecology.md",
+    "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md",
+    "Notes/spring23/BIOL/lectureNotes/1.0 Course Overview.md",
+    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
+    "Notes/spring23/BIOL/lectureNotes/3.1 Ecology, Climate, And Biomes.md",
+    "Notes/spring23/BIOL/3.4 Ecological Relationships.md",
     "Notes/fall22/Fall '22 MOC.md",
     "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/crashCourseInC++/Crash Course in C++.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
-    "Notes/spring23/BIOL/Introduction To Biology.md",
     "Notes/spring23/BIOL/lectureNotes/1.3 Early Evolution on Planet Earth.md",
-    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
-    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
     "Notes/spring23/BIOL/New Land in Hawaii.md",
-    "Notes/spring23/BIOL/Mt. Saint Helens.md",
-    "Notes/spring23/BIOL/Pioneer to Climax Communities.md",
-    "Notes/spring23/BIOL/Intermediate Disturbance Hypothesis.md",
-    "Notes/spring23/BIOL/Disturbance.md",
-    "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
-    "Notes/spring23/BIOL/Global Climate Change.md",
-    "Notes/spring23/BIOL/Ecological Impacts of Global Warming.md",
-    "Notes/spring23/BIOL/lectureNotes/2.2 Molecular Biology I.md",
-    "Notes/spring23/BIOL/lectureNotes/Central Dogma of Gene Expression.md",
-    "Notes/spring23/BIOL/lectureNotes/The Central Dogma.md",
-    "Notes/spring23/BIOL/Lake George.md",
-    "Notes/spring23/BIOL/Invasive Species.md",
     "Notes/spring23/BIOL/attachments/Lake George.png",
-    "Notes/spring23/BIOL/Early Discovery of the Greenhouse Gas Effect.md",
-    "Notes/spring23/BIOL/Greenhouse Gases.md",
-    "Notes/spring23/BIOL/Greenhouse Effect Summarized.md",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-3.png",
