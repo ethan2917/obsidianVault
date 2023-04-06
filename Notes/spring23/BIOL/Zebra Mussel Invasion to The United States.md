@@ -2,5 +2,5 @@
 - Restructured aquatic food webs:
 	- Decrease phytoplankton and zooplankton populations
 - Out compete native species
-- Decrease tourism,
+- Decrease tourism
 - Clog hydroelectric pipes and otherwise biofoul substrates

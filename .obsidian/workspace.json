@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+                "file": "Notes/spring23/BIOL/Introduction To Biology.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+                "file": "Notes/spring23/BIOL/Introduction To Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+                "file": "Notes/spring23/BIOL/Introduction To Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md"
+                "file": "Notes/spring23/BIOL/Introduction To Biology.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -193,38 +194,37 @@
       "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "6caa8c8e6f521970",
   "lastOpenFiles": [
-    "Notes/spring23/BIOL/Patterns In Biodiversity.md",
-    "Notes/spring23/BIOL/Species Richness.md",
-    "Notes/spring23/BIOL/Species Diversity Index.md",
-    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
-    "Notes/spring23/BIOL/Keystone Species.md",
-    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
-    "Notes/spring23/BIOL/Biodiversity.md",
-    "Notes/spring23/BIOL/Pacific Coast Kelp Bed.md",
-    "Notes/spring23/BIOL/Combined Impacts On Kelp Ecosystems.md",
-    "Notes/spring23/BIOL/Introduction To Biology.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
-    "Notes/spring23/BIOL/Lake George.md",
-    "Notes/spring23/BIOL/3.2 Biodiversity, Productivity And Population Ecology.md",
-    "Notes/spring23/BIOL/lectureNotes/1.2 What is Life.md",
-    "Notes/spring23/BIOL/lectureNotes/1.0 Course Overview.md",
-    "Notes/spring23/BIOL/lectureNotes/2.3 Molecular Biology II.md",
-    "Notes/spring23/BIOL/lectureNotes/3.1 Ecology, Climate, And Biomes.md",
-    "Notes/spring23/BIOL/3.4 Ecological Relationships.md",
-    "Notes/fall22/Fall '22 MOC.md",
-    "Notes/spring23/DS/Data Structures.md",
-    "Notes/spring23/crashCourseInC++/Crash Course in C++.md",
-    "Notes/spring23/BIOL/lectureNotes/1.3 Early Evolution on Planet Earth.md",
+    "Notes/spring23/BIOL/Water Security.md",
+    "Notes/spring23/BIOL/Salinization.md",
+    "Notes/spring23/BIOL/Invasive Species.md",
+    "Notes/spring23/BIOL/Biological Control of Invaders.md",
+    "Notes/spring23/BIOL/Impacts of Aquatic Invasive Species.md",
+    "Notes/spring23/BIOL/Zebra Mussel Invasion to The United States.md",
+    "Notes/spring23/BIOL/Global Climate Change.md",
+    "Notes/spring23/BIOL/Early Discovery of the Greenhouse Gas Effect.md",
+    "Notes/spring23/BIOL/Greenhouse Gases.md",
+    "Notes/spring23/BIOL/Greenhouse Effect Summarized.md",
+    "Notes/spring23/BIOL/Dead Zones.md",
+    "Notes/spring23/BIOL/Eutrophication.md",
+    "Notes/spring23/BIOL/Federal Government Response to Invasive Species.md",
+    "Notes/spring23/BIOL/Predation.md",
+    "Notes/spring23/BIOL/Parasitism.md",
+    "Notes/spring23/BIOL/Commensalism.md",
+    "Notes/spring23/BIOL/Mutualism.md",
+    "Notes/spring23/BIOL/Introduction To Biology.md",
+    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
+    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
+    "Notes/spring23/BIOL/Pioneer to Climax Communities.md",
+    "Home.md",
+    "Notes/spring23/BIOL/Secondary Succession.md",
     "Notes/spring23/BIOL/New Land in Hawaii.md",
+    "Notes/spring23/BIOL/Primary Succession.md",
     "Notes/spring23/BIOL/attachments/Lake George.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
