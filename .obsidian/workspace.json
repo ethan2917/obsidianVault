@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Notes/spring23/DS/Data Structures.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/DS/Data Structures.md"
               }
             }
           }
@@ -199,16 +199,20 @@
   },
   "active": "f270c512838d4f56",
   "lastOpenFiles": [
+    "Notes/spring23/DS/HW 7 Outline.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/DS/hwOutlines/HW 6 Outline.md",
+    "Notes/spring23/DS/hwOutlines/HW 3 Outline.md",
+    "Notes/spring23/DS/hwOutlines/HW 4 Outline.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
     "Notes/spring23/BIOL/Lake George.md",
     "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
     "Notes/spring23/BIOL/Introduction To Biology.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/PHIL/Classical Utilitarianism Jeremey Bentham.md",
     "Notes/spring23/PHIL/The Ethics of Care.md",
     "Notes/spring23/PHIL/Intertwined Interests.md",
-    "Home.md",
     "Notes/spring23/BIOL/Water Security.md",
     "Notes/spring23/BIOL/Dead Zones.md",
     "Notes/spring23/BIOL/Anthropogenic.md",
@@ -221,10 +225,6 @@
     "Notes/spring23/BIOL/Early Discovery of the Greenhouse Gas Effect.md",
     "Notes/spring23/BIOL/Greenhouse Gases.md",
     "Notes/spring23/BIOL/Greenhouse Effect Summarized.md",
-    "Notes/spring23/BIOL/Eutrophication.md",
-    "Notes/spring23/BIOL/Federal Government Response to Invasive Species.md",
-    "Notes/spring23/BIOL/Predation.md",
-    "Notes/spring23/BIOL/Parasitism.md",
     "Notes/spring23/BIOL/attachments/Lake George.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
