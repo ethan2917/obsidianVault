@@ -17,7 +17,8 @@
 [[16.0 Associative Containers (Maps), Part 2]]
 [[17.0 Trees, Part 1]]
 [[18.0 Trees, Part 2]]
-
+[[20.0 Hash Tables Part 1]]
+[[21.0 Hash Tables Part 2]]
 ## HW Outlines
 [[HW 3 Outline]]
 [[HW 4 Outline]]
