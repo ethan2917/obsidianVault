@@ -33,5 +33,8 @@
   "obsidian-auto-link-title",
   "dataview",
   "obsidian-git",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "highlightr-plugin",
+  "cmenu-plugin",
+  "url-into-selection"
 ]

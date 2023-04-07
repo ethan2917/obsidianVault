@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6caa8c8e6f521970",
+            "id": "505a02d749b2cc9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/BIOL/Introduction To Biology.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/BIOL/Introduction To Biology.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/BIOL/Introduction To Biology.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/BIOL/Introduction To Biology.md"
+                "file": "Home.md"
               }
             }
           }
@@ -197,10 +197,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6caa8c8e6f521970",
+  "active": "505a02d749b2cc9c",
   "lastOpenFiles": [
+    "Notes/spring23/BIOL/Lake George.md",
     "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
+    "Notes/spring23/BIOL/Introduction To Biology.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/PHIL/Classical Utilitarianism Jeremey Bentham.md",
+    "Notes/spring23/PHIL/The Ethics of Care.md",
+    "Notes/spring23/PHIL/Intertwined Interests.md",
+    "Home.md",
     "Notes/spring23/BIOL/Water Security.md",
+    "Notes/spring23/BIOL/Dead Zones.md",
+    "Notes/spring23/BIOL/Anthropogenic.md",
     "Notes/spring23/BIOL/Salinization.md",
     "Notes/spring23/BIOL/Invasive Species.md",
     "Notes/spring23/BIOL/Biological Control of Invaders.md",
@@ -210,21 +221,10 @@
     "Notes/spring23/BIOL/Early Discovery of the Greenhouse Gas Effect.md",
     "Notes/spring23/BIOL/Greenhouse Gases.md",
     "Notes/spring23/BIOL/Greenhouse Effect Summarized.md",
-    "Notes/spring23/BIOL/Dead Zones.md",
     "Notes/spring23/BIOL/Eutrophication.md",
     "Notes/spring23/BIOL/Federal Government Response to Invasive Species.md",
     "Notes/spring23/BIOL/Predation.md",
     "Notes/spring23/BIOL/Parasitism.md",
-    "Notes/spring23/BIOL/Commensalism.md",
-    "Notes/spring23/BIOL/Mutualism.md",
-    "Notes/spring23/BIOL/Introduction To Biology.md",
-    "Notes/spring23/BIOL/3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession.md",
-    "Notes/spring23/BIOL/Factors That Promote & Maintain Species Diversity.md",
-    "Notes/spring23/BIOL/Pioneer to Climax Communities.md",
-    "Home.md",
-    "Notes/spring23/BIOL/Secondary Succession.md",
-    "Notes/spring23/BIOL/New Land in Hawaii.md",
-    "Notes/spring23/BIOL/Primary Succession.md",
     "Notes/spring23/BIOL/attachments/Lake George.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
