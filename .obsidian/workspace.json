@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+                "file": "Notes/spring23/DS/Open Addressing.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+                "file": "Notes/spring23/DS/Open Addressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+                "file": "Notes/spring23/DS/Open Addressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/20.0 Hash Tables Part 1.md"
+                "file": "Notes/spring23/DS/Open Addressing.md"
               }
             }
           }
@@ -199,8 +199,15 @@
   },
   "active": "f270c512838d4f56",
   "lastOpenFiles": [
-    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/DS/How To Deal With Collisions.md",
+    "Notes/spring23/DS/Open Addressing.md",
+    "Notes/spring23/DS/Separate Chaining.md",
+    "Notes/spring23/DS/Collisions.md",
+    "Notes/spring23/DS/Hash Function..md",
+    "Notes/spring23/DS/Good Hash Functions.md",
+    "Notes/spring23/DS/20.1 Hash Table.md",
     "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/HW 7 Outline.md",
     "Notes/spring23/DS/hwOutlines/HW 6 Outline.md",
     "Notes/spring23/DS/hwOutlines/HW 3 Outline.md",
@@ -218,13 +225,6 @@
     "Notes/spring23/BIOL/Dead Zones.md",
     "Notes/spring23/BIOL/Anthropogenic.md",
     "Notes/spring23/BIOL/Salinization.md",
-    "Notes/spring23/BIOL/Invasive Species.md",
-    "Notes/spring23/BIOL/Biological Control of Invaders.md",
-    "Notes/spring23/BIOL/Impacts of Aquatic Invasive Species.md",
-    "Notes/spring23/BIOL/Zebra Mussel Invasion to The United States.md",
-    "Notes/spring23/BIOL/Global Climate Change.md",
-    "Notes/spring23/BIOL/Early Discovery of the Greenhouse Gas Effect.md",
-    "Notes/spring23/BIOL/Greenhouse Gases.md",
     "Notes/spring23/BIOL/attachments/Lake George.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",

@@ -1,0 +1,4 @@
+- A simple function of one argument (key) which returns an integer index (a bucket in the array).
+- Will hopefully distribute the keys "uniformly" throughout a range of legal index values (o->k-1).
+- [[Collisions]]
+- [[Good Hash Functions]]
