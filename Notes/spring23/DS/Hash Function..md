@@ -2,3 +2,5 @@
 - Will hopefully distribute the keys "uniformly" throughout a range of legal index values (o->k-1).
 - [[Collisions]]
 - [[Good Hash Functions]]
+- [[STL Hash Table]]
+- 

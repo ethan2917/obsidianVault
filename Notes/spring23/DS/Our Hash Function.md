@@ -1,0 +1,1 @@
+- Our hash function will be a [[Functor]].

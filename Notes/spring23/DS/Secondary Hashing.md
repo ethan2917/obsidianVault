@@ -1,0 +1,1 @@
+When a collision occurs a second hash function is applied to compute a new table location. This is repeated until an empty location is found.

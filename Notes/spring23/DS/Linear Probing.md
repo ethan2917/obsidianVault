@@ -1,0 +1,1 @@
+If `i` is the chosen hash location then the following sequence of table locations is tested until an empty location is found: `(i+1)%N, (i+2)%N, (i+3)%N`.

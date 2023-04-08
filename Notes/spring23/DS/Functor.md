@@ -1,0 +1,1 @@
+- A class wrapper around a function, and the function is implemented as the overloaded function call operator for the class.

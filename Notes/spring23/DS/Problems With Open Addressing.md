@@ -1,0 +1,3 @@
+- Slows dramatically when the table is nearly full (80% or higher).
+- Fails completely when the table is full.
+- Cost of computing new hash values.
