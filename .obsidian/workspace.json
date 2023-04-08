@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7617b7dfb611bae",
+        "id": "bd886a55d882e942",
         "type": "tabs",
         "children": [
           {
-            "id": "f82abe980216dacb",
+            "id": "f4834a9982e8c86c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c4c925ebb4d1fac",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
               "state": {}
             }
           }
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md"
+                "file": "Home.md"
               }
             }
           }
@@ -197,13 +205,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f82abe980216dacb",
+  "active": "f4834a9982e8c86c",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
+    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/DS/16.0 Associative Containers (Maps), Part 2.md",
+    "Notes/spring23/DS/lectureNotes/13.0 Problem Solving I.md",
+    "Notes/spring23/DS/lectureNotes/1.0 Introduction to C++, STL, & Strings.md",
+    "Home.md",
     "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
     "Notes/spring23/DS/Hash Table.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
     "Notes/spring23/DS/Resize.md",
     "Notes/spring23/DS/A Set As a Hash Table.md",
     "Notes/spring23/DS/Erase.md",
@@ -221,10 +234,6 @@
     "Notes/spring23/DS/STL Hash Table.md",
     "Notes/spring23/DS/Collisions.md",
     "Notes/spring23/DS/How To Deal With Collisions.md",
-    "Notes/spring23/DS/Open Addressing.md",
-    "Notes/spring23/DS/Problems With Open Addressing.md",
-    "Notes/spring23/DS/Secondary Hashing.md",
-    "Notes/spring23/DS/Quadratic Probing.md",
     "Notes/spring23/BIOL/attachments/Lake George.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
     "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
@@ -244,7 +253,6 @@
     "Notes/spring23/BIOL/lectureNotes/1.0",
     "Notes/spring23/BIOL/lectureNotes/attachments/Recording 20230313140844.webm",
     "Templates/Templates Vault V1.3/example_vaults/Shool Example Vault/MATH 200/Assignments",
-    "Templates/Templates Vault V1.3/templates/task-and-projects/README",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
