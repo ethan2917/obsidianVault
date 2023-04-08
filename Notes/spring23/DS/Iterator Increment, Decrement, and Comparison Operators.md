@@ -1,0 +1,3 @@
+- The increment operators must find the next key, either in the current list, or in the next non-empty list.
+- The decrement operator must check if the iterator in the list is at the beginning and if so it must proceed to find the previous non-empty list and then find the last entry in that list.
+- The comparison operators must accommodate the fact that when one of the iterators is the `end`, the internal list iterator will not have a useful value.

@@ -1,0 +1,4 @@
+- Computes the hash function value and then the index location.
+- If the key is already in the list that is at the index location, then no changes are made, but an iterator is created referencing the location of the key, a pair is returned with this iterator and false.
+- If the key is not in the list at the index location, then the key should be inserted in the list, and an iterator is created referencing the location of the newly-inserted key a pair is returned with this iterator and true.
+- Find is similar to insert, computing the hash function and index, followed by a std::find operation.

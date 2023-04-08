@@ -8,4 +8,7 @@ class ds_hashset {...}
 - We will use automatic resizing when our table is too full.
 	- Resize is expensive so we will double the size of the underlying structure to ensure it is rarely needed.
 - [[Our Hash Function]]
-- 
+- [[Hash Set Iterators]]
+- [[Insert & Find]]
+- [[Erase]]
+- [[Resize]]

@@ -1,0 +1,1 @@
+Must copy the contents of the current vector into a scratch vector, resize the current vector, and then re-insert each key into the resized vector.

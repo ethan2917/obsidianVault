@@ -1,0 +1,1 @@
+Any insert operation invalidates all ds_hashset iterators because the insert operation could cause a resize of the table. The erase function only invalidates an iterator that references the current object.

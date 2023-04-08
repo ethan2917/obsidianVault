@@ -1,0 +1,4 @@
+- `begin()` skips over empty lists to find the first key in the table.
+	- It must tie the iterator being created to the particular `ds_hashset` object it is applied to.
+	- This is done by passing the `this` pointer to the iterator constructor.
+- `end()` also associated the iterator with the specific table, assigns an index of 1, and thus does not assign the particular list iterator.
