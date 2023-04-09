@@ -28,16 +28,21 @@
   "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
-  "spacesDisablePatch": false,
+  "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": [
+      "Heredity",
+      "Positive"
+    ]
+  },
   "expandedSpaces": [
-    "/",
     null,
-    null
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -69,5 +74,5 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1680983503493
+  "spacesAutoBackupLast": 1681064858730
 }

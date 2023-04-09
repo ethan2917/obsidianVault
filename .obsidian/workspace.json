@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd886a55d882e942",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4834a9982e8c86c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+        "id": "8f01f53a194fa88e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -66,18 +60,19 @@
             }
           },
           {
-            "id": "6c4c925ebb4d1fac",
+            "id": "049dcfbb614ad1c1",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 217.5
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -121,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           }
         ]
@@ -200,50 +199,50 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0873c68bcaf0e13b",
+  "active": "8f01f53a194fa88e",
   "lastOpenFiles": [
     "Home.md",
-    "empty files.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/BIOL/Introduction To Biology.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/fall22/Fall '22 MOC.md",
+    "Notes/spring23/BIOL/Negative Control.md",
+    "Notes/spring23/BIOL/attachments/2.5 Human Genetics and Personalized Medicine-2.png",
+    "Notes/spring23/BIOL/attachments/2.5 Human Genetics and Personalized Medicine-1.png",
+    "Notes/spring23/BIOL/attachments/2.3 Molecular Biology II.png",
+    "Notes/spring23/BIOL/attachments/2.3 Molecular Biology II-2.png",
+    "Notes/spring23/BIOL/attachments/2.3 Molecular Biology II-1.png",
+    "Notes/spring23/BIOL/attachments/2.2 Molecular Biology I.png",
+    "Notes/spring23/BIOL/attachments/2.2 Molecular Biology I-4.png",
+    "Notes/spring23/BIOL/attachments/2.2 Molecular Biology I-3.png",
+    "Notes/spring23/BIOL/attachments/2.2 Molecular Biology I-2.png",
+    "Notes/spring23/BIOL/attachments/2.2 Molecular Biology I-1.png",
+    "Notes/spring23/BIOL/Was RNA the Original Self-Replicating Molecule.md",
+    "Notes/spring23/BIOL/Viruses-Types & Shapes.md",
+    "Notes/spring23/BIOL/Universal Features of Cellular Life Common to Prokaryotes & Eukaryotes.md",
+    "Notes/spring23/BIOL/Types of RNA Molecules-Review.md",
+    "Notes/spring23/BIOL/Tumor Suppressor Genes (TSG) - Transcription Factors.md",
+    "Notes/spring23/BIOL/Transiting Exoplanet Survey Satellite (TESS) 2018.md",
+    "Notes/spring23/BIOL/Transcription Factors (TF) Are Central To Regulation.md",
+    "Notes/spring23/BIOL/Transcription and RNA Processing.md",
+    "Notes/spring23/BIOL/Timeline to Oxygen Revolution.md",
+    "Notes/spring23/BIOL/The Whittaker Diagram.md",
+    "Notes/spring23/BIOL/The Voyage of the HMS Beagle.md",
+    "Notes/spring23/BIOL/The Triplet Code and George Gamow.md",
+    "Notes/spring23/BIOL/The Sex Life of Voles - Male Choices.md",
+    "Notes/spring23/BIOL/The Search for Genetic Material.md",
+    "Notes/spring23/BIOL/The Roadmap Epigenomics Project 2015.md",
+    "Notes/spring23/BIOL/The Path from Nucleotides to Proteins.md",
+    "Notes/spring23/BIOL/The Lac Operon in E. Coli.md",
+    "Notes/spring23/BIOL/miRNA Function in Limb Development.md",
+    "Notes/spring23/BIOL/MicroRNAs (miRNA) Play Major Role in Gene Expression.md",
+    "Positive",
+    "Heredity",
     "Context/spacesLastSync.log",
     "Context",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/DS/Data Structures.md",
-    "Notes/spring23/DS/16.0 Associative Containers (Maps), Part 2.md",
-    "Notes/spring23/DS/lectureNotes/13.0 Problem Solving I.md",
-    "Notes/spring23/DS/lectureNotes/1.0 Introduction to C++, STL, & Strings.md",
-    "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
-    "Notes/spring23/DS/Hash Table.md",
-    "Notes/spring23/DS/Resize.md",
-    "Notes/spring23/DS/A Set As a Hash Table.md",
-    "Notes/spring23/DS/Erase.md",
-    "Notes/spring23/DS/Hash Set Iterators.md",
-    "Notes/spring23/DS/Hash Table Iterator Invalidation.md",
-    "Notes/spring23/DS/Insert & Find.md",
-    "Notes/spring23/DS/Iterator Increment, Decrement, and Comparison Operators.md",
-    "Notes/spring23/DS/Implementing begin() and end().md",
-    "Notes/spring23/DS/Our Hash Function.md",
-    "Notes/spring23/DS/Functor.md",
-    "Notes/spring23/DS/STL Maps.md",
-    "Notes/spring23/DS/STL Sets.md",
-    "Notes/spring23/DS/15.0 Associative Containers (Maps), Part 1.md",
-    "Notes/spring23/DS/Hash Function..md",
-    "Notes/spring23/DS/STL Hash Table.md",
-    "Notes/spring23/DS/Collisions.md",
-    "Notes/spring23/DS/How To Deal With Collisions.md",
-    "Notes/spring23/BIOL/attachments/Lake George.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-5.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-4.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-3.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-2.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized-1.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Effect Summarized.png",
-    "Notes/spring23/BIOL/attachments/Greenhouse Gases.png",
-    "Notes/spring23/BIOL/attachments/The Keeling Curve.png",
-    "Notes/spring23/BIOL/attachments/Eutrophication.png",
     "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
     "Notes/spring23/DS/attachments",
-    "Heredity",
-    "Positive",
     "Notes/spring23/BIOL/lectureNotes/3.1",
     "Notes/spring23/BIOL/lectureNotes/New folder",
     "Notes/spring23/BIOL/lectureNotes/1.0",

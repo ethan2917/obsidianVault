@@ -1,3 +1,6 @@
+---
+sticker: 1f3e0
+---
 ## MOCs
 ### [[Fall '22 MOC]]
 ### [[Spring '23 MOC]]

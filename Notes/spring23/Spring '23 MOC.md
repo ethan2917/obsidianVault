@@ -1,3 +1,6 @@
+---
+sticker: 1f324-fe0f
+---
 ## Courses
 ### [[Crash Course in C++]]
 ### [[Data Structures]]
