@@ -36,6 +36,7 @@
   "expandedFolders": {},
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "openFolders": [],
@@ -59,7 +60,7 @@
   "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": false,
+  "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
@@ -68,5 +69,5 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1680982316169
+  "spacesAutoBackupLast": 1680983503493
 }
