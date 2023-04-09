@@ -41,8 +41,8 @@
   },
   "expandedSpaces": [
     null,
-    null,
-    "/"
+    "/",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -74,5 +74,5 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681065194348
+  "spacesAutoBackupLast": 1681065778636
 }
