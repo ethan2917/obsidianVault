@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce635e855db3161a",
+        "id": "099e261efc58f0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "8ad5992e85b50c2c",
+            "id": "c619b69ae41c62db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "c9d2f3eef3dfc496",
+            "id": "09d62604fa4361f9",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -205,12 +205,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8ad5992e85b50c2c",
+  "active": "c619b69ae41c62db",
   "lastOpenFiles": [
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Home.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Untitled.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Recording 20230313140844.webm",
