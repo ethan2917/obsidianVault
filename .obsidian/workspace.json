@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Stacks and Queues.md",
-                "mode": "source",
+                "file": "Notes/spring23/DS/Data Structures.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Stacks and Queues.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Stacks and Queues.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Stacks and Queues.md"
+                "file": "Notes/spring23/DS/Data Structures.md"
               }
             }
           }
@@ -208,7 +208,12 @@
   "active": "99d6dd7ef69f2b4b",
   "lastOpenFiles": [
     "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+    "Notes/spring23/DS/Binary Heaps.md",
     "Notes/spring23/DS/Stacks and Queues.md",
+    "Notes/spring23/DS/Queue.md",
+    "Notes/spring23/DS/Priority Queue.md",
+    "Notes/spring23/DS/Some Data Structure Options to Implement a Priority Queue.md",
+    "Notes/spring23/DS/Stack.md",
     "Notes/spring23/DS/Using STL's Associative Hash Table (Map).md",
     "Notes/spring23/DS/Hash Function.md",
     "Notes/spring23/DS/Functor.md",
@@ -239,11 +244,6 @@
     "Notes/spring23/BIOL/Intertidal.md",
     "Notes/spring23/BIOL/Interactomics.md",
     "Notes/spring23/BIOL/Ingredients for the Origin of Life.md",
-    "Notes/spring23/BIOL/First Definition of Ecology.md",
-    "Notes/spring23/BIOL/Eukaryotic Transcription Complexes Multiple Proteins & Regulatory Factors.md",
-    "Notes/spring23/BIOL/Ecology.md",
-    "Notes/spring23/BIOL/Ecology & The Origin.md",
-    "Notes/spring23/BIOL/Cytokinesis.md",
     "Positive",
     "Heredity",
     "Context/spacesLastSync.log",

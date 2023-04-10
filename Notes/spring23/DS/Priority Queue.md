@@ -1,0 +1,7 @@
+- Used in prioritizing operations.
+- Their interface is most similar to a [[Queue]], including a `front` and a `back`.
+- Each item is stored in a priority queue using an associated "priority".
+	- The `top` item is one with the lowest value of the priority score.
+	- The `tail` is never accessed through the public interface.
+- The main operations are `insert`, and `pop`.
+- [[Some Data Structure Options to Implement a Priority Queue]]

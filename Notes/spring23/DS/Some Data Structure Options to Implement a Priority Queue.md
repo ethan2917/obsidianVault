@@ -1,0 +1,6 @@
+- Vector or a list, sorted or unsorted
+	- At least one of the operations, `push` or `pop` will cost linear time.
+- Binary Search Trees 
+	- If we use the priority as a key, then we can use a combination of finding the minimum key and erase to implement `pop`.
+	- This is the better option.
+		- It may be more natural if the minimum priority value were stored at the root.

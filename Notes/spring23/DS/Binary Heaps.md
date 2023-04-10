@@ -1,0 +1,6 @@
+- A complete binary tree such that each internal node, `p`, the value stored is less than the value stored at either of `p`'s children.
+	- A complete binary tree is one that is completely filled.
+		- Except perhaps at the lowest level.
+		- And at the lowest level all leaf nodes are as far to the left as possible.
+- Binary heaps are drawn as binary trees, but implemented using **vectors**.
+- The heap could be organized such that the value stored at each node is greater than the values at its children.

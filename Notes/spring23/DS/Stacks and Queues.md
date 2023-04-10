@@ -1,0 +1,5 @@
+- With a [[Hash Table]] we give up a sorted table and gain in find, insert, and erase efficiency.
+- Two more examples of this are:
+	- [[Stack]]
+	- [[Queue]]
+- 
