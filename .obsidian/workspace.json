@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md",
+                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md",
+                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md",
+                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md"
+                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md"
               }
             }
           }
@@ -207,13 +207,14 @@
   },
   "active": "99d6dd7ef69f2b4b",
   "lastOpenFiles": [
-    "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
     "Notes/spring23/DS/Binary Heaps.md",
+    "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
     "Notes/spring23/DS/Stacks and Queues.md",
+    "Notes/spring23/DS/Stack.md",
+    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/Queue.md",
     "Notes/spring23/DS/Priority Queue.md",
     "Notes/spring23/DS/Some Data Structure Options to Implement a Priority Queue.md",
-    "Notes/spring23/DS/Stack.md",
     "Notes/spring23/DS/Using STL's Associative Hash Table (Map).md",
     "Notes/spring23/DS/Hash Function.md",
     "Notes/spring23/DS/Functor.md",
@@ -222,7 +223,6 @@
     "Notes/spring23/DS/What is std less.md",
     "Notes/spring23/DS/for_each.md",
     "Notes/spring23/DS/Lambda.md",
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/Spring '23 MOC.md",
     "Home.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",

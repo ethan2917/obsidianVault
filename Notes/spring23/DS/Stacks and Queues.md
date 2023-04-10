@@ -2,4 +2,3 @@
 - Two more examples of this are:
 	- [[Stack]]
 	- [[Queue]]
-- 
