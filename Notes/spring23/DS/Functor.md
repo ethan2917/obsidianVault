@@ -1,1 +1,4 @@
+- Also known as Function Objects.
 - A class wrapper around a function, and the function is implemented as the overloaded function call operator for the class.
+- [[Why Are Functors Useful]]
+- [[Another More Complicated Functor Example]]

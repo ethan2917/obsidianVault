@@ -1,0 +1,147 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "What is Ethics": {
+      "What is Ethics": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681158424381
+        }
+      }
+    },
+    "Functions of DNA": {
+      "Functions of DNA": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681158815750
+        }
+      }
+    },
+    "default": {
+      "default": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681158932051
+        }
+      }
+    },
+    "Hash Function.": {
+      "Hash Function.": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1681159588574
+        }
+      }
+    },
+    "initial": {
+      "initial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681159553261
+        }
+      }
+    },
+    "string": {
+      "string": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681159582468
+        }
+      }
+    },
+    "Hash Function": {
+      "Hash Function": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681159605706
+        }
+      }
+    },
+    "Functor": {
+      "Functor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681159676768
+        }
+      }
+    },
+    "Stabilizing Selection": {
+      "Stabilizing Selection": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681159712653
+        }
+      }
+    },
+    "Examples in Humans": {
+      "Examples in Humans": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681159740073
+        }
+      }
+    }
+  }
+}

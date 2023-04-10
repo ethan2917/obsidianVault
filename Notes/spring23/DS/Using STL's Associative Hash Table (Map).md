@@ -1,0 +1,11 @@
+- Using the default `std::string` [[Hash Function]] 
+	- No specified initial table size `std::unordered_map<std::string,Foo> m;`
+	- Optionally specifying initial table size `std::unordered_map<std::string,Foo> m(1000);`
+- Using a home-made `std::string` [[Hash Function]] 
+	- Manually specifying the [[Hash Function]] type `std::unordered_map<std::string,Foo,std::function<unsigned int(std::string)> > m(1000, MyHashFunction);`
+	- Using the `decltype` specifier to get the "declared type of an entity" `std::unordered_map<std::string,Foo,decltype(&MyHashFunction)> m(1000, MyHashFunction);`
+- Using a home-made `std::string` hash [[Functor]]
+	- With no specified initial table size `std::unordered_map<std::string,Foo,MyHashFunctor> m;`
+	- Optionally specifying initial table size `std::unordered_map<std::string,Foo,MyHashFunctor> m(1000);`
+- In the above examples we are creating an association between two types (STL strings and custom Foo object)
+	- If you'd like to create a set (no associated 2nd type), simply switch from `unordered_map` to `unordered_set` and remove the Food from the template type.

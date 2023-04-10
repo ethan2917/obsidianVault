@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+                "file": "Notes/spring23/DS/Stacks and Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+                "file": "Notes/spring23/DS/Stacks and Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+                "file": "Notes/spring23/DS/Stacks and Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md"
+                "file": "Notes/spring23/DS/Stacks and Queues.md"
               }
             }
           }
@@ -207,8 +207,17 @@
   },
   "active": "99d6dd7ef69f2b4b",
   "lastOpenFiles": [
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+    "Notes/spring23/DS/Stacks and Queues.md",
+    "Notes/spring23/DS/Using STL's Associative Hash Table (Map).md",
+    "Notes/spring23/DS/Hash Function.md",
+    "Notes/spring23/DS/Functor.md",
+    "Notes/spring23/DS/Another More Complicated Functor Example.md",
+    "Notes/spring23/DS/Why Are Functors Useful.md",
+    "Notes/spring23/DS/What is std less.md",
+    "Notes/spring23/DS/for_each.md",
+    "Notes/spring23/DS/Lambda.md",
+    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/Spring '23 MOC.md",
     "Home.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
@@ -235,15 +244,6 @@
     "Notes/spring23/BIOL/Ecology.md",
     "Notes/spring23/BIOL/Ecology & The Origin.md",
     "Notes/spring23/BIOL/Cytokinesis.md",
-    "Notes/spring23/BIOL/Complex Biomolecules Capable of Replication.md",
-    "Notes/spring23/BIOL/Autosomal Dominant Disorders.md",
-    "Notes/spring23/BIOL/Anatomical Comparative Anatomy The Vertebrate Forearm.md",
-    "Notes/spring23/BIOL/Anaphase.md",
-    "Notes/spring23/BIOL/Analogous.md",
-    "Notes/spring23/BIOL/Introduction To Biology.md",
-    "Notes/fall22/Fall '22 MOC.md",
-    "Notes/spring23/BIOL/Negative Control.md",
-    "Notes/spring23/BIOL/Was RNA the Original Self-Replicating Molecule.md",
     "Positive",
     "Heredity",
     "Context/spacesLastSync.log",
