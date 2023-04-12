@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0195dc3efa2995",
+        "id": "e5cde7c3fb77e35d",
         "type": "tabs",
         "children": [
           {
-            "id": "99d6dd7ef69f2b4b",
+            "id": "5300f52e891f09fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+                "file": "Notes/spring23/BIOL/Daphne Major.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#R",
+                "query": "selection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+                "file": "Notes/spring23/BIOL/Daphne Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+                "file": "Notes/spring23/BIOL/Daphne Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/21.0 Hash Tables Part 2.md"
+                "file": "Notes/spring23/BIOL/Daphne Major.md"
               }
             }
           }
@@ -205,8 +205,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "99d6dd7ef69f2b4b",
+  "active": "5300f52e891f09fd",
   "lastOpenFiles": [
+    "Notes/spring23/BIOL/Natural Selection.md",
+    "Notes/spring23/BIOL/1.4 Evolution Through Natural Selection.md",
+    "Home.md",
     "Notes/spring23/DS/Binary Heaps.md",
     "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
     "Notes/spring23/DS/Stacks and Queues.md",
@@ -224,7 +227,6 @@
     "Notes/spring23/DS/for_each.md",
     "Notes/spring23/DS/Lambda.md",
     "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Untitled.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
@@ -242,8 +244,6 @@
     "Notes/spring23/BIOL/Mitosis.md",
     "Notes/spring23/BIOL/Key Contributors to The Theory.md",
     "Notes/spring23/BIOL/Intertidal.md",
-    "Notes/spring23/BIOL/Interactomics.md",
-    "Notes/spring23/BIOL/Ingredients for the Origin of Life.md",
     "Positive",
     "Heredity",
     "Context/spacesLastSync.log",
