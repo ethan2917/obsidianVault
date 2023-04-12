@@ -22,6 +22,8 @@ sticker: 1f5a5-fe0f
 [[18.0 Trees, Part 2]]
 [[20.0 Hash Tables Part 1]]
 [[21.0 Hash Tables Part 2]]
+[[22.0 Priority Queues]]
+
 ## HW Outlines
 [[HW 3 Outline]]
 [[HW 4 Outline]]

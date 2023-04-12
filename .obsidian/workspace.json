@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "28a783c2619791a6",
+        "id": "da2bf4a1b2635300",
         "type": "tabs",
         "children": [
           {
-            "id": "1fbfffde7807d93a",
+            "id": "d6a6dda8a8e5cc45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Linear Probing.md",
+                "file": "Notes/spring23/BIOL/Survival of the Fittest.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2c33afff257c0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/spring23/DS/22.0 Priority Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Linear Probing.md",
+                "file": "Notes/spring23/DS/22.0 Priority Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Linear Probing.md",
+                "file": "Notes/spring23/DS/22.0 Priority Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Linear Probing.md"
+                "file": "Notes/spring23/DS/22.0 Priority Queues.md"
               }
             }
           }
@@ -205,34 +217,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1fbfffde7807d93a",
+  "active": "d2c33afff257c0b8",
   "lastOpenFiles": [
-    "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+    "Notes/spring23/DS/Heap Sort.md",
+    "Notes/spring23/DS/22.0 Priority Queues.md",
+    "Notes/spring23/DS/Implementing A Heap With A Vector.md",
+    "Notes/spring23/DS/Building A Heap.md",
+    "Notes/spring23/DS/Binary Heap.md",
+    "Notes/spring23/DS/Implementing Push.md",
+    "Notes/spring23/DS/Percolate Up.md",
+    "Notes/spring23/DS/Implementing Pop.md",
+    "Notes/spring23/DS/Percolate Down.md",
     "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
+    "Notes/spring23/DS/Stacks and Queues.md",
+    "Notes/spring23/DS/Queue.md",
+    "Notes/spring23/DS/Priority Queue.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
+    "Notes/spring23/BIOL/Survival of the Fittest.md",
+    "Notes/spring23/BIOL/Natural Selection.md",
+    "Notes/spring23/BIOL/1.5 Processes That Drive Evolution and Speciation.md",
+    "Notes/spring23/BIOL/Introduction To Biology.md",
+    "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
     "Notes/spring23/DS/Hash Table.md",
     "Notes/spring23/DS/A Set As a Hash Table.md",
     "Notes/spring23/DS/Separate Chaining.md",
     "Notes/spring23/DS/Insert & Find.md",
     "Notes/spring23/DS/Our Hash Function.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
-    "Notes/spring23/BIOL/Natural Selection.md",
-    "Notes/spring23/BIOL/1.4 Evolution Through Natural Selection.md",
-    "Notes/spring23/DS/Binary Heaps.md",
-    "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
-    "Notes/spring23/DS/Stacks and Queues.md",
-    "Notes/spring23/DS/Stack.md",
-    "Notes/spring23/DS/Queue.md",
-    "Notes/spring23/DS/Priority Queue.md",
-    "Notes/spring23/DS/Some Data Structure Options to Implement a Priority Queue.md",
-    "Notes/spring23/DS/Using STL's Associative Hash Table (Map).md",
-    "Notes/spring23/DS/Hash Function.md",
-    "Notes/spring23/DS/Functor.md",
-    "Notes/spring23/DS/Another More Complicated Functor Example.md",
-    "Notes/spring23/DS/Why Are Functors Useful.md",
-    "Notes/spring23/DS/What is std less.md",
-    "Notes/spring23/DS/for_each.md",
-    "Notes/spring23/DS/Lambda.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Recording 20230313140844.webm",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",

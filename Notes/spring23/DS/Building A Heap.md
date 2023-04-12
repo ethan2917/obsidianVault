@@ -1,0 +1,2 @@
+- In order to build a heap from a vector of values, for each index from (n-1)/2 down to 0, run [[Percolate Down]].
+- If instead we ran [[Percolate Up]] from each index starting at index 0 through index n-1, we would get properly organized heap data but incur a *O(n log n)* cost.

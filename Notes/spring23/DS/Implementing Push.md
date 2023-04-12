@@ -1,0 +1,2 @@
+- To add a value to the heap, a new last leaf node in the tree is created to store that value.
+- Then the [[Percolate Up]] function is run.

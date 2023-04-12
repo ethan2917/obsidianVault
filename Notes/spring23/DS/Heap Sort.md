@@ -1,0 +1,3 @@
+- A simple algorithm to sort a vector of values.
+	- Build a heap and then run n consecutive pop operations, storing each popped value in a new vector.
+- This requires O(*n* log *n*) time.

@@ -1,0 +1,4 @@
+- The value at the top (root) of the tree is replaced by the value stored in the last leaf node.
+- The last leaf node is removed.
+- The value now at the root likely breaks the heap property.
+	- We use [[Percolate Down]] function to restore the heap property.
