@@ -30,6 +30,7 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
+  "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
@@ -74,5 +75,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681321871158
+  "spacesAutoBackupLast": 1681321871158,
+  "spacesUseAlias": false
 }

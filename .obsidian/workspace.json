@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "da2bf4a1b2635300",
+        "id": "5005ff9841aa12bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a6dda8a8e5cc45",
+            "id": "4bf4b0016b2b542c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/BIOL/Survival of the Fittest.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2c33afff257c0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/DS/22.0 Priority Queues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,14 +66,15 @@
             }
           },
           {
-            "id": "09d62604fa4361f9",
+            "id": "baa17d06da53c336",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/22.0 Priority Queues.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/22.0 Priority Queues.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/22.0 Priority Queues.md"
+                "file": "Home.md"
               }
             }
           }
@@ -217,34 +205,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d2c33afff257c0b8",
+  "active": "4bf4b0016b2b542c",
   "lastOpenFiles": [
-    "Notes/spring23/DS/Heap Sort.md",
+    "Notes/spring23/DS/Hash Table.md",
+    "Notes/spring23/DS/Hash Function.md",
+    "Notes/spring23/DS/Collisions.md",
+    "Notes/spring23/DS/How To Deal With Collisions.md",
+    "Notes/spring23/DS/Open Addressing.md",
+    "Notes/spring23/DS/Quadratic Probing.md",
+    "Notes/spring23/DS/Problems With Open Addressing.md",
+    "Notes/spring23/DS/Secondary Hashing.md",
+    "Notes/spring23/DS/Linear Probing.md",
+    "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
     "Notes/spring23/DS/22.0 Priority Queues.md",
-    "Notes/spring23/DS/Implementing A Heap With A Vector.md",
-    "Notes/spring23/DS/Building A Heap.md",
-    "Notes/spring23/DS/Binary Heap.md",
     "Notes/spring23/DS/Implementing Push.md",
     "Notes/spring23/DS/Percolate Up.md",
+    "Notes/spring23/DS/Binary Heap.md",
+    "Notes/spring23/DS/Implementing A Heap With A Vector.md",
+    "Notes/spring23/crashCourseInC++/Crash Course in C++.md",
+    "Notes/spring23/DS/Heap Sort.md",
     "Notes/spring23/DS/Implementing Pop.md",
     "Notes/spring23/DS/Percolate Down.md",
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
     "Notes/spring23/DS/Stacks and Queues.md",
     "Notes/spring23/DS/Queue.md",
     "Notes/spring23/DS/Priority Queue.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
-    "Notes/spring23/BIOL/Survival of the Fittest.md",
-    "Notes/spring23/BIOL/Natural Selection.md",
-    "Notes/spring23/BIOL/1.5 Processes That Drive Evolution and Speciation.md",
-    "Notes/spring23/BIOL/Introduction To Biology.md",
-    "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
-    "Notes/spring23/DS/Hash Table.md",
-    "Notes/spring23/DS/A Set As a Hash Table.md",
-    "Notes/spring23/DS/Separate Chaining.md",
-    "Notes/spring23/DS/Insert & Find.md",
-    "Notes/spring23/DS/Our Hash Function.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Recording 20230313140844.webm",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",
