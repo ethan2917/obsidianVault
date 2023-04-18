@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/DS/Data Structures.md"
               }
             }
           }
@@ -207,8 +207,9 @@
   },
   "active": "36687b9647b152e6",
   "lastOpenFiles": [
-    "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/DS/HW 10 Outline.md",
     "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/Spring '23 MOC.md",
     "Home.md",
     "Context/spacesLastSync.log",
     "Context",
