@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7a3ef40ee89db04",
+        "id": "e6ecc0645389164c",
         "type": "tabs",
         "children": [
           {
-            "id": "36687b9647b152e6",
+            "id": "23f6aee64b018a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Data Structures.md"
+                "file": "Home.md"
               }
             }
           }
@@ -205,7 +205,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "36687b9647b152e6",
+  "active": "23f6aee64b018a6e",
   "lastOpenFiles": [
     "Notes/spring23/DS/HW 10 Outline.md",
     "Notes/spring23/DS/Data Structures.md",
