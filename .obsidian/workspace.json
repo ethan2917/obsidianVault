@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c13582137738ced",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Home.md",
-            "mode": "preview",
-            "source": false
+        "id": "c7a3ef40ee89db04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36687b9647b152e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +205,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1c13582137738ced",
+  "active": "36687b9647b152e6",
   "lastOpenFiles": [
     "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/DS/Data Structures.md",
     "Home.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/BIOL/Complex Dynamic System.md",
     "Untitled.md",
@@ -220,13 +229,11 @@
     "Notes/spring23/BIOL/Keystone Species.md",
     "Notes/spring23/BIOL/Pacific Coast Kelp Bed.md",
     "Notes/spring23/BIOL/Combined Impacts On Kelp Ecosystems.md",
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/21.0 Hash Tables Part 2.md",
     "Notes/spring23/DS/Stacks and Queues.md",
     "Notes/spring23/DS/22.0 Priority Queues.md",
     "Notes/spring23/DS/Hash Table.md",
     "Notes/spring23/DS/Hash Function.md",
-    "Notes/spring23/DS/Collisions.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Recording 20230313140844.webm",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",
@@ -240,8 +247,6 @@
     "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases-2.png",
     "Positive",
     "Heredity",
-    "Context/spacesLastSync.log",
-    "Context",
     "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
     "Notes/spring23/DS/attachments",
     "Notes/spring23/BIOL/lectureNotes/3.1",
