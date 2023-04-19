@@ -24,19 +24,6 @@ sticker: 1f5a5-fe0f
 [[21.0 Hash Tables Part 2]]
 [[22.0 Priority Queues]]
 
-## HW Outlines
-[[HW 3 Outline]]
-[[HW 4 Outline]]
-[[HW 5 Outline]]
-[[HW 6 Outline]]
-[[HW 7 Outline]]
-[[HW 8 Outline]]
-[[HW 9 Outline]]
-[[HW 10 Outline]]
-
-## Crib Sheet Outlines
-[[Exam 2 Crib Sheet]]
-
 ## Tasks
 ### Incomplete Tasks
 ```tasks

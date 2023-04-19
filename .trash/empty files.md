@@ -1,0 +1,3 @@
+- [[Notes/spring23/DS/DS.md]]
+- [[Notes/spring23/DS/HW 10 Outline.md]]
+- [[Notes/spring23/DS/attachments/attachments.md]]

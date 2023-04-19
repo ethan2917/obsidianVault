@@ -37,7 +37,11 @@
   "expandedFolders": {
     "/": [
       "Heredity",
-      "Positive"
+      "Positive",
+      "Notes",
+      "Notes/spring23",
+      "Notes/spring23/DS/cribSheetOutlines",
+      "Notes/spring23/DS/hwOutlines"
     ]
   },
   "expandedSpaces": [
@@ -75,6 +79,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681842626883,
+  "spacesAutoBackupLast": 1681843531970,
   "spacesUseAlias": false
 }
