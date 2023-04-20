@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6807f3246a0fedb",
+        "id": "36cd3a8c806876c3",
         "type": "tabs",
         "children": [
           {
-            "id": "fe3a9e1e804ebd4a",
+            "id": "8b9e472baa1deff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/Spring '23 MOC.md"
+                "file": "Home.md"
               }
             }
           }
@@ -205,7 +205,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fe3a9e1e804ebd4a",
+  "active": "8b9e472baa1deff2",
   "lastOpenFiles": [
     "Home.md",
     "broken links output.md",
