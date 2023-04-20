@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94ea87199cb89a02",
+        "id": "f6807f3246a0fedb",
         "type": "tabs",
         "children": [
           {
-            "id": "02fa9f1389e742ba",
+            "id": "fe3a9e1e804ebd4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/Spring '23 MOC.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/Spring '23 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/Spring '23 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/Spring '23 MOC.md"
               }
             }
           }
@@ -205,12 +205,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "02fa9f1389e742ba",
+  "active": "fe3a9e1e804ebd4a",
   "lastOpenFiles": [
+    "Home.md",
     "broken links output.md",
     "Notes/fall22/CS1/Computer Science 1.md",
     "empty files.md",
-    "Home.md",
     "Notes/spring23/DS/DS.md",
     "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/hwOutlines/hwOutlines.md",

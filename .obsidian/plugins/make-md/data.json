@@ -38,7 +38,6 @@
     "/": [
       "Heredity",
       "Positive",
-      "Notes",
       "Notes/spring23",
       "Notes/spring23/DS/cribSheetOutlines",
       "Notes/spring23/DS/hwOutlines"
@@ -46,8 +45,8 @@
   },
   "expandedSpaces": [
     null,
-    "/",
-    null
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
