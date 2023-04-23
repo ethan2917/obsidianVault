@@ -42,5 +42,6 @@
   "find-unlinked-files",
   "various-complements",
   "obsidian-citation-plugin",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "make-md"
 ]

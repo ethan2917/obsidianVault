@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "preview",
+            "file": "Notes/spring23/PHIL/Virtue Ethics.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -58,8 +58,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ee4c27bdfec317af",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md"
               }
             }
           }
@@ -190,13 +199,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0873c68bcaf0e13b",
+  "active": "85a2fb636c531240",
   "lastOpenFiles": [
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/Spring '23 MOC.md",
     "Home.md",
     "Notes/spring23/PHIL/Untitled.md",
     "Notes/spring23/PHIL/Virtue Ethics.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/PHIL/The Ethics of Care.md",
     "Notes/spring23/PHIL/Intertwined Interests.md",
     "Notes/spring23/PHIL/lectureNotes/Trolley Problem & Ethics Settings for Autonomous Vehicles.md",
