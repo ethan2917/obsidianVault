@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0e3d948c64e6d1b",
+        "id": "66ffd5eeb018f04a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f75767beeddb317",
+            "id": "3b989285ed130ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md"
               }
             }
           }
@@ -205,8 +205,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6f75767beeddb317",
+  "active": "3b989285ed130ffb",
   "lastOpenFiles": [
+    "Notes/spring23/PHIL/The Ethics of Care.md",
+    "Notes/spring23/PHIL/Intertwined Interests.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/PHIL/lectureNotes/Trolley Problem & Ethics Settings for Autonomous Vehicles.md",
+    "Notes/spring23/PHIL/lectureNotes/What is Philosophy.md",
+    "Notes/spring23/PHIL/lectureNotes/The Value of Philosophy.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/BIOL/Introduction To Biology.md",
     "Home.md",
     "broken links output.md",
     "Notes/fall22/CS1/Computer Science 1.md",
@@ -221,20 +229,12 @@
     "Notes/spring23/DS/17.7 Count the number of odd numbers stored in a binary tree.md",
     "Notes/spring23/DS/17.9 ds_set.md",
     "Notes/spring23/DS/22.0 Priority Queues.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/DS/HW 10 Outline.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/BIOL/Complex Dynamic System.md",
     "Untitled.md",
-    "Notes/spring23/BIOL/Introduction To Biology.md",
     "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
-    "Notes/spring23/BIOL/Lake George.md",
-    "Notes/spring23/BIOL/3.3 Understanding Ecosystems.md",
-    "Notes/spring23/BIOL/Understanding Complex Systems.md",
-    "Notes/spring23/BIOL/3.4 Ecological Relationships.md",
-    "Notes/spring23/BIOL/The Biosphere.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Recording 20230313140844.webm",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",
