@@ -1,0 +1,3 @@
+- The conclusion does not have to be at the end
+- The overall idea
+- Uses premises as evidence/support

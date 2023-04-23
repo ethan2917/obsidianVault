@@ -1,0 +1,3 @@
+- P1: All men are mortal
+- P2: Socrates is a man
+- Conc: Therefore, Socrates is mortal.

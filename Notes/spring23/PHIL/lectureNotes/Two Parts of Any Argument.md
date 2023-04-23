@@ -1,0 +1,3 @@
+- [[Premises]]
+- [[Conclusion]]
+- A key part of any argument is to ensure both parties agree on certain terms and what they mean.

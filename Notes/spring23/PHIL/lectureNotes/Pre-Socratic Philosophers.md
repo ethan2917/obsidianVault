@@ -1,0 +1,4 @@
+- It began close to what is current day Turkey.
+- They wondered why is there order and not chaos. What holds everything together?
+- They each had a different theory about the fundamental nature of reality, but they were all seeking to identify and understand the arche, that which originated sustains the cosmos.
+- [[Pythagoras]]

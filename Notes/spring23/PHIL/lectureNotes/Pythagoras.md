@@ -1,0 +1,5 @@
+- The most well known pre-socratic philosopher.
+	- He had a cult following.
+	- Came up with the idea that mathematical relations are what govern the cosmos.
+		- This idea originated when he realized the length of a string on an instrument changed the sound that the instrument made.
+	- Mathematical ratios and relations are what is most real within the universe.

@@ -1,0 +1,7 @@
+- The premises within a deductive argument build upon each other.
+- Purport to be "airtight" arguments in which the truth of the premises would guarantee the truth of the conclusion.
+- [[Classical example of deductive argument]]
+- This is known as a [[Valid]] argument, if the [[premises]] are true, then the [[conclusion]] has to be true.
+- If the premises are not all true, then the argument is not a good argument.
+- If the premises are about a technical or highly specific subject matter, one may need to consult experts in the particular field in question.
+- Some premises are such that their truth or falsity is debated even among conscientious and intelligent people.

@@ -1,0 +1,2 @@
+- Asks whether beauty is simply a matter of taste or whether there might be some objective standards.
+- What makes something a work of art, and what standards should be used to evaluate art?

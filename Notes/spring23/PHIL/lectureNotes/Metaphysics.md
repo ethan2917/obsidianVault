@@ -1,0 +1,6 @@
+- It will ask why, look for reasoning behind things.
+- The part of physics that asks about the nature of reality. What is most fundamental in the world.
+- For example, is time real, does god exist, do numbers exist, etc...
+	- Is there more to reality than physical appearances.
+	- Taking things past their surface value.
+- Metaphysics is most closely connected to science.

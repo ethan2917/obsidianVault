@@ -1,0 +1,6 @@
+- This is not a type of argument but does play a role within arguments.
+- To say that A is necessary for B is to say that without A there can be no occurrence of B.
+	- Although there is often more than one necessary condition for an event to occur.
+		- Oxygen, fuel to burn, and a source of ignition are each necessary for a fire. But none is sufficient by themselves to guarantee that there will be a fire, but we can say that without any one of these there would be no fire.
+- It is sometimes the case that A is both necessary and sufficient for B, but often this is not the case.
+- When philosophers ask about what constitutes a mind or what confers personal identity on an individual, they are often looking for something that is both necessary and sufficient.

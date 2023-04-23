@@ -1,0 +1,3 @@
+- Validity is a claim about the relationship between the premises and the conclusion.
+- The premises and the conclusion are not themselves said to be valid.
+	- Validity is a property of the argument as a whole.

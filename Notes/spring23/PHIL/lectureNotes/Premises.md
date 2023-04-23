@@ -1,0 +1,6 @@
+- Statements
+- Declarative sentences
+- Can be any number of premises
+- Each premises offers more and more support for the conclusion and can be used without one another
+- Premises may even build upon each other
+- The reasons or evidence given in support of the conclusion

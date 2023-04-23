@@ -1,0 +1,6 @@
+- Note that the premises of deductive arguments are often themselves conclusions of induction.
+- Consider our earlier example of deduction:
+	- All men are mortal.
+	- Socrates is a man,
+	- Therefore, Socrates is mortal.
+- The premise that all men are mortal is itself a product of **inductive generalization** from all known instances of people who have lived in the past.

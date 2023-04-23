@@ -1,0 +1,7 @@
+- Socrates focused on human beings and society.
+	- How we should live and act, what we owe to society and other people, and what sort of education is best.
+- There were different forms of government around this time.
+- Democracy existed although it fell short at times.
+- Socrates always searched for new knowledge of the good and the true.
+- He operated under the assumption that there were objective truths and that knowledge of them was in principle possible for human beings.
+- During his conversations with people, Socrates would always embarrass people considered as experts.

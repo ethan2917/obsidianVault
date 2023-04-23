@@ -1,1 +1,2 @@
 - Ethics is the systematic, organized study of right and wrong, good and bad, and of theories concerning of these things.
+- Asks what values we should have and what principles or standards should we use to judge right from wrong?

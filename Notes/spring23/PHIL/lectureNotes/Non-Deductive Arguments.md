@@ -1,0 +1,2 @@
+- One very important type of Non-Deductive argument is the [[Inductive Argument]].
+- A deductive argument is only as good as the inductive arguments behind it.

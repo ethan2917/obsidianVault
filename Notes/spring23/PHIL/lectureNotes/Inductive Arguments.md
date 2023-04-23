@@ -1,0 +1,3 @@
+- Argument starts with some finite set of past or current instances and then argues to the conclusion tat something is generally the case (**Inductive Generalization**).
+	- Or that the next instance observed will probably be a certain way (**Inductive Analogical Arguments**)
+- Again, there is never 100% certainty with inductive arguments of either sort, because there is always principle the possibility that negative instances could arise.

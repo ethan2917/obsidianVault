@@ -1,0 +1,4 @@
+- Philosophy began in the West with the [[Pre-Socratic Philosophers]].
+- Although physical objects will not be here, the idea and facts of math will still be here.
+- There are no definite answers in philosophy, once they discovered what made planets move their course it was no longer philosophy and now considered physics.
+	- Once a definite answer is found it is no longer a part of philosophy.

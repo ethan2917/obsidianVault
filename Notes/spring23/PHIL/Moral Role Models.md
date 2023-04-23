@@ -1,0 +1,5 @@
+- Virtue ethicists have often recommended emulating the behavior of persons who are widely considered to be moral exemplars.
+- This provides concrete examples to think about.
+- But one can still ask what specific character traits.
+- This has led many virtue ethicists to produce lists of virtues (and corresponding vice to be avoided).
+- An important but debated point with [[Virtue Ethics]] is the relationship between the individual living a flourishing life and the good of the society of which they are a part.
