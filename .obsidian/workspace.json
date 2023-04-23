@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "66ffd5eeb018f04a",
+        "id": "e10848f32d7ab54b",
         "type": "tabs",
         "children": [
           {
-            "id": "3b989285ed130ffb",
+            "id": "44ea6d0eb65c4dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md",
-                "mode": "preview",
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md",
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md",
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/Introduction to Philosophy.md"
+                "file": "Notes/spring23/PHIL/Virtue Ethics.md"
               }
             }
           }
@@ -205,17 +205,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3b989285ed130ffb",
+  "active": "f5dea017b35a965a",
   "lastOpenFiles": [
+    "Notes/spring23/PHIL/Untitled.md",
+    "Notes/spring23/PHIL/Virtue Ethics.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
     "Notes/spring23/PHIL/The Ethics of Care.md",
     "Notes/spring23/PHIL/Intertwined Interests.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/PHIL/lectureNotes/Trolley Problem & Ethics Settings for Autonomous Vehicles.md",
     "Notes/spring23/PHIL/lectureNotes/What is Philosophy.md",
     "Notes/spring23/PHIL/lectureNotes/The Value of Philosophy.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/BIOL/Introduction To Biology.md",
-    "Home.md",
     "broken links output.md",
     "Notes/fall22/CS1/Computer Science 1.md",
     "empty files.md",
@@ -233,8 +235,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/Complex Dynamic System.md",
-    "Untitled.md",
-    "Notes/spring23/BIOL/3.6 Global Dilemmas.md",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Recording 20230313140844.webm",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",
