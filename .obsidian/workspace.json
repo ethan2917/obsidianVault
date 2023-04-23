@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e10848f32d7ab54b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44ea6d0eb65c4dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "85a2fb636c531240",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -64,17 +58,8 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "f5dea017b35a965a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/Virtue Ethics.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/Virtue Ethics.md"
+                "file": "Home.md"
               }
             }
           }
@@ -205,13 +190,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f5dea017b35a965a",
+  "active": "0873c68bcaf0e13b",
   "lastOpenFiles": [
+    "Home.md",
     "Notes/spring23/PHIL/Untitled.md",
     "Notes/spring23/PHIL/Virtue Ethics.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
     "Notes/spring23/PHIL/The Ethics of Care.md",
     "Notes/spring23/PHIL/Intertwined Interests.md",
     "Notes/spring23/PHIL/lectureNotes/Trolley Problem & Ethics Settings for Autonomous Vehicles.md",
