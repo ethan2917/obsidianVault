@@ -1,0 +1,3 @@
+- Dr. King  is opposed to violent tension, but thinks there is an important role for non-violent tension in changing minds, hearts, and behavior.
+- He suggests that [[Socrates]] had sought to bring about this sort of non-violent tension in order to open minds.
+- Non-violent tension often leads to creative solutions that wouldn't have been found otherwise.

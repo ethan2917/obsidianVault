@@ -4,7 +4,7 @@ sticker: 1f324-fe0f
 ## Courses
 ### [[Crash Course in C++]]
 ### [[Data Structures]]
-### [[Introduction To Biology]]
+### [[Introduction to Biology]]
 ### [[Introduction to Philosophy]]
 
 ## Tasks

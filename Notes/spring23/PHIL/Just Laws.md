@@ -1,0 +1,1 @@
+Conform to the requirements of morality.

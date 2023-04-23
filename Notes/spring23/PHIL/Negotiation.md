@@ -1,0 +1,2 @@
+- Almost always fails the first time around, or may be refused outright by those who are responsible for the injustices.
+	- Those who are used to being in a privileged position are seldom willing to give it up easily.

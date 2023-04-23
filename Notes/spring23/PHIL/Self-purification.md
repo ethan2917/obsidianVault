@@ -1,0 +1,2 @@
+- Needed to prepare oneself to be able to endure possible violence and insults without retaliating .
+	- One must free oneself of hatred and the impulse to strike back.

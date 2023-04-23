@@ -10,8 +10,9 @@ sticker: 1f468-200d-1f3eb
 [[Utilitarianism An Overview]]
 [[Duty-Based Ethics (Deontology) & Kant]]
 [[Trolley Problem & Ethics Settings for Autonomous Vehicles]]
-[[Virtue Ethics]]
-[[The Ethics of Care]]
+[[Virtue Ethics]] & [[The Ethics of Care]]
+[[Letter From Birmingham Jail]]
+
 
 ## Textbook Notes
 [[Caring and Epistemic Demands (Zagzebski)]]
@@ -19,7 +20,7 @@ sticker: 1f468-200d-1f3eb
 [[Puzzling Out Knowledge (Haack)]]
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
-[[Letter From Birmingham Jail (Martin Luther King Jr.)]]
+
 
 ## Tasks
 ### Incomplete

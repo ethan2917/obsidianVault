@@ -7,7 +7,6 @@
 ## Important Ideas
 - 
 
-
 ## Study Questions
 > [!question]
 > > [!todo] 
