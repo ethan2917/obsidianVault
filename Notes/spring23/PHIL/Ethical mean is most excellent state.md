@@ -1,0 +1,2 @@
+- It is not an average state, in the sense of being mediocre.
+- Rather, it is like the top of a hill, the highest or best state to be in.

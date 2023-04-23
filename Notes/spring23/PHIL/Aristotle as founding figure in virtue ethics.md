@@ -1,0 +1,2 @@
+- Most virtue ethicists, look to [[Notes/spring23/PHIL/Aristotle.md|Aristotle]]'s writing on ethics as establishing the framework for the virtue ethics tradition.
+- A "good life" for Aristotle was morally, intellectually and prudentially good.

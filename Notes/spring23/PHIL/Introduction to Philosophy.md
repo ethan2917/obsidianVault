@@ -14,12 +14,12 @@ sticker: 1f468-200d-1f3eb
 [[The Ethics of Care]]
 
 ## Textbook Notes
-[[Caring and Epistemic Demands]]
-[[Knowing vs. Thinking]]
-[[Puzzling Out Knowledge]]
+[[Caring and Epistemic Demands (Zagzebski)]]
+[[Knowing vs. Thinking (Textbook)]]
+[[Puzzling Out Knowledge (Haack)]]
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
-[[Classical Utilitarianism Jeremey Bentham]]
+[[Classical Utilitarianism (Jeremey Bentham)]]
 
 ## Tasks
 ### Incomplete

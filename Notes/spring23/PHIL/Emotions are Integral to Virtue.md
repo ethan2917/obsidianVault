@@ -1,0 +1,3 @@
+- The virtuous person not only does the right things but does them while having the right sorts of emotional and psychological states.
+- Somebody who does the right thing but must force themselves to do it is not truly virtuous, according to Aristotle. 
+- They can be said to exhibit moral continence, which is a second-best moral state.

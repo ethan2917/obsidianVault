@@ -9,5 +9,4 @@
 [[Attending to Needs of Particular Others]]
 [[Intertwined Interests]]
 
-
 ## Tasks:

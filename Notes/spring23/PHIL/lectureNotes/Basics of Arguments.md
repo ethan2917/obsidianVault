@@ -15,7 +15,6 @@
 [[Inference to the Best Explanation (IBE)]]
 [[Necessary and Sufficient Conditions]]
 
-
 ## Tasks:
 - [x] Linda Zagzebski. “Caring and Epistemic Demands,” pp. 65-68. #phil1110 #reading #philosophy #spring23 📅 2023-01-19 ✅ 2023-01-19
 - [x] Jennifer Nagel, “Knowing vs. Thinking,” pp. 68-70. #phil1110 #reading #philosophy #spring23 📅 2023-01-19 ✅ 2023-01-19
