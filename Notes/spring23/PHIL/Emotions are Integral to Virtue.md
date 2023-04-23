@@ -1,3 +1,10 @@
 - The virtuous person not only does the right things but does them while having the right sorts of emotional and psychological states.
 - Somebody who does the right thing but must force themselves to do it is not truly virtuous, according to Aristotle. 
 - They can be said to exhibit moral continence, which is a second-best moral state.
+- Aristotle's reasoning for this is that the person who has to force themselves to do the right thing experiences a "civil war of the soul.".
+- Their reason says to do the right thing, but their desires are not in line with this.
+- Reason must overpower the desires for the person to act as they should.
+- The virtuous person, on the other hand, has complete harmony between their reason and their desire/emotions.
+- The truly virtuous person never has to force themselves to do the right thing.
+	- Rather, it has become the "default" way of thinking, acting, and feeling for them.
+	- They have internal harmony.

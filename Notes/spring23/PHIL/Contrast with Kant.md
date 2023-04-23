@@ -1,0 +1,5 @@
+- Kant believes that one's reason and one's instincts/bodily desires would always conflict with each other.
+	- He seems to think that this is simply the human condition.
+- This for Kant, the highest one can attain morally is to reach a point where one's will, guided by reason, **can force oneself** to do the right thing consistently, despite one's desires to do otherwise.
+- Kant seems to think that Aristotle's truly virtuous person is an impossibility.
+- So for Kant the highest moral state that is achievable is essentially the same as the second-best state on Aristotle's account (moral continence).

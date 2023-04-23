@@ -19,7 +19,7 @@ sticker: 1f468-200d-1f3eb
 [[Puzzling Out Knowledge (Haack)]]
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
-[[Classical Utilitarianism (Jeremey Bentham)]]
+[[Letter From Birmingham Jail (Martin Luther King Jr.)]]
 
 ## Tasks
 ### Incomplete
