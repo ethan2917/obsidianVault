@@ -33,7 +33,6 @@
   "obsidian-auto-link-title",
   "dataview",
   "obsidian-git",
-  "obsidian-minimal-settings",
   "highlightr-plugin",
   "url-into-selection",
   "obsidian-admonition",
@@ -43,5 +42,6 @@
   "various-complements",
   "obsidian-citation-plugin",
   "obsidian-text-format",
-  "make-md"
+  "make-md",
+  "obsidian-minimal-settings"
 ]
