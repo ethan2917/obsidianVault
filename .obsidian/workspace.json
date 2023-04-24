@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/PHIL/Philosophy of Religion.md",
+                "file": "Notes/spring23/PHIL/Topics Addressed Within Philosophy of Religion.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/Philosophy of Religion.md",
+                "file": "Notes/spring23/PHIL/Topics Addressed Within Philosophy of Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/Philosophy of Religion.md",
+                "file": "Notes/spring23/PHIL/Topics Addressed Within Philosophy of Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/Philosophy of Religion.md"
+                "file": "Notes/spring23/PHIL/Topics Addressed Within Philosophy of Religion.md"
               }
             }
           }
@@ -213,8 +213,12 @@
   },
   "active": "c5518faff727023d",
   "lastOpenFiles": [
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/PHIL/lectureNotes/Epistemology.md",
+    "Notes/spring23/PHIL/Topics Addressed Within Philosophy of Religion.md",
+    "Notes/spring23/PHIL/Epistemology.md",
+    "Notes/spring23/PHIL/Religion.md",
     "Notes/spring23/PHIL/Philosophy of Religion.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/PHIL/lectureNotes/Trolley Problem & Ethics Settings for Autonomous Vehicles.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
     "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
@@ -235,10 +239,6 @@
     "Notes/spring23/PHIL/But Does Dreaming Offer Doubt Enough.md",
     "Notes/spring23/PHIL/Skepticism.md",
     "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
-    "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
-    "Notes/spring23/PHIL/Be an Extremist, but the Right Kind.md",
-    "Notes/spring23/PHIL/Civil Disobedience.md",
-    "Notes/spring23/PHIL/Time Does Not Cure All Ills.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",

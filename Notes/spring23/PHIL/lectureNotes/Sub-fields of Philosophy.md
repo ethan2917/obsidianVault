@@ -1,3 +1,3 @@
-- [[Epistemology (Theory of Knowledge)]]
+- [[Notes/spring23/PHIL/lectureNotes/Epistemology]]
 - [[Ethics]]
 - [[Aesthetics]]

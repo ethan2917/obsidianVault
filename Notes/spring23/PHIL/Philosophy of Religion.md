@@ -5,6 +5,6 @@
 ## Lecture: Philosophy of Religion
 
 ## Notes
-[[What Is Religion]]
+[[Religion]]
 
 ## Tasks:
