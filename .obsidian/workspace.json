@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "183b18e5653a5809",
+        "id": "fe695fcfb17e2df3",
         "type": "tabs",
         "children": [
           {
-            "id": "96cef96da2bdaee4",
+            "id": "336d90b5356631e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5518faff727023d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -56,7 +69,7 @@
             }
           },
           {
-            "id": "b51544e5e550d3db",
+            "id": "b685b662b36386f5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md"
               }
             }
           }
@@ -197,15 +210,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5fe085899c5b07cd",
+  "active": "c5518faff727023d",
   "lastOpenFiles": [
-    "Home.md",
+    "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
+    "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
     "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
-    "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
+    "Home.md",
     "Notes/spring23/PHIL/Skepticism.md",
     "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
