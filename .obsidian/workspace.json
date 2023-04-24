@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe695fcfb17e2df3",
+        "id": "eba44d66dd406272",
         "type": "tabs",
         "children": [
           {
-            "id": "336d90b5356631e8",
+            "id": "7b817cadaaa8b498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5518faff727023d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/Letter From Birmingham Jail.md"
+                "file": "Home.md"
               }
             }
           }
@@ -211,8 +198,25 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c5518faff727023d",
+  "active": "7b817cadaaa8b498",
   "lastOpenFiles": [
+    "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Home.md",
+    "Notes/spring23/PHIL/Meditations 1 & 2.md",
+    "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
+    "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+    "Notes/spring23/PHIL/An Evil Deceiver.md",
+    "Notes/spring23/PHIL/Belief Does Pass the Evil Deceiver Test.md",
+    "Notes/spring23/PHIL/How Far Can Knowledge Go.md",
+    "Notes/spring23/PHIL/What Can We Say About Bodies.md",
+    "Notes/spring23/PHIL/Wax Thought Experiment.md",
+    "Notes/spring23/PHIL/lectureNotes/Conclusion.md",
+    "Notes/spring23/PHIL/Thinking Thing.md",
+    "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
+    "Notes/spring23/PHIL/Skepticism.md",
+    "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
+    "Notes/spring23/BIOL/Introduction to Biology.md",
     "Notes/spring23/PHIL/Civil Disobedience.md",
     "Notes/spring23/PHIL/Time Does Not Cure All Ills.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
@@ -222,23 +226,6 @@
     "Notes/spring23/PHIL/Non-violent Tension.md",
     "Notes/spring23/PHIL/Four Basic Steps of Any Non-violent Campaign.md",
     "Notes/spring23/PHIL/Direct Action.md",
-    "Notes/spring23/PHIL/Self-purification.md",
-    "Notes/spring23/PHIL/Negotiation.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
-    "Notes/spring23/PHIL/The Ethics of Care.md",
-    "Notes/spring23/PHIL/Ethics of Care vs Virtue Ethics.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/PHIL/Philosophy of Religion.md",
-    "Home.md",
-    "Notes/spring23/PHIL/Religion.md",
-    "Notes/spring23/PHIL/Topics Addressed Within Philosophy of Religion.md",
-    "Notes/spring23/PHIL/Arguments for and against the existence of God.md",
-    "Notes/spring23/PHIL/Arguments Against the Existence of the God of Monotheism.md",
-    "Notes/spring23/PHIL/The Problem of Evil (Theodicy Problem).md",
-    "Notes/spring23/PHIL/Relationship between religion and science.md",
-    "Notes/spring23/PHIL/Theodicies.md",
-    "Notes/spring23/PHIL/Character-building theodicy.md",
-    "Notes/spring23/PHIL/Evil needed for contrast.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
