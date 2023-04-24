@@ -510,8 +510,8 @@
     "Descartes": {
       "Descartes": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682302443493
+          "count": 4,
+          "lastUpdated": 1682306358301
         }
       }
     },
@@ -526,8 +526,48 @@
     "perceptions": {
       "perceptions": {
         "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682306227103
+        }
+      }
+    },
+    "deceiver": {
+      "deceiver": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1682302910761
+          "lastUpdated": 1682305962103
+        }
+      }
+    },
+    "thinking": {
+      "thinking": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682306529993
+        }
+      }
+    },
+    "Meditations": {
+      "Meditations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682306306565
+        }
+      }
+    },
+    "Skepticism": {
+      "Skepticism": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682306341398
+        }
+      }
+    },
+    "Conclusion": {
+      "Conclusion": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682306459697
         }
       }
     }
