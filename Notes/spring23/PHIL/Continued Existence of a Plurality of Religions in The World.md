@@ -1,0 +1,1 @@
+> [!question] If there is one God and He cares whether we believe truth rather than falsehood, then why has He not moved humanity toward the "one true religion"

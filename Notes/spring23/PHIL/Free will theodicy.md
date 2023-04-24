@@ -1,0 +1,1 @@
+Asserts that a world with both free will and evil is overall better than a world in which people always treat each other well but also lack the free will to do otherwise.

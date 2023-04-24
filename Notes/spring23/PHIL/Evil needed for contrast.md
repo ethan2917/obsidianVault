@@ -1,0 +1,1 @@
+This theodicy says that we wouldn't recognize or appreciate good without evil to serve as a contrast.

@@ -1,5 +1,4 @@
 {
-  "app:toggle-left-sidebar": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -41,6 +40,14 @@
         "Shift"
       ],
       "key": "O"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
     }
   ]
 }

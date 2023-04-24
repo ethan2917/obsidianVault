@@ -1,0 +1,1 @@
+Begin with some observation or claim about the nature of the world and then argue from that to the existence of God.
