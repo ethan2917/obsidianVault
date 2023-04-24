@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eba44d66dd406272",
+        "id": "1631dd6746d22f50",
         "type": "tabs",
         "children": [
           {
-            "id": "7b817cadaaa8b498",
+            "id": "de4fcc126385b723",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -198,34 +197,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7b817cadaaa8b498",
+  "active": "b685b662b36386f5",
   "lastOpenFiles": [
     "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/DS/22.0 Priority Queues.md",
+    "Notes/spring23/DS/Implementing Pop.md",
+    "Notes/spring23/DS/Percolate Down.md",
     "Home.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
+    "Notes/spring23/PHIL/Four Basic Steps of Any Non-violent Campaign.md",
+    "Notes/spring23/PHIL/Direct Action.md",
+    "Notes/spring23/PHIL/Self-purification.md",
+    "Notes/spring23/PHIL/Negotiation.md",
+    "Notes/spring23/PHIL/The Ethics of Care.md",
+    "Notes/spring23/PHIL/Attending to Needs of Particular Others.md",
+    "Notes/spring23/PHIL/Ethics of Care vs Virtue Ethics.md",
+    "Notes/spring23/PHIL/Virtue Ethics.md",
+    "Notes/spring23/PHIL/Emotions are Integral to Virtue.md",
+    "Notes/spring23/PHIL/Moral Role Models.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
     "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
     "Notes/spring23/PHIL/An Evil Deceiver.md",
     "Notes/spring23/PHIL/Belief Does Pass the Evil Deceiver Test.md",
+    "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
     "Notes/spring23/PHIL/How Far Can Knowledge Go.md",
     "Notes/spring23/PHIL/What Can We Say About Bodies.md",
-    "Notes/spring23/PHIL/Wax Thought Experiment.md",
-    "Notes/spring23/PHIL/lectureNotes/Conclusion.md",
-    "Notes/spring23/PHIL/Thinking Thing.md",
-    "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
-    "Notes/spring23/PHIL/Skepticism.md",
-    "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
-    "Notes/spring23/BIOL/Introduction to Biology.md",
-    "Notes/spring23/PHIL/Civil Disobedience.md",
-    "Notes/spring23/PHIL/Time Does Not Cure All Ills.md",
-    "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
-    "Notes/spring23/PHIL/Be an Extremist, but the Right Kind.md",
-    "Notes/spring23/PHIL/Just Laws.md",
-    "Notes/spring23/PHIL/Unjust Laws.md",
-    "Notes/spring23/PHIL/Non-violent Tension.md",
-    "Notes/spring23/PHIL/Four Basic Steps of Any Non-violent Campaign.md",
-    "Notes/spring23/PHIL/Direct Action.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
