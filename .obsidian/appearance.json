@@ -1,8 +1,10 @@
 {
   "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 18,
   "accentColor": "",
   "translucency": false,
-  "textFontFamily": ""
+  "textFontFamily": "SF Pro Display",
+  "interfaceFontFamily": "SF Pro Display",
+  "monospaceFontFamily": "Fira Code"
 }

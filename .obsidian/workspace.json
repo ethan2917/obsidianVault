@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d308689626e8aa3",
+        "id": "14f8a03ded2039c2",
         "type": "tabs",
         "children": [
           {
-            "id": "4a78476f91f5ac42",
+            "id": "914686553f0ac460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "file": "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "ee4c27bdfec317af",
+            "id": "2e9bb70ab9ce3855",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "file": "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "file": "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md"
+                "file": "Notes/spring23/PHIL/To Sleep Perchance to Dream.md"
               }
             }
           }
@@ -205,14 +205,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4a78476f91f5ac42",
+  "active": "914686553f0ac460",
   "lastOpenFiles": [
-    "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
-    "Notes/spring23/PHIL/Skepticism.md",
+    "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
+    "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
-    "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
+    "Notes/spring23/PHIL/Skepticism.md",
+    "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
     "Notes/spring23/PHIL/Be an Extremist, but the Right Kind.md",
     "Notes/spring23/PHIL/Civil Disobedience.md",
@@ -227,12 +230,9 @@
     "Notes/spring23/PHIL/Negotiation.md",
     "Notes/spring23/PHIL/Dr. Kings Disappointment.md",
     "Notes/spring23/PHIL/Moral Integrity in the Face of Severe Challenges.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/BIOL/Introduction to Biology.md",
-    "Home.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail (Martin Luther King Jr.).md",
     "empty files.md",
-    "Notes/spring23/PHIL/readingNotes/Selection from Plato's Republic.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
