@@ -12,6 +12,7 @@ sticker: 1f468-200d-1f3eb
 [[Trolley Problem & Ethics Settings for Autonomous Vehicles]]
 [[Virtue Ethics]] & [[The Ethics of Care]]
 [[Letter From Birmingham Jail]]
+[[Meditations 1 & 2]]
 
 
 ## Textbook Notes
