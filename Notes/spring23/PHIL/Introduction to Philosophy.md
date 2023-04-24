@@ -7,10 +7,11 @@
 [[Utilitarianism An Overview]]
 [[Duty-Based Ethics (Deontology) & Kant]]
 [[Trolley Problem & Ethics Settings for Autonomous Vehicles]]
-[[Virtue Ethics]] & [[The Ethics of Care]]
+[[Virtue Ethics]] 
+[[The Ethics of Care]]
 [[Letter From Birmingham Jail]]
 [[Meditations 1 & 2]]
-
+[[Philosophy of Religion]]
 
 ## Textbook Notes
 [[Caring and Epistemic Demands (Zagzebski)]]

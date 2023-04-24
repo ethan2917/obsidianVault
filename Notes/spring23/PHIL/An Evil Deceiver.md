@@ -3,4 +3,3 @@
 - Represent that strongest version of skeptical doubt. Namely, that our entire reality might be fed into our mind by an external agent.
 - [[A Modern Variation on the Evil Deceiver Idea]]
 - [[Belief Does Pass the Evil Deceiver Test]]
-- 

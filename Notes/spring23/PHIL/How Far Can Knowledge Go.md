@@ -2,3 +2,4 @@
 - He reaches one additional [[conclusion]], that he exists as a thinking thing.
 	- That being a thing that thinks is the core or essence of what he is.
 - He can be fooled perhaps about having a body, but he cannot be wrong about existing as a [[Thinking Thing]].
+- [[What Can We Say About Bodies]]

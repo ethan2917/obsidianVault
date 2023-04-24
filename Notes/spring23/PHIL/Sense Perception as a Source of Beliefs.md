@@ -18,4 +18,3 @@
 		- Perhaps I am lying in bed asleep right now and everything that I seem to be perceiving through my vision and other senses is really a dream and not at all an accurate picture of the world around me.
 		- [[To Sleep Perchance to Dream]]
 		- [[An Evil Deceiver]]
-		- 

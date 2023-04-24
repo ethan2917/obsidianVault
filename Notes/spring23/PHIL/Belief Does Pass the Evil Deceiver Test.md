@@ -7,4 +7,3 @@
 - Technically, Descartes has refuted [[skepticism]] at this point.
 	- Descartes has found one item of knowledge.
 	- [[How Far Can Knowledge Go]]
-	- 
