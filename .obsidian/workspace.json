@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "file": "Notes/spring23/PHIL/But Does Dreaming Offer Doubt Enough.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "file": "Notes/spring23/PHIL/But Does Dreaming Offer Doubt Enough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "file": "Notes/spring23/PHIL/But Does Dreaming Offer Doubt Enough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md"
+                "file": "Notes/spring23/PHIL/But Does Dreaming Offer Doubt Enough.md"
               }
             }
           }
@@ -213,6 +214,7 @@
   "active": "c5518faff727023d",
   "lastOpenFiles": [
     "Notes/spring23/PHIL/To Sleep Perchance to Dream.md",
+    "Notes/spring23/PHIL/But Does Dreaming Offer Doubt Enough.md",
     "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
     "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
@@ -237,7 +239,6 @@
     "Notes/spring23/PHIL/Moral Integrity in the Face of Severe Challenges.md",
     "Notes/spring23/BIOL/Introduction to Biology.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail (Martin Luther King Jr.).md",
-    "empty files.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
