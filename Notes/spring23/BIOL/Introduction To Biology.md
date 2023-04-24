@@ -1,6 +1,3 @@
----
-sticker: 1f468-200d-1f52c
----
 ## Lecture Notes
 [[1.0 Course Overview]]
 [[1.1 Origins of Life and The RNA World ]]

@@ -1,6 +1,3 @@
----
-sticker: 1f468-200d-1f3eb
----
 ## Lecture Notes
 [[What is Philosophy]]
 [[Basics of Arguments]]

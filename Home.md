@@ -1,7 +1,3 @@
----
-sticker: 1f3e0
-color: ""
----
 ## MOCs
 ### [[Fall '22 MOC]]
 ### [[Spring '23 MOC]]
