@@ -250,8 +250,8 @@
     "question": {
       "question": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1682277022565
+          "count": 4,
+          "lastUpdated": 1682300917352
         }
       }
     },
@@ -432,6 +432,78 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682291848594
+        }
+      }
+    },
+    "questioning": {
+      "questioning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300843899
+        }
+      }
+    },
+    "knowledge": {
+      "knowledge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300855810
+        }
+      }
+    },
+    "authorities": {
+      "authorities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300943385
+        }
+      }
+    },
+    "major": {
+      "major": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300952709
+        }
+      }
+    },
+    "things": {
+      "things": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300954272
+        }
+      }
+    },
+    "however": {
+      "however": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301289167
+        }
+      }
+    },
+    "beliefs": {
+      "beliefs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301302575
+        }
+      }
+    },
+    "impressions": {
+      "impressions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301623026
+        }
+      }
+    },
+    "reliable": {
+      "reliable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301663604
         }
       }
     }
