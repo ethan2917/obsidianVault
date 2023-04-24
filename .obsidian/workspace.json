@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1631dd6746d22f50",
+        "id": "1c8fd4bcc4084e71",
         "type": "tabs",
         "children": [
           {
-            "id": "de4fcc126385b723",
+            "id": "040f78f7a546e2f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "871a66c411500f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -79,7 +89,7 @@
       {
         "id": "e734330f85659e25",
         "type": "tabs",
-        "dimension": 61.876247504990026,
+        "dimension": 47.16553287981859,
         "children": [
           {
             "id": "704b5bf5982df49d",
@@ -153,13 +163,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7363b54d5f894b7c",
         "type": "tabs",
-        "dimension": 38.12375249500998,
+        "dimension": 52.83446712018141,
         "children": [
           {
             "id": "a450d91398ed140a",
@@ -175,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +202,18 @@
       "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b685b662b36386f5",
+  "active": "871a66c411500f75",
   "lastOpenFiles": [
+    "Home.md",
     "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/22.0 Priority Queues.md",
     "Notes/spring23/DS/Implementing Pop.md",
     "Notes/spring23/DS/Percolate Down.md",
-    "Home.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
     "Notes/spring23/PHIL/Four Basic Steps of Any Non-violent Campaign.md",
