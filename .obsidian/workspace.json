@@ -11,24 +11,11 @@
             "id": "040f78f7a546e2f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "871a66c411500f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,6 @@
       {
         "id": "e734330f85659e25",
         "type": "tabs",
-        "dimension": 47.16553287981859,
         "children": [
           {
             "id": "704b5bf5982df49d",
@@ -119,65 +105,11 @@
             }
           },
           {
-            "id": "39223626dfa21bf7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9cc55ea4048dfd89",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "172bb8ee1fcb0cdb",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
             "id": "43a1115fe3c9b30a",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "7363b54d5f894b7c",
-        "type": "tabs",
-        "dimension": 52.83446712018141,
-        "children": [
-          {
-            "id": "a450d91398ed140a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
             }
           }
         ]
@@ -206,15 +138,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "871a66c411500f75",
+  "active": "040f78f7a546e2f0",
   "lastOpenFiles": [
     "Home.md",
     "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/PHIL/Philosophy of Religion.md",
+    "Notes/spring23/PHIL/Religion.md",
     "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/22.0 Priority Queues.md",
     "Notes/spring23/DS/Implementing Pop.md",
     "Notes/spring23/DS/Percolate Down.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
     "Notes/spring23/PHIL/Four Basic Steps of Any Non-violent Campaign.md",
     "Notes/spring23/PHIL/Direct Action.md",
@@ -232,8 +166,6 @@
     "Notes/spring23/PHIL/An Evil Deceiver.md",
     "Notes/spring23/PHIL/Belief Does Pass the Evil Deceiver Test.md",
     "Notes/spring23/PHIL/Descartes has doubts but seeks certainty.md",
-    "Notes/spring23/PHIL/How Far Can Knowledge Go.md",
-    "Notes/spring23/PHIL/What Can We Say About Bodies.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
