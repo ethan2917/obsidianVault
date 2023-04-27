@@ -1,0 +1,83 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": false,
+  "flowMenuEnabled": true,
+  "markSans": false,
+  "blinkEnabled": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "activeView": "all",
+  "hideFrontmatter": true,
+  "activeSpace": "",
+  "spacesCompactMode": true,
+  "defaultDateFormat": "MMM dd yyyy",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": true,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 29,
+  "spacesDisablePatch": true,
+  "folderNoteInsideFolder": true,
+  "folderNoteDefaultView": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "/": [
+      "Heredity",
+      "Positive",
+      "Notes/spring23",
+      "Notes/spring23/DS/cribSheetOutlines",
+      "Notes/spring23/DS/hwOutlines"
+    ]
+  },
+  "expandedSpaces": [
+    null,
+    "/",
+    null
+  ],
+  "openFolders": [],
+  "fileIcons": [],
+  "cachedSpaces": [],
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "rank",
+    true
+  ],
+  "newFileLocation": "current",
+  "inlineBacklinks": false,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": true,
+  "inlineContextExpanded": true,
+  "inlineContextSectionsExpanded": true,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1682303004266,
+  "spacesUseAlias": false
+}

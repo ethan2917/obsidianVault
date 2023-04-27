@@ -37,7 +37,6 @@
   "url-into-selection",
   "obsidian-admonition",
   "periodic-notes",
-  "obsidian-hider",
   "find-unlinked-files",
   "various-complements",
   "obsidian-citation-plugin",
@@ -47,5 +46,7 @@
   "obsidian-advanced-uri",
   "obsidian-excalidraw-plugin",
   "obsidian-hover-editor",
-  "darlal-switcher-plus"
+  "darlal-switcher-plus",
+  "obsidian-hider",
+  "obsidian-markmind"
 ]

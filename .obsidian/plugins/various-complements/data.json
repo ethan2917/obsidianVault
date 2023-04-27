@@ -1,0 +1,695 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "What is Ethics": {
+      "What is Ethics": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681158424381
+        }
+      }
+    },
+    "Functions of DNA": {
+      "Functions of DNA": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681158815750
+        }
+      }
+    },
+    "default": {
+      "default": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681158932051
+        }
+      }
+    },
+    "Hash Function.": {
+      "Hash Function.": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1681159588574
+        }
+      }
+    },
+    "initial": {
+      "initial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681159553261
+        }
+      }
+    },
+    "string": {
+      "string": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681159582468
+        }
+      }
+    },
+    "Hash Function": {
+      "Hash Function": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681159605706
+        }
+      }
+    },
+    "Functor": {
+      "Functor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681159676768
+        }
+      }
+    },
+    "Stabilizing Selection": {
+      "Stabilizing Selection": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681159712653
+        }
+      }
+    },
+    "Examples in Humans": {
+      "Examples in Humans": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681159740073
+        }
+      }
+    },
+    "Hash Table": {
+      "Hash Table": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681160195107
+        }
+      }
+    },
+    "Queues": {
+      "Queues": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681160430718
+        }
+      }
+    },
+    "priority": {
+      "priority": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681160781955
+        }
+      }
+    },
+    "implemented": {
+      "implemented": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681160971793
+        }
+      }
+    },
+    "Nucleotides": {
+      "Nucleotides": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681320291637
+        }
+      }
+    },
+    "likley": {
+      "likley": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681320377836
+        }
+      }
+    },
+    "property": {
+      "property": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681320419342
+        }
+      }
+    },
+    "Early Theories of Evolution": {
+      "Early Theories of Evolution": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681320669205
+        }
+      }
+    },
+    "Binary Heaps": {
+      "Binary Heaps": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681321400226
+        }
+      }
+    },
+    "Priority Queue": {
+      "Priority Queue": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681321472678
+        }
+      }
+    },
+    "Percolate Down": {
+      "Percolate Down": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681321664743
+        }
+      }
+    },
+    "Percolate Up": {
+      "Percolate Up": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681321687035
+        }
+      }
+    },
+    "Virtue Ethics": {
+      "Virtue Ethics": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1682289929906
+        }
+      }
+    },
+    "question": {
+      "question": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1682302845632
+        }
+      }
+    },
+    "Aristotle": {
+      "Aristotle": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682279318635
+        },
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682287423569
+        }
+      }
+    },
+    "Arist": {
+      "Arist": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682279372237
+        }
+      }
+    },
+    "Deficiency": {
+      "Deficiency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682279531895
+        }
+      }
+    },
+    "Excess": {
+      "Excess": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682279540566
+        }
+      }
+    },
+    "Evolution by Natural Selection Timeline of Discovery": {
+      "Evolution by Natural Selection Timeline of Discovery": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682279566757
+        }
+      }
+    },
+    "Molecular Biochemistry": {
+      "Molecular Biochemistry": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682279630871
+        }
+      }
+    },
+    "state": {
+      "state": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682279733389
+        }
+      }
+    },
+    "themselves": {
+      "themselves": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682287438295
+        }
+      }
+    },
+    "generous": {
+      "generous": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682288389462
+        }
+      }
+    },
+    "questions": {
+      "questions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682288721575
+        }
+      }
+    },
+    "violence": {
+      "violence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290023155
+        }
+      }
+    },
+    "situations": {
+      "situations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290076758
+        }
+      }
+    },
+    "self-control": {
+      "self-control": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290082025
+        }
+      }
+    },
+    "courage": {
+      "courage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290086433
+        }
+      }
+    },
+    "integrity": {
+      "integrity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290090340
+        }
+      }
+    },
+    "retailiating": {
+      "retailiating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290889411
+        }
+      }
+    },
+    "oneself": {
+      "oneself": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682290913669
+        }
+      }
+    },
+    "Negotiation": {
+      "Negotiation": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682290961064
+        }
+      }
+    },
+    "Non-violent Tension": {
+      "Non-violent Tension": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682291035395
+        }
+      }
+    },
+    "quote": {
+      "quote": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682291924273
+        }
+      }
+    },
+    "Direct Action": {
+      "Direct Action": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682291748400
+        }
+      }
+    },
+    "extremist": {
+      "extremist": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682291848594
+        }
+      }
+    },
+    "questioning": {
+      "questioning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300843899
+        }
+      }
+    },
+    "knowledge": {
+      "knowledge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300855810
+        }
+      }
+    },
+    "authorities": {
+      "authorities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300943385
+        }
+      }
+    },
+    "major": {
+      "major": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300952709
+        }
+      }
+    },
+    "things": {
+      "things": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682300954272
+        }
+      }
+    },
+    "however": {
+      "however": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301289167
+        }
+      }
+    },
+    "beliefs": {
+      "beliefs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301302575
+        }
+      }
+    },
+    "impressions": {
+      "impressions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301623026
+        }
+      }
+    },
+    "reliable": {
+      "reliable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682301663604
+        }
+      }
+    },
+    "Descartes": {
+      "Descartes": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1682306358301
+        }
+      }
+    },
+    "important": {
+      "important": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682302568558
+        }
+      }
+    },
+    "perceptions": {
+      "perceptions": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682306227103
+        }
+      }
+    },
+    "deceiver": {
+      "deceiver": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682305962103
+        }
+      }
+    },
+    "thinking": {
+      "thinking": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682306529993
+        }
+      }
+    },
+    "Meditations": {
+      "Meditations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682306306565
+        }
+      }
+    },
+    "Skepticism": {
+      "Skepticism": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682306341398
+        }
+      }
+    },
+    "Conclusion": {
+      "Conclusion": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1682313003711
+        }
+      }
+    },
+    "flowers": {
+      "flowers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682306795989
+        }
+      }
+    },
+    "changes": {
+      "changes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682306914197
+        }
+      }
+    },
+    "Epistemology (Theory of Knowledge)": {
+      "Epistemology (Theory of Knowledge)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682311824489
+        }
+      }
+    },
+    "religious": {
+      "religious": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682311961552
+        }
+      }
+    },
+    "experience": {
+      "experience": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682311962984
+        }
+      }
+    },
+    "Virtue as a Mean Between Two Vices": {
+      "Virtue as a Mean Between Two Vices": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682312144972
+        }
+      }
+    },
+    "Conflict": {
+      "Conflict": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1682312160390
+        }
+      }
+    },
+    "Epistemic Arguments": {
+      "Epistemic Arguments": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682312330356
+        }
+      }
+    },
+    "conceived": {
+      "conceived": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682312515142
+        }
+      }
+    },
+    "perfections": {
+      "perfections": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682312535097
+        }
+      }
+    },
+    "necessary": {
+      "necessary": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682312687797
+        }
+      }
+    },
+    "existence": {
+      "existence": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682312689373
+        }
+      }
+    },
+    "complexity": {
+      "complexity": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682312955864
+        }
+      }
+    },
+    "all-powerful": {
+      "all-powerful": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682313349240
+        }
+      }
+    },
+    "all-good": {
+      "all-good": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682313353071
+        }
+      }
+    }
+  }
+}
