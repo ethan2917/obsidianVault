@@ -4,4 +4,6 @@
 	- C1 is implemented as a C2 
 - If writing "C1 is-a C2" is best 
 	- then C1 should be a derived class 
+- If writing "C1 has-a C2" is best 
+	- then C1 should have a member variable of type C2
 - 
