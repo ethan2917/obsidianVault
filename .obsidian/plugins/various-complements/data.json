@@ -810,6 +810,46 @@
           "lastUpdated": 1682724023572
         }
       }
+    },
+    "Complex Dynamic System": {
+      "Complex Dynamic System": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682724396882
+        }
+      }
+    },
+    "objects": {
+      "objects": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682724406651
+        }
+      }
+    },
+    "Multiple Inheritance": {
+      "Multiple Inheritance": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682724512566
+        }
+      }
+    },
+    "different": {
+      "different": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682724517554
+        }
+      }
+    },
+    "Polygon": {
+      "Polygon": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682724772386
+        }
+      }
     }
   }
 }
