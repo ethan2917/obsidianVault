@@ -1,0 +1,1 @@
+Public members become protected and other members are unchanged.

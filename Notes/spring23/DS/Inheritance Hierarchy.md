@@ -1,0 +1,9 @@
+- Using the example of a bank account we can discuss inheritance hierarchy.
+- `Account` is the *base class* of the hierarchy.
+- `SavingsAccount` is a *derived class* from `Account`.
+	- It has inherited member variables & functions from `Account` while keeping its own member functions and variables.
+- [[Protected Member Functions and Variables]]
+- When using objects of type `SavingsAccount`, the inherited and derived members are treated exactly the same and are not distinguishable.
+- `CheckingAccount` is also a derived class from base class `Account`.
+- `TimeAccount` is derived from `SavingsAccount`.
+	- `SavingsAccount` is its base class and `Account` is its indirect base class.

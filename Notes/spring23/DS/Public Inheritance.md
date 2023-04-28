@@ -1,0 +1,1 @@
+The line `class Savings_Account : public Account {`, specifies that the member functions and variables from `Account` do not change their `public`, `protected`, or `private` status.

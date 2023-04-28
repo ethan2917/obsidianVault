@@ -1,0 +1,3 @@
+- [[Public Inheritance]]
+- [[Protected Inheritance]]
+- [[Private Inheritance]]

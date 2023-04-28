@@ -1,0 +1,3 @@
+- A derived class can redefine member functions in the base class.
+	- The function prototype must be identical, not even the use of `const` can be different.
+- Once a function is redefined it is not possible to call the base class function unless it is explicitly called.

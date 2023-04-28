@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/24.0 Inheritance & Polymorphism.md",
+                "file": "Notes/spring23/DS/Stack Inheriting from List.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/24.0 Inheritance & Polymorphism.md",
+                "file": "Notes/spring23/DS/Stack Inheriting from List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/24.0 Inheritance & Polymorphism.md",
+                "file": "Notes/spring23/DS/Stack Inheriting from List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/24.0 Inheritance & Polymorphism.md"
+                "file": "Notes/spring23/DS/Stack Inheriting from List.md"
               }
             }
           },
@@ -184,8 +184,17 @@
   },
   "active": "8db7d09ca9fd51aa",
   "lastOpenFiles": [
-    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/DS/24.0 Inheritance & Polymorphism.md",
+    "Notes/spring23/DS/Stack Inheriting from List.md",
+    "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
+    "Notes/spring23/DS/Private Inheritance.md",
+    "Notes/spring23/DS/Protected Inheritance.md",
+    "Notes/spring23/DS/Public Inheritance.md",
+    "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
+    "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
+    "Notes/spring23/DS/Inheritance Hierarchy.md",
+    "Notes/spring23/DS/Protected Member Functions and Variables.md",
+    "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/Spring '23 MOC.md",
     "Home.md",
     "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
@@ -201,15 +210,6 @@
     "Notes/spring23/DS/Percolate Down.md",
     "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
     "Notes/spring23/PHIL/Four Basic Steps of Any Non-violent Campaign.md",
-    "Notes/spring23/PHIL/Direct Action.md",
-    "Notes/spring23/PHIL/Self-purification.md",
-    "Notes/spring23/PHIL/Negotiation.md",
-    "Notes/spring23/PHIL/The Ethics of Care.md",
-    "Notes/spring23/PHIL/Attending to Needs of Particular Others.md",
-    "Notes/spring23/PHIL/Ethics of Care vs Virtue Ethics.md",
-    "Notes/spring23/PHIL/Virtue Ethics.md",
-    "Notes/spring23/PHIL/Emotions are Integral to Virtue.md",
-    "Notes/spring23/PHIL/Moral Role Models.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
