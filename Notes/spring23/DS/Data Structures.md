@@ -20,6 +20,8 @@
 [[20.0 Hash Tables Part 1]]
 [[21.0 Hash Tables Part 2]]
 [[22.0 Priority Queues]]
+[[23.0 Garbage Collection & Smart Pointers]]
+[[24.0 Inheritance & Polymorphism]]
 
 ## Tasks
 ### Incomplete Tasks
