@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md",
+                "file": "Notes/spring23/DS/Multiple Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md",
+                "file": "Notes/spring23/DS/Multiple Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md",
+                "file": "Notes/spring23/DS/Multiple Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md"
+                "file": "Notes/spring23/DS/Multiple Inheritance.md"
               }
             }
           },
@@ -185,9 +185,10 @@
   "active": "8db7d09ca9fd51aa",
   "lastOpenFiles": [
     "Notes/spring23/DS/24.0 Inheritance & Polymorphism.md",
+    "Notes/spring23/DS/Multiple Inheritance.md",
+    "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md",
     "Notes/spring23/DS/Stack Inheriting from List.md",
     "Notes/spring23/DS/Inheritance Hierarchy.md",
-    "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md",
     "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
     "Notes/spring23/DS/Private Inheritance.md",
     "Notes/spring23/DS/Protected Inheritance.md",
@@ -209,7 +210,6 @@
     "Notes/spring23/DS/22.0 Priority Queues.md",
     "Notes/spring23/DS/Implementing Pop.md",
     "Notes/spring23/DS/Percolate Down.md",
-    "Notes/spring23/PHIL/Letter From Birmingham Jail.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",

@@ -8,4 +8,5 @@
 	- then C1 should have a member variable of type C2
 - In the case of "C1 is implemented as-a C2"
 	- [[Stack Inheriting from List]]
-	- T
+	- Then C1 should be derived from C2, but with [[Private Inheritance]]
+	- Least common case
