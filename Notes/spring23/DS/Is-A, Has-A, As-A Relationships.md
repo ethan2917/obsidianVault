@@ -1,0 +1,7 @@
+- When trying to determine the relationship between class C1 and C2, think of a logical relationship between them that can be written.
+	- C1 is a C2 
+	- C1 has a C2
+	- C1 is implemented as a C2 
+- If writing "C1 is-a C2" is best 
+	- then C1 should be a derived class 
+- 
