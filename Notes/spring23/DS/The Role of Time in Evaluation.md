@@ -5,3 +5,4 @@
 - We may be able to take advantage of this by letting threads/processes run at the same time.
 - However, we will need to think carefully about the interactions and shared resources.
 - [[Concurrency Example]]
+- [[Behavior of Concurrent Programs]]
