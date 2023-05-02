@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be8bf27e977f37e1",
+        "id": "63bb4c5a21fe52e3",
         "type": "tabs",
         "children": [
           {
-            "id": "8fe8a23e30d9018a",
+            "id": "2db9613fa63de649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/The Role of Time in Evaluation.md",
-                "mode": "source",
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/The Role of Time in Evaluation.md",
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/The Role of Time in Evaluation.md",
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/The Role of Time in Evaluation.md"
+                "file": "Notes/spring23/PHIL/Sense Perception as a Source of Beliefs.md"
               }
             }
           },
@@ -182,13 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8fe8a23e30d9018a",
+  "active": "2db9613fa63de649",
   "lastOpenFiles": [
+    "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
+    "Notes/spring23/PHIL/Meditations 1 & 2.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
     "Notes/spring23/DS/Concurrency Example.md",
     "Notes/spring23/DS/The Role of Time in Evaluation.md",
     "Notes/spring23/DS/27.0 Concurrency & Asynchronous Computing.md",
     "Notes/spring23/DS/Data Structures.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/DS/Referential Transparency.md",
     "Notes/spring23/DS/26.0 Inheritance.md",
     "Notes/spring23/DS/Polymorphism.md",
@@ -204,13 +208,9 @@
     "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
     "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
     "Notes/spring23/DS/Protected Member Functions and Variables.md",
-    "Home.md",
     "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
     "Notes/spring23/BIOL/Introduction to Biology.md",
     "Notes/spring23/BIOL/1.5 Processes That Drive Evolution and Speciation.md",
-    "Notes/spring23/BIOL/Genetic Drift.md",
-    "Notes/fall22/Fall '22 MOC.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Context/spacesLastSync.log",
     "Context",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
