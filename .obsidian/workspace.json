@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee28e955cb46e02f",
+        "id": "e35d55dfa7650395",
         "type": "tabs",
         "children": [
           {
-            "id": "89ff46899dc18919",
+            "id": "f840d4400305344c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -63,6 +63,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "1276cf409abb3142",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md"
+                "file": "Home.md"
               }
             }
           },
@@ -164,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
@@ -174,7 +183,6 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "publish:Publish changes": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
@@ -182,8 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89ff46899dc18919",
+  "active": "f840d4400305344c",
   "lastOpenFiles": [
+    "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
+    "Home.md",
     "Notes/spring23/DS/26.0 Inheritance.md",
     "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
     "Notes/spring23/DS/Inheritance Hierarchy.md",
@@ -192,7 +202,6 @@
     "Notes/spring23/DS/Multiple Inheritance.md",
     "Notes/spring23/DS/Data Structures.md",
     "Notes/spring23/Spring '23 MOC.md",
-    "Home.md",
     "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
@@ -207,7 +216,6 @@
     "Notes/spring23/DS/Private Inheritance.md",
     "Notes/spring23/DS/Protected Inheritance.md",
     "Notes/spring23/DS/Public Inheritance.md",
-    "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
     "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
     "Notes/spring23/BIOL/Introduction to Biology.md",
     "Notes/spring23/BIOL/1.5 Processes That Drive Evolution and Speciation.md",
