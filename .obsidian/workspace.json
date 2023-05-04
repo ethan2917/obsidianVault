@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e35d55dfa7650395",
+        "id": "b0d417e6df34eaf0",
         "type": "tabs",
         "children": [
           {
-            "id": "f840d4400305344c",
+            "id": "a4f40ad4327831e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Private Inheritance.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Private Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/spring23/DS/Private Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/spring23/DS/Private Inheritance.md"
               }
             }
           },
@@ -190,21 +190,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f840d4400305344c",
+  "active": "a4f40ad4327831e3",
   "lastOpenFiles": [
-    "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
-    "Home.md",
+    "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
+    "Notes/spring23/DS/Protected Inheritance.md",
+    "Notes/spring23/DS/Public Inheritance.md",
     "Notes/spring23/DS/26.0 Inheritance.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Home.md",
+    "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
     "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
     "Notes/spring23/DS/Inheritance Hierarchy.md",
     "Notes/spring23/DS/Protected Member Functions and Variables.md",
     "Notes/spring23/DS/Stack Inheriting from List.md",
     "Notes/spring23/DS/Multiple Inheritance.md",
-    "Notes/spring23/DS/Data Structures.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
     "Notes/spring23/PHIL/Meditations 1 & 2.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
     "Notes/spring23/DS/Concurrency Example.md",
     "Notes/spring23/DS/The Role of Time in Evaluation.md",
     "Notes/spring23/DS/27.0 Concurrency & Asynchronous Computing.md",
@@ -212,10 +215,7 @@
     "Notes/spring23/DS/Polymorphism.md",
     "Notes/spring23/DS/attachments/Multiple Inheritance.png",
     "Notes/spring23/DS/Is-A, Has-A, As-A Relationships.md",
-    "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
     "Notes/spring23/DS/Private Inheritance.md",
-    "Notes/spring23/DS/Protected Inheritance.md",
-    "Notes/spring23/DS/Public Inheritance.md",
     "Notes/spring23/DS/lectureNotes/9.0 Iterators and STL Lists.md",
     "Notes/spring23/BIOL/Introduction to Biology.md",
     "Notes/spring23/BIOL/1.5 Processes That Drive Evolution and Speciation.md",
