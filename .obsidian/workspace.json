@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "01f512d033cf4b12",
+        "id": "92cb38238bf6cda6",
         "type": "tabs",
         "children": [
           {
-            "id": "2f834911910612b1",
+            "id": "1bd3d25b543a031b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d93770ff8212d9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "currentVersion": "1.2.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f834911910612b1",
+  "active": "4d93770ff8212d9b",
   "lastOpenFiles": [
     "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
     "Notes/spring23/DS/Protected Inheritance.md",
