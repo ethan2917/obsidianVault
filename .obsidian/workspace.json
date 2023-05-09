@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d417e6df34eaf0",
+        "id": "01f512d033cf4b12",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f40ad4327831e3",
+            "id": "2f834911910612b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/spring23/DS/Private Inheritance.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/spring23/DS/Private Inheritance.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/spring23/DS/Private Inheritance.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/spring23/DS/Private Inheritance.md"
+                "file": "Home.md"
               }
             }
           },
@@ -190,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4f40ad4327831e3",
+  "active": "2f834911910612b1",
   "lastOpenFiles": [
     "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
     "Notes/spring23/DS/Protected Inheritance.md",
