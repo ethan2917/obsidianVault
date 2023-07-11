@@ -18,19 +18,5 @@
 [[3.4 Ecological Relationships]]
 [[3.5 Ecosystem Structure, Patterns In Biodiversity and Land Succession]]
 [[3.6 Global Dilemmas]]
-
-## Tasks
-### Overdue
-```tasks
-not done
-due before date(today)
-path includes BIOL
-```
-### Incomplete
-```tasks
-not done
-path includes BIOL
-```
-
 ## Tags
 #biology #biol1010 #science #spring23 

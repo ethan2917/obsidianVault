@@ -23,13 +23,5 @@
 [[23.0 Garbage Collection & Smart Pointers]]
 [[26.0 Inheritance]]
 [[27.0 Concurrency & Asynchronous Computing]]
-
-## Tasks
-### Incomplete Tasks
-```tasks
-path includes DS
-not done
-```
-
 ## Tags
 #dataStructures #computerScience #spring23 #cplusplus 

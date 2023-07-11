@@ -19,14 +19,5 @@
 [[Puzzling Out Knowledge (Haack)]]
 [[The Value of Philosophy (Bertrand Russell)]]
 [[Selection from Plato's Republic]]
-
-
-## Tasks
-### Incomplete
-```tasks
-not done
-path includes PHIL
-```
-
 ## Tags
 #humanities #phil1110 #spring23 
