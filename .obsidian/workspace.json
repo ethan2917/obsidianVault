@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92cb38238bf6cda6",
+        "id": "0488d6179b0d0ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd3d25b543a031b",
+            "id": "a86c8bbd6fded2bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d93770ff8212d9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -180,33 +172,31 @@
   "left-ribbon": {
     "hiddenItems": {
       "publish:Publish changes...": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "flashcards-obsidian:Generate flashcards": true,
       "daily-notes:Open today's daily note": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4d93770ff8212d9b",
+  "active": "a86c8bbd6fded2bd",
   "lastOpenFiles": [
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
     "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
     "Notes/spring23/DS/Protected Inheritance.md",
     "Notes/spring23/DS/Public Inheritance.md",
     "Notes/spring23/DS/26.0 Inheritance.md",
     "Notes/spring23/DS/Data Structures.md",
-    "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
-    "Home.md",
     "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
     "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
     "Notes/spring23/DS/Inheritance Hierarchy.md",
