@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 21,
+  "accentColor": "",
+  "translucency": false,
+  "textFontFamily": "SF Pro Display",
+  "interfaceFontFamily": "SF Pro Display",
+  "monospaceFontFamily": "Fira Code"
+}

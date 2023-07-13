@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "f3c6189712d30d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0944c741d1b15ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc9d8f58ce9231b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/spring23/DS/Good Hash Functions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1cdb208b95552f9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dcd67dbb27f2ed84",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8bd6b3969ef5ca6b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4dfb9fa55564dac6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "892c39a10490c0ba",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b54c096054ebc47e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a1ec2993dbef98e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/spring23/DS/Good Hash Functions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fadb50e706a8e4e5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/spring23/DS/Good Hash Functions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2b490963a68d634c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/spring23/DS/Good Hash Functions.md"
+          }
+        }
+      },
+      {
+        "id": "c6c193db11368c9a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "673c2aaaefe54b4d",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc9d8f58ce9231b8",
+  "lastOpenFiles": [
+    "Notes/spring23/DS/Hash Function.md",
+    "Notes/spring23/DS/Hash Table.md",
+    "Notes/spring23/DS/20.0 Hash Tables Part 1.md",
+    "Notes/spring23/DS/Data Structures.md",
+    "Notes/spring23/Spring '23 MOC.md",
+    "Home.md",
+    "Notes/spring23/PHIL/Introduction to Philosophy.md",
+    "Notes/spring23/PHIL/lectureNotes/Utilitarianism An Overview.md",
+    "Notes/spring23/PHIL/lectureNotes/Utilitarianism as a Type of Consequentialism.md"
+  ]
+}
