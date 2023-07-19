@@ -22,27 +22,20 @@
     },
     "iconInTabsEnabled": false
   },
-  "Notes": "RiBooklet-line",
-  "Notes/fall22": "FasSchool",
-  "Notes/spring23": "FasSchool",
-  "Notes/spring23/BIOL": "RiMicroscope-line",
-  "Notes/spring23/crashCourseInC++": "RiComputer-line",
-  "Notes/spring23/DS": "RiComputer-line",
-  "Notes/spring23/PHIL": "RiBook-line",
   "Notes/spring23/PHIL/lectureNotes": {
-    "iconName": "RiBook-line",
+    "iconName": null,
     "inheritanceIcon": "RiBook-line"
   },
   "Notes/spring23/PHIL/readingNotes": {
-    "iconName": "RiBook-2-line",
+    "iconName": null,
     "inheritanceIcon": "RiBook-2-line"
   },
   "Notes/spring23/DS/lectureNotes": {
-    "iconName": "RiComputer-line",
+    "iconName": null,
     "inheritanceIcon": "RiComputer-line"
   },
   "Notes/spring23/crashCourseInC++/Lessons": {
-    "iconName": "RiComputer-line",
+    "iconName": null,
     "inheritanceIcon": "RiComputer-line"
   },
   "Notes/spring23/BIOL/lectureNotes": {
