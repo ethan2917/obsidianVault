@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0488d6179b0d0ca5",
+        "id": "412290a5ee3281ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a86c8bbd6fded2bd",
+            "id": "4379ad4edc4c5889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md"
+                "file": "Home.md"
               }
             }
           },
@@ -188,10 +188,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a86c8bbd6fded2bd",
+  "active": "4379ad4edc4c5889",
   "lastOpenFiles": [
-    "Notes/fall22/CS1/Computer Science 1.md",
     "Notes/fall22/Fall '22 MOC.md",
+    "Notes/fall22/CS1/Computer Science 1.md",
     "Home.md",
     "Notes/spring23/Spring '23 MOC.md",
     "Notes/spring23/PHIL/Introduction to Philosophy.md",
