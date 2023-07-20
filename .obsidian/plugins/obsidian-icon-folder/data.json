@@ -22,6 +22,8 @@
     },
     "iconInTabsEnabled": false
   },
+  "Notes": "RiBooklet-line",
+  "Notes/fall22": "FasSchool",
   "Notes/spring23/PHIL/lectureNotes": {
     "iconName": null,
     "inheritanceIcon": "RiBook-line"
