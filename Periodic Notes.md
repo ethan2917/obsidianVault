@@ -1,0 +1,2 @@
+[[Monthly Notes]]
+[[Weekly Notes]]
