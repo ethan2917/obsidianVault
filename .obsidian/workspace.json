@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "publish:Publish changes...": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -182,7 +183,6 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "flashcards-obsidian:Generate flashcards": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
