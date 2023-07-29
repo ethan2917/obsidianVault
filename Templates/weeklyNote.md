@@ -111,7 +111,7 @@ TABLE WITHOUT ID
 	prayer AS "🕋",
 	steps AS "👣",
 	hours-worked AS "✏️"
-FROM "02 Personal/02.01 Periodic Notes"
+FROM "Home/Focus Areas/Me/Weekly Notes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
 ```
