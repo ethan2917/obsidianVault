@@ -4,5 +4,6 @@
 - **Readwise**
 	- **Books**
 		- [[Stock Market Explained]]
+- **Weekly Notes**
 
 %% End Waypoint %%

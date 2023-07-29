@@ -4,12 +4,13 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "folder": "Notes/dailyNotes",
-    "enabled": true
+    "enabled": false
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "Templates/weeklyNote.md",
+    "folder": "Home/Focus Areas/Me/Weekly Notes",
+    "enabled": true
   },
   "monthly": {
     "format": "",

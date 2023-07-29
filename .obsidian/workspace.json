@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/dailyNote.md",
-                "mode": "preview",
+                "file": "Templates/weeklyNote.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/dailyNote.md",
+                "file": "Templates/weeklyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/dailyNote.md",
+                "file": "Templates/weeklyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/dailyNote.md"
+                "file": "Templates/weeklyNote.md"
               }
             }
           },
@@ -182,11 +182,20 @@
       "flashcards-obsidian:Generate flashcards": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "a86c8bbd6fded2bd",
   "lastOpenFiles": [
+    "js/scripts/DvCharts.js",
+    "js/scripts",
+    "js/New folder",
+    "js",
+    "New folder",
+    "Home/Focus Areas/Me/Weekly Notes",
+    "Home/Focus Areas/Untitled",
+    "Templates/dailyNote.md",
+    "Templates/weeklyNote.md",
     "Home/Home.md",
     "Home/Focus Areas/Work/Work.md",
     "Home/Focus Areas/Work",
@@ -211,8 +220,6 @@
     "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
     "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
     "Notes/spring23/DS/Inheritance Hierarchy.md",
-    "Notes/spring23/DS/Protected Member Functions and Variables.md",
-    "Notes/spring23/DS/Stack Inheriting from List.md",
     "Notes/spring23/DS/attachments/Multiple Inheritance.png",
     "Context/spacesLastSync.log",
     "Context",
@@ -226,12 +233,6 @@
     "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases.png",
     "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
     "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",
-    "Positive",
-    "Heredity",
-    "Notes/spring23/BIOL/attachments/Recording 20230320154258.webm",
-    "Notes/spring23/DS/attachments",
-    "Notes/spring23/BIOL/lectureNotes/3.1",
-    "Notes/spring23/BIOL/lectureNotes/New folder",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
