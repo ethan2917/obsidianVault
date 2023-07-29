@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md",
+                "file": "Templates/dailyNote.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md",
+                "file": "Templates/dailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md",
+                "file": "Templates/dailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/fall22/Fall '22 MOC.md"
+                "file": "Templates/dailyNote.md"
               }
             }
           },
@@ -172,24 +171,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "flashcards-obsidian:Generate flashcards": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "a86c8bbd6fded2bd",
   "lastOpenFiles": [
+    "Home/Home.md",
+    "Home/Focus Areas/Work/Work.md",
+    "Home/Focus Areas/Work",
+    "Home/Focus Areas/School/School.md",
+    "Home/Focus Areas/Me/Me.md",
+    "Home/Focus Areas/School/Spring 23/Spring 23.md",
+    "Home/Focus Areas/School/Spring 23/PHIL/A Modern Variation on the Evil Deceiver Idea.md",
+    "Home/Focus Areas/School/Fall 22/Fall 22.md",
     "Notes/fall22/CS1/Computer Science 1.md",
     "Notes/fall22/Fall '22 MOC.md",
     "Home.md",
@@ -208,14 +213,6 @@
     "Notes/spring23/DS/Inheritance Hierarchy.md",
     "Notes/spring23/DS/Protected Member Functions and Variables.md",
     "Notes/spring23/DS/Stack Inheriting from List.md",
-    "Notes/spring23/DS/Multiple Inheritance.md",
-    "Notes/spring23/PHIL/Should One Embrace Skepticism or Seek Certainty.md",
-    "Notes/spring23/PHIL/Meditations 1 & 2.md",
-    "Notes/spring23/DS/Concurrency Example.md",
-    "Notes/spring23/DS/The Role of Time in Evaluation.md",
-    "Notes/spring23/DS/27.0 Concurrency & Asynchronous Computing.md",
-    "Notes/spring23/DS/Referential Transparency.md",
-    "Notes/spring23/DS/Polymorphism.md",
     "Notes/spring23/DS/attachments/Multiple Inheritance.png",
     "Context/spacesLastSync.log",
     "Context",
@@ -235,7 +232,6 @@
     "Notes/spring23/DS/attachments",
     "Notes/spring23/BIOL/lectureNotes/3.1",
     "Notes/spring23/BIOL/lectureNotes/New folder",
-    "Notes/spring23/BIOL/lectureNotes/1.0",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
