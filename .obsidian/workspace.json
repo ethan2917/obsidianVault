@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f624d0af5349c964",
+        "id": "8cbd405e21d58d55",
         "type": "tabs",
         "children": [
           {
-            "id": "abf333b32faec9c8",
+            "id": "eb50c1545c340bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/weeklyNote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fab0cc6fe0104e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +198,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "abf333b32faec9c8",
+  "active": "1fab0cc6fe0104e2",
   "lastOpenFiles": [
     "Templates/dailyNote.md",
+    "Templates/weeklyNote.md",
+    "Home/Focus Areas/Me/Daily Notes/2023-07-29.md",
+    "Home/Focus Areas/Me/Weekly Notes/2023-W30.md",
+    "Home/Focus Areas/Me/Daily Notes/2023-07-28.md",
+    "2023-07-23.md",
     "images/Daily Banner.JPG",
     "images/Weekly Banner.jpg",
     "images/Daily Banner.JPG.crdownload",
-    "Templates/weeklyNote.md",
     "images/Weekly Banner.jpg.crdownload",
     "images",
     "New folder",
@@ -221,9 +238,6 @@
     "Notes/spring23/DS/Protected Inheritance.md",
     "Notes/spring23/DS/Public Inheritance.md",
     "Notes/spring23/DS/26.0 Inheritance.md",
-    "Notes/spring23/DS/Constructors & Destructors of Derived Classes.md",
-    "Notes/spring23/DS/Overriding Member Functions in Derived Classes.md",
-    "Notes/spring23/DS/Inheritance Hierarchy.md",
     "Notes/spring23/DS/attachments/Multiple Inheritance.png",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",
