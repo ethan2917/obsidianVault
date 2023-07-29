@@ -1,8 +1,0 @@
-- Oxygen depletion in water.
-- Can be caused by natural and by [[anthropogenic]] factors.
-- Natural causes include coastal upwelling and changes in wind and water circulation patters.
-- [[Anthropogenic]] causes include:
-	- Chemical fertilizers
-	- Land use changes
-	- Farming practices
-	- Global climate change

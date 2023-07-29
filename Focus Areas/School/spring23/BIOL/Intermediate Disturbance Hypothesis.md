@@ -1,1 +1,0 @@
-- Moderate levels of disturbance create conditions that foster greater species diversity than low or high levels of [[disturbance]].

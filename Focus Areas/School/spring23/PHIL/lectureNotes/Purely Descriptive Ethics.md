@@ -1,4 +1,0 @@
-- One would be engaging in purely descriptive [[ethics]] if they describe how people actually think and behave in relation to moral situations but *refrain* from making any judgment as to whether they *should* think and behave in those ways.
-	- Few people have aimed to practice purely descriptive ethics.
-- All of the philosophical approaches to ethics that we will consider set out to give us grounds for making judgements about whether behaviors are good or bad.
-	- They are thus *not* purely descriptive but rather [[normative ethics]].

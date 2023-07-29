@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiMicroscope-line",
+      "RiBook-2-line",
+      "RiBooklet-line",
+      "RiBook-line",
+      "FasBook-open"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Notes/spring23/PHIL/lectureNotes": {
+    "iconName": null,
+    "inheritanceIcon": "RiBook-line"
+  },
+  "Notes/spring23/PHIL/readingNotes": {
+    "iconName": null,
+    "inheritanceIcon": "RiBook-2-line"
+  },
+  "Notes/spring23/DS/lectureNotes": {
+    "iconName": null,
+    "inheritanceIcon": "RiComputer-line"
+  },
+  "Notes/spring23/crashCourseInC++/Lessons": {
+    "iconName": null,
+    "inheritanceIcon": "RiComputer-line"
+  },
+  "Notes/spring23/BIOL/lectureNotes": {
+    "iconName": null,
+    "inheritanceIcon": "RiMicroscope-line"
+  },
+  "Notes/spring23/PHIL/readingNotes/Caring and Epistemic Demands (Zagzebski).md": {
+    "iconName": null,
+    "inheritanceIcon": "RiBook-2-line"
+  }
+}

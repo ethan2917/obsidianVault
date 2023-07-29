@@ -1,0 +1,4 @@
+- **Crossing over** happens during prophase I.
+- It occurs at sites called **chiasmata**, where the chromosomes are held together.
+- **Reductional division** occurs during meiosis I.
+- **Meiosis 2** resembles [[Mitosis]].

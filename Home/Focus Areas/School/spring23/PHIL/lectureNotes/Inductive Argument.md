@@ -1,0 +1,3 @@
+- These are probabilistic arguments.
+	- The conclusion is never 100% certain.
+- In the strongest inductive arguments, the [[Conclusion]] is *nearly* certain, while in many other inductive arguments the conclusion is merely more probable than not.

@@ -1,0 +1,1 @@
+- The purpose of direct action is to get the oppressors to engage in good faith [[Negotiation]]s that they would not engage in previously.

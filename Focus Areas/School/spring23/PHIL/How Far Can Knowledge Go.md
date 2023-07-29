@@ -1,5 +1,0 @@
-- If all he can be certain of is that he exists, that is a very long way from being able to reconstruct his structure of knowledge on new and firmer foundations.
-- He reaches one additional [[conclusion]], that he exists as a thinking thing.
-	- That being a thing that thinks is the core or essence of what he is.
-- He can be fooled perhaps about having a body, but he cannot be wrong about existing as a [[Thinking Thing]].
-- [[What Can We Say About Bodies]]

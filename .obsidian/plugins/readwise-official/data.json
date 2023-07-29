@@ -1,0 +1,19 @@
+{
+  "token": "bEU0Cy2ngHrbRccDWDC1MGC44clJHaowkklVwKuA6GgBZr38i1",
+  "readwiseDir": "Focus Areas/Me/Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 9753624,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "30592599"
+  ],
+  "booksIDsMap": {
+    "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576",
+    "Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576"
+  },
+  "reimportShowConfirmation": true
+}

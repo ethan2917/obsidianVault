@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "99c04bc19b799300",
+        "id": "0b542dc09346bcdd",
         "type": "tabs",
         "children": [
           {
-            "id": "a8404a33a8f252bd",
+            "id": "7931836dfa59d21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Home/Focus Areas/Me/Daily Notes/2023-07-28.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e2f8b9c4b80d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#spring23",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b54c096054ebc47e",
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "Home/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
+            "file": "Home/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "Home/Home.md"
           }
         }
       },
@@ -148,56 +161,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a8404a33a8f252bd",
+  "active": "c0e2f8b9c4b80d33",
   "lastOpenFiles": [
     "Focus Areas/Me",
-    "Focus Areas/Work",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments/9.0 Iterators and STL Lists.png",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments/5.0 Pointers and Arrays 1.png",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments/7.0 Big O Notation and Basic Recursion.png",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments/8.0 Templated Classes & Vector Implementation.png",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments/9.0 Iterators and STL Lists-1.png",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments/5.0 Pointers and Arrays.png",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 2 - Python As A Calculator.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 4 - Using Functions and Methods.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 15 - Sets.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 7 - Tuples, Modules, Images.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 3 - Python Strings.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 16 — Dictionaries, Part 1.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 8 - Lists Part 1.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 6 - Decisions.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 5 - Python Functions.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 11 - Decisions Part 2.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 9 - While Loops.md",
-    "Focus Areas/School/fall22/CS1/Lectures/Lecture 10 - Lists Part 2.md",
-    "Focus Areas/School/fall22/CS1/Pictures/Pasted image 20221003151018.png",
-    "Focus Areas/School/fall22/CS1/Pictures/Pasted image 20220930145913.png",
-    "Focus Areas/School/fall22/CS1/Pictures/Pasted image 20220926141513.png",
-    "Focus Areas/School/fall22/CS1/Pictures/Pasted image 20221003150339.png",
-    "Focus Areas/School/fall22/CS1/Pictures/Image Gallery.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/(Week 1) Technological Politics.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/(Week 5).md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/Week 9.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/Week 6.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/(Week 3) Domestic Technology.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/Week 7.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/(Week 2) Algorithmic Politics.md",
-    "Focus Areas/School/fall22/STSO/Weekly Queries/(Week 4) Making Facts.md",
-    "Focus Areas/School/fall22/STSO/Lecture Notes/Lecture 2 - Progress.md",
-    "Focus Areas/School/fall22/STSO/Lecture Notes/Lecture 15 - Science Fiction.md",
-    "Focus Areas/School/fall22/STSO/Lecture Notes/Technological Rationality (Lecture 3).md",
-    "Focus Areas/School/spring23/BIOL/attachments/Recording 20230313140844.webm",
-    "Focus Areas/School/spring23/BIOL/attachments/Recording 20230320154258.webm",
-    "Focus Areas/School/spring23/PHIL/lectureNotes/Pre-Socratic Philosophers.md",
-    "Focus Areas/School/spring23/DS/lectureNotes/attachments",
-    "Focus Areas/School/fall22/CS1/Lectures",
-    "Focus Areas/School/fall22/CS1/Pictures",
-    "Focus Areas/School/fall22/STSO/Weekly Queries",
-    "Focus Areas/School/fall22/STSO/Lecture Notes",
-    "Focus Areas/School/spring23/BIOL/attachments",
-    "Focus Areas/School/spring23/PHIL/lectureNotes"
+    "Focus Areas",
+    "Focus Areas/Me/Readwise",
+    "Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
+    "Focus Areas/Me/Readwise/Books",
+    "Home/Focus Areas/Me/Daily Notes/2023-07-28.md",
+    "Home",
+    "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
+    "Home/Focus Areas/Me/Daily Notes/Daily Notes.md",
+    "Home/Focus Areas/Me.md",
+    "Focus Aresa/Me/Daily Notes.md",
+    "Focus Aresa",
+    "Focus Aresa/Me",
+    "Readwise/Tweets/Tweets From Marius Hauken.md",
+    "Home/Focus Areas/Me/Readwise",
+    "Home/Focus Areas/Me/Readwise/Tweets",
+    "Home/Focus Areas/Me/Readwise/Books",
+    "Templates/dailyNote.md",
+    "<% tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title, \"YYYY-MM-DD\" ) %>.md",
+    "Home/Focus Areas/Me/Daily Notes",
+    "Home/Home.md",
+    "Home/Focus Areas/School/spring23/DS/lectureNotes/attachments/9.0 Iterators and STL Lists.png",
+    "Home/Focus Areas/School/spring23/DS/lectureNotes/attachments/5.0 Pointers and Arrays 1.png",
+    "Home/Focus Areas/School/spring23/DS/lectureNotes/attachments/7.0 Big O Notation and Basic Recursion.png",
+    "Home/Focus Areas/School/spring23/DS/lectureNotes/attachments/8.0 Templated Classes & Vector Implementation.png",
+    "Home/Focus Areas/School/spring23/DS/lectureNotes/attachments/9.0 Iterators and STL Lists-1.png",
+    "Home/Focus Areas/School/spring23/DS/lectureNotes/attachments/5.0 Pointers and Arrays.png",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 2 - Python As A Calculator.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 4 - Using Functions and Methods.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 15 - Sets.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 7 - Tuples, Modules, Images.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 3 - Python Strings.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 16 — Dictionaries, Part 1.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 8 - Lists Part 1.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 6 - Decisions.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 5 - Python Functions.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 11 - Decisions Part 2.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 9 - While Loops.md",
+    "Home/Focus Areas/School/fall22/CS1/Lectures/Lecture 10 - Lists Part 2.md",
+    "Home/Focus Areas/School/fall22/CS1/Pictures/Pasted image 20221003151018.png",
+    "Home/Focus Areas/School/fall22/CS1/Pictures/Pasted image 20220930145913.png",
+    "Home/Focus Areas/School/fall22/CS1/Pictures/Pasted image 20220926141513.png",
+    "Home/Focus Areas/School/fall22/CS1/Pictures/Pasted image 20221003150339.png",
+    "Home/Focus Areas/School/fall22/CS1/Pictures/Image Gallery.md",
+    "Home/Focus Areas/School/fall22/STSO/Weekly Queries/(Week 1) Technological Politics.md",
+    "Home/Focus Areas/School/fall22/STSO/Weekly Queries/(Week 5).md"
   ]
 }
