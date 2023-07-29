@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0488d6179b0d0ca5",
+        "id": "f624d0af5349c964",
         "type": "tabs",
         "children": [
           {
-            "id": "a86c8bbd6fded2bd",
+            "id": "abf333b32faec9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/dailyNote.md",
+                "file": "Templates/weeklyNote.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/dailyNote.md",
+                "file": "Templates/weeklyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/dailyNote.md",
+                "file": "Templates/weeklyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/dailyNote.md"
+                "file": "Templates/weeklyNote.md"
               }
             }
           },
@@ -185,23 +185,24 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a86c8bbd6fded2bd",
+  "active": "abf333b32faec9c8",
   "lastOpenFiles": [
+    "Templates/dailyNote.md",
+    "images/Daily Banner.JPG",
     "images/Weekly Banner.jpg",
+    "images/Daily Banner.JPG.crdownload",
+    "Templates/weeklyNote.md",
     "images/Weekly Banner.jpg.crdownload",
     "images",
     "New folder",
-    "Templates/weeklyNote.md",
     "js/scripts/DvCharts.js",
     "js/scripts",
     "js/New folder",
     "js",
     "Home/Focus Areas/Me/Weekly Notes",
     "Home/Focus Areas/Untitled",
-    "Templates/dailyNote.md",
     "Home/Home.md",
     "Home/Focus Areas/Work/Work.md",
-    "Home/Focus Areas/Work",
     "Home/Focus Areas/School/School.md",
     "Home/Focus Areas/Me/Me.md",
     "Home/Focus Areas/School/Spring 23/Spring 23.md",
@@ -231,8 +232,6 @@
     "Notes/spring23/BIOL/attachments/Ecology Deals With Large Spatial & Temporal Scales.png",
     "Notes/spring23/BIOL/attachments/Ecology Deals With Large Spatial & Temporal Scales-1.png",
     "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases.png",
-    "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases-4.png",
-    "Notes/spring23/BIOL/attachments/2.6 New Frontiers & Emerging Infectious Diseases-3.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

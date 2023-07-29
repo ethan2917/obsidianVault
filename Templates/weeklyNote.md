@@ -1,8 +1,5 @@
 ---
-tags:
- - "#calendar/weekly/<% tp.date.now('YYYY') %>"
-
-banner: "![[<% tp.date.now('YYYY MMMM') %> Weekly Banner.jpg]]"
+banner: "![[Weekly Banner.jpg]]"
 banner_icon: 🗓️
 ---
 
@@ -112,44 +109,6 @@ TABLE WITHOUT ID
 	steps AS "👣",
 	hours-worked AS "✏️"
 FROM "Home/Focus Areas/Me/Weekly Notes"
-WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
-SORT file.name ASC
-```
-
-### Learnt Words
-```dataviewjs
-dv.table(
-	["Learnt Word", "Meaning"],
-	dv.pages('"02 Personal"')
-	.filter(p => p["Learnt Word"] && p.week.path == "<% tp.date.now("YYYY [Week] WW") %>")
-	.sort(p => dv.date(p.file.name), 'asc')
-	.flatMap(p =>
-		Array.from(
-			{
-				length: Math.floor(
-					p["Learnt Word"].length / 2
-				)
-			},
-			(_, i) => [
-				`${'**'}${p["Learnt Word"][i * 2]}${'**'}`,
-				p["Learnt Word"][(i * 2) +1]
-			]
-		)
-	)
-)
-```
-
-### Weather
-```dataview
-TABLE WITHOUT ID
-	file.link AS Day,
-	weather AS ☁️,
-	(temperature + " °C") AS 🌡️,
-	(feels-like + " °C") AS 💭,
-	wind-direction AS 🧭,
-	(wind-speed + " km h⁻¹") AS 🍃,
-	observed AS 🕓
-FROM "02 Personal/02.01 Periodic Notes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
 ```

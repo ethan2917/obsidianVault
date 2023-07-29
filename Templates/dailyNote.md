@@ -1,8 +1,5 @@
 ---
-tags:
- - "#Home/Focus Areas/Me/Daily Notes/<% tp.date.now("YYYY") %>"
-
-banner: "![[Weekly Banner.jpg]]"
+banner: "![[Daily Banner.jpg]]"
 ---
 
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
@@ -14,40 +11,33 @@ banner: "![[Weekly Banner.jpg]]"
 > - Updated:: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
 > - ID:: <% tp.date.now('YYYYMMDDHHmm') %>
 > - Week:: [[<% tp.date.now("YYYY [Week] WW") %>]]
+> [!tip] Inspo
+> ```dataviewjs
+> let quotes = dv.pages("#inspo").file.lists.filter(q => q.text.includes("#inspo"));
+> let log = ` _(${quotes.length} article(s) with #inspo )_`;
+> if (quotes.length > 0) {
+> 	let randomQuote = quotes[Math.floor(Math.random() * quotes.length)].text;
+> 	dv.paragraph(`${randomQuote}${log}`);
+> 	} 
+> 	else {
+  dv.paragraph(`No quotes found.${log}`);
+}
 
-**Table of Contents:**
-```toc
-style: number
+
+> [!example] Today's Notes
+```dataview
+table without id
+file.link as Note,
+file.folder as Folder,
+file.mtime as "Last Modified"
+FROM -"Dailies"
+where file.mtime > (date(now) - dur(12 hours))
+sort file.mtime desc
 ```
 
-___
+> [!todo] Upcoming Tasks
 
-## Memos
-- …
 
-^memo-link
 
-## Work Log
-- …
+> [!abstract] Inbox
 
-^work-link
-
-## Trackers
-### Statistics
-- Feeling:: 
-- Learnt Word:: 
-- Money Spent:: 
-- Panic:: 
-- Prayer:: 
-- Steps:: 
-- Hours Worked:: 
-
-### Weather
-- Temperature:: 
-- Feels Like:: 
-- Weather:: 
-- Wind Direction:: 
-- Wind Speed:: 
-- Observed:: 
-
-## Tasks
