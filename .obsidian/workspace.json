@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18f1e30337d18ff1",
+        "id": "65e277bd8ce9e66a",
         "type": "tabs",
         "children": [
           {
-            "id": "fea8f1d133974393",
+            "id": "536c7cd7ea139c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Notes.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,14 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "704b5bf5982df49d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "63ec8c586f3546b1",
             "type": "leaf",
             "state": {
@@ -122,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Notes.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Notes.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Notes.md"
+                "file": "Home.md"
               }
             }
           },
@@ -160,6 +152,14 @@
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bb872ed899e19ef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -174,23 +174,23 @@
     "hiddenItems": {
       "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
-      "publish:Publish changes...": true,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "audio-recorder:Start/stop recording": true,
-      "markdown-importer:Open format converter": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "fea8f1d133974393",
+  "active": "536c7cd7ea139c4d",
   "lastOpenFiles": [
-    "Periodic Notes.md",
-    "Monthly Notes.md",
-    "Focus Areas/Me.md",
     "Home.md",
+    "Periodic Notes.md",
+    "Weekly Notes.md",
+    "Focus Areas/Me.md",
+    "Monthly Notes.md",
+    "2023-W29.md",
     "Work.md",
     "Focus Areas/School.md",
     "Focus Areas/School/spring23/crashCourseInC++/Lessons/Lesson 1 Types Variables;.md",
@@ -213,8 +213,6 @@
     "Focus Areas/School/spring23/PHIL/lectureNotes/Utilitarianism as a Type of Consequentialism.md",
     "Focus Areas/School/spring23/PHIL/lectureNotes/Two Questions to Ask About Any Argument.md",
     "Focus Areas/School/spring23/PHIL/lectureNotes/Two Parts of Any Argument.md",
-    "Focus Areas/School/spring23/PHIL/lectureNotes/Trolley Problem & Ethics Settings for Autonomous Vehicles.md",
-    "Focus Areas/School/spring23/PHIL/lectureNotes/The Inevitability of Making Ethical Decisions.md",
     "Focus Areas/School/spring23/PHIL/readingNotes",
     "Focus Areas/School/spring23/PHIL/lectureNotes",
     "Focus Areas/School/spring23/PHIL",

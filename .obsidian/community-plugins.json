@@ -1,6 +1,5 @@
 [
   "obsidian-editor-shortcuts",
-  "calendar",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
   "homepage",
@@ -33,5 +32,6 @@
   "obsidian-hover-editor",
   "darlal-switcher-plus",
   "obsidian-things3-sync",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar"
 ]
