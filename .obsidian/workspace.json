@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef7efc9e9fb7321",
+        "id": "8a9839199c0252dd",
         "type": "tabs",
         "children": [
           {
-            "id": "a5881caca5771125",
+            "id": "8fae36c7ee60d682",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,14 +185,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a5881caca5771125",
+  "active": "8fae36c7ee60d682",
   "lastOpenFiles": [
+    "Home/Home.md",
     "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
     "Home/Focus Areas/Me/Readwise/Readwise.md",
     "Home/Focus Areas/Me/Me.md",
     "Home/Focus Areas/Me/Periodic Notes/Periodic Notes.md",
     "Home/Focus Areas/Me/Periodic Notes/Weekly Notes/Weekly Notes.md",
-    "Home/Home.md",
     "Templates/quickDate.md",
     "Templates/readingNotes.md",
     "Templates/table.md",
