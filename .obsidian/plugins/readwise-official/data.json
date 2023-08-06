@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9753808,
+  "lastSavedStatusID": 9874207,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -13,7 +13,8 @@
     "30592576"
   ],
   "booksIDsMap": {
-    "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576"
+    "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576",
+    "Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576"
   },
   "reimportShowConfirmation": true
 }

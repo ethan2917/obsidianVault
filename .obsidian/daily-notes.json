@@ -1,5 +1,5 @@
 {
   "folder": "Home/Focus Areas/Me/Daily Notes",
-  "autorun": true,
+  "autorun": false,
   "template": "Templates/dailyNote"
 }

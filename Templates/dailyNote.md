@@ -23,21 +23,10 @@ banner: "![[Daily Banner.jpg]]"
   dv.paragraph(`No quotes found.${log}`);
 }
 
-
-> [!example] Today's Notes
-```dataview
-table without id
-file.link as Note,
-file.folder as Folder,
-file.mtime as "Last Modified"
-FROM -"Dailies"
-where file.mtime > (date(now) - dur(12 hours))
-sort file.mtime desc
-```
-
 > [!todo] Upcoming Tasks
 
-
+- [ ] ...
+^task-link
 
 > [!abstract] Inbox
 

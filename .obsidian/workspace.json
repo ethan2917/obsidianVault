@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbd405e21d58d55",
+        "id": "8ef7efc9e9fb7321",
         "type": "tabs",
         "children": [
           {
-            "id": "eb50c1545c340bd5",
+            "id": "a5881caca5771125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/weeklyNote.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fab0cc6fe0104e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/weeklyNote.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/weeklyNote.md",
+                "file": "Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/weeklyNote.md",
+                "file": "Home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/weeklyNote.md"
+                "file": "Home/Home.md"
               }
             }
           },
@@ -198,12 +185,34 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1fab0cc6fe0104e2",
+  "active": "a5881caca5771125",
   "lastOpenFiles": [
+    "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
+    "Home/Focus Areas/Me/Readwise/Readwise.md",
+    "Home/Focus Areas/Me/Me.md",
+    "Home/Focus Areas/Me/Periodic Notes/Periodic Notes.md",
+    "Home/Focus Areas/Me/Periodic Notes/Weekly Notes/Weekly Notes.md",
+    "Home/Home.md",
+    "Templates/quickDate.md",
+    "Templates/readingNotes.md",
+    "Templates/table.md",
+    "Templates/title.md",
+    "Templates/courseHome.md",
     "Templates/dailyNote.md",
-    "Templates/weeklyNote.md",
-    "Home/Focus Areas/Me/Daily Notes/2023-07-29.md",
+    "Templates/hwOutline.md",
+    "Templates/lectureNotes.md",
+    "Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
+    "Focus Areas/Me/Readwise/Books",
+    "Focus Areas/Me/Readwise",
+    "Focus Areas/Me",
+    "Focus Areas",
+    "Home/Focus Areas/Me/Projects",
+    "Home/Focus Areas/Me/Quick Notes",
+    "Home/Focus Areas/Me/Periodic Notes/Daily Notes/Daily Notes.md",
+    "Home/Focus Areas/Me/Periodic Notes",
     "Home/Focus Areas/Me/Weekly Notes/2023-W30.md",
+    "Home/Focus Areas/Me/Daily Notes/2023-07-29.md",
+    "Templates/weeklyNote.md",
     "Home/Focus Areas/Me/Daily Notes/2023-07-28.md",
     "2023-07-23.md",
     "images/Daily Banner.JPG",
@@ -211,33 +220,11 @@
     "images/Daily Banner.JPG.crdownload",
     "images/Weekly Banner.jpg.crdownload",
     "images",
-    "New folder",
-    "js/scripts/DvCharts.js",
-    "js/scripts",
-    "js/New folder",
-    "js",
-    "Home/Focus Areas/Me/Weekly Notes",
-    "Home/Focus Areas/Untitled",
-    "Home/Home.md",
     "Home/Focus Areas/Work/Work.md",
     "Home/Focus Areas/School/School.md",
-    "Home/Focus Areas/Me/Me.md",
     "Home/Focus Areas/School/Spring 23/Spring 23.md",
     "Home/Focus Areas/School/Spring 23/PHIL/A Modern Variation on the Evil Deceiver Idea.md",
     "Home/Focus Areas/School/Fall 22/Fall 22.md",
-    "Notes/fall22/CS1/Computer Science 1.md",
-    "Notes/fall22/Fall '22 MOC.md",
-    "Home.md",
-    "Notes/spring23/Spring '23 MOC.md",
-    "Notes/spring23/PHIL/Introduction to Philosophy.md",
-    "Notes/spring23/PHIL/lectureNotes/Utilitarianism An Overview.md",
-    "Notes/spring23/BIOL/Introduction to Biology.md",
-    "Notes/spring23/DS/Data Structures.md",
-    "Notes/spring23/crashCourseInC++/Crash Course in C++.md",
-    "Notes/spring23/DS/Public, Private and Protected Inheritance.md",
-    "Notes/spring23/DS/Protected Inheritance.md",
-    "Notes/spring23/DS/Public Inheritance.md",
-    "Notes/spring23/DS/26.0 Inheritance.md",
     "Notes/spring23/DS/attachments/Multiple Inheritance.png",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",
