@@ -10,10 +10,10 @@
   "refreshBooks": false,
   "booksToRefresh": [
     "30592599",
+    "30592576",
     "30592576"
   ],
   "booksIDsMap": {
-    "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576",
     "Focus Areas/Me/Readwise/Books/Stock Market Explained.md": "30592576"
   },
   "reimportShowConfirmation": true
