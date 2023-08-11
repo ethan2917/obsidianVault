@@ -6,7 +6,6 @@
   "homepage",
   "graph-analysis",
   "obsidian-outliner",
-  "ninja-cursor",
   "obsidian-style-settings",
   "obsidian-image-gallery",
   "simple-embeds",
@@ -35,7 +34,6 @@
   "find-unlinked-files",
   "various-complements",
   "obsidian-text-format",
-  "obsidian-minimal-settings",
   "obsidian-advanced-uri",
   "obsidian-hover-editor",
   "darlal-switcher-plus",
@@ -43,5 +41,6 @@
   "obsidian-git",
   "readwise-official",
   "customjs",
-  "waypoint"
+  "waypoint",
+  "obsidian-minimal-settings"
 ]

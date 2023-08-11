@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Home.md"
+                "file": "Lecture Notes.md"
               }
             }
           },
@@ -185,12 +185,16 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d4194a905376d667",
+  "active": "b685b662b36386f5",
   "lastOpenFiles": [
+    "Home/Focus Areas/School/Spring 23/BIOL/Lecture Notes",
+    "Home/Focus Areas/School/Spring 23/BIOL/BIOL.md",
+    "Lecture Notes.md",
+    "Home/Focus Areas/School/Spring 23/BIOL/Zoonotic Diseases or Zoonosis.md",
     "Home/Home.md",
+    "Home/Focus Areas/Me/Me.md",
     "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
     "Home/Focus Areas/Me/Readwise/Readwise.md",
-    "Home/Focus Areas/Me/Me.md",
     "Home/Focus Areas/Me/Periodic Notes/Periodic Notes.md",
     "Home/Focus Areas/Me/Periodic Notes/Weekly Notes/Weekly Notes.md",
     "Templates/quickDate.md",
@@ -221,10 +225,6 @@
     "images/Weekly Banner.jpg.crdownload",
     "images",
     "Home/Focus Areas/Work/Work.md",
-    "Home/Focus Areas/School/School.md",
-    "Home/Focus Areas/School/Spring 23/Spring 23.md",
-    "Home/Focus Areas/School/Spring 23/PHIL/A Modern Variation on the Evil Deceiver Idea.md",
-    "Home/Focus Areas/School/Fall 22/Fall 22.md",
     "Notes/spring23/DS/attachments/Multiple Inheritance.png",
     "Notes/spring23/BIOL/attachments/The Whittaker Diagram.png",
     "Notes/spring23/BIOL/attachments/Overview of Levels of Biological Organization.png",

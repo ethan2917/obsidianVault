@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **BIOL**
+- **[[BIOL]]**
 	- [[-Omics (From Genomics to Next Steps)]]
 	- [[1.0 Course Overview]]
 	- [[1.1 Origins of Life and The RNA World]]
@@ -234,7 +234,6 @@
 	- [[Interspecific Competition]]
 	- [[Intertidal]]
 	- [[Intraspecific Competition]]
-	- [[Introduction To Biology]]
 	- [[Invasions Per Year]]
 	- [[Invasive Species]]
 	- [[James Webb Space Telescope (JWST)]]
@@ -246,6 +245,7 @@
 	- [[Lake George]]
 	- [[Lamarck]]
 	- [[Large Brain]]
+	- **Lecture Notes**
 	- [[Let's Talk Genes]]
 	- [[Life is an Emergent Property]]
 	- [[Life on Other Planets]]
