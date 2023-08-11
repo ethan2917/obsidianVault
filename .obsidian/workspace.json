@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Home/Focus Areas/School/Spring 23/BIOL/Introduction To Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36b43782f54d6974",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Home/Focus Areas/School/Spring 23/BIOL/Introduction To Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Home/Focus Areas/School/Spring 23/BIOL/Introduction To Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Home.md"
+                "file": "Home/Focus Areas/School/Spring 23/BIOL/Introduction To Biology.md"
               }
             }
           },
@@ -187,14 +188,17 @@
   },
   "active": "0e49678f0f4dbb64",
   "lastOpenFiles": [
+    "Home/Focus Areas/School/Spring 23/BIOL/1.0 Course Overview.md",
+    "Home/Focus Areas/School/Spring 23/BIOL/Introduction To Biology.md",
     "Home/Focus Areas/School/Spring 23/Spring 23.md",
+    "Home/Focus Areas/School/Spring 23/DS/Data Structures.md",
+    "Home/Focus Areas/School/Spring 23/PHIL/Introduction to Philosophy.md",
     "Home/Focus Areas/School/School.md",
     "Home/Home.md",
+    "Home/Focus Areas/Me/Me.md",
     "Home/Focus Areas/School/Spring 23/BIOL/1.2 What is Life.md",
     "Home/Focus Areas/School/Spring 23/BIOL/1.1 Origins of Life and The RNA World.md",
-    "Home/Focus Areas/School/Spring 23/BIOL/1.0 Course Overview.md",
     "Home/Focus Areas/School/Spring 23/BIOL/Components/Components.md",
-    "Home/Focus Areas/School/Spring 23/BIOL/BIOL.md",
     "Components.md",
     "Home/Focus Areas/School/Spring 23/BIOL/Lecture Notes/Lecture Notes.md",
     "Lecture Notes.md",
@@ -210,9 +214,6 @@
     "Home/Focus Areas/School/Spring 23/BIOL/Components/What is RNA Interference (RNAi).md",
     "Home/Focus Areas/School/Spring 23/BIOL/Components/What is Personalized Medicine.md",
     "Home/Focus Areas/School/Spring 23/BIOL/Components/What is Life.md",
-    "Home/Focus Areas/School/Spring 23/BIOL/Components/What is DNA & How Does It Work.md",
-    "Home/Focus Areas/School/Spring 23/BIOL/Components/What is Cancer.md",
-    "Home/Focus Areas/School/Spring 23/BIOL/Components/What is A Species.md",
     "Home/Focus Areas/School/Spring 23/BIOL/Components",
     "Home/Focus Areas/School/Spring 23/BIOL/New folder",
     "Home/Focus Areas/School/Spring 23/BIOL/Lecture Notes",
