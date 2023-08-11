@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9839199c0252dd",
+        "id": "f0eb1aa2c0f50aee",
         "type": "tabs",
         "children": [
           {
-            "id": "8fae36c7ee60d682",
+            "id": "d4194a905376d667",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8fae36c7ee60d682",
+  "active": "d4194a905376d667",
   "lastOpenFiles": [
     "Home/Home.md",
     "Home/Focus Areas/Me/Readwise/Books/Stock Market Explained.md",
